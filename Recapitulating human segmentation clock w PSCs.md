@@ -1,3 +1,4 @@
+[[A brief history of the segmentation clock]]
 **Main** 
 - Used iPSCs in vitro induction of PSM + derivatives to model human segmentation clock
 	- Segmentation clock= Believed to underlie the rhythmic and controlled emergence of somites, which give rise to the segmental patter of the vertebrate axial skeleton. 
