@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09547f926831706f",
+            "id": "7f9832f514a69b55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A brief history of the segmentation clock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae8ff03702b2d6d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A brief history of the segmentation clock.md",
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A brief history of the segmentation clock.md",
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A brief history of the segmentation clock.md",
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A brief history of the segmentation clock.md"
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md"
               }
             }
           }
@@ -151,11 +138,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ae8ff03702b2d6d5",
+  "active": "7f9832f514a69b55",
   "lastOpenFiles": [
+    "Mechanisms of vertebrate segmentation.md",
+    "A brief history of the segmentation clock- Olivier Pourquie.md",
     "Somite cell cycle analysis using somite-staging to measure intrinsic developmental time.md",
     "Recapitulating human segmentation clock w PSCs.md",
-    "A brief history of the segmentation clock.md",
     "Clock.md"
   ]
 }
