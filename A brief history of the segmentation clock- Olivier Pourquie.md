@@ -59,4 +59,14 @@
 - **These models were at odds with the logics of the fly segmentation cascade**
 
 **3. Discovery of the Segmentation Clock**
-- 
+- The Notch pathway is conserved in vertebrates, and has segmental patterns.
+	- Notch not part of Drosophila segmentation cascade.
+- Harvested embryos that were hybridized with *hairy* probes had different expression patterns in PSM despite nearly same number of somites
+	- Suggested expression pattern changes very fast in PSM
+	- Focused on smallest time period that can be analyzed (time of one somite formation)
+		- Still saw different expression patterns with embryos with same somite number
+		- Suggested expression was dynamic within 90 min window of somite formation
+		- Repition of patterns at each somitic cycle could be due to regular intervals
+- Splitting embryos and fixing one half and culturing remaining half led to:
+	- Observed traveling waves continued progression despite PSM being split into several fragments
+	- Demonstrated mRNA was expressed in periodic waves that travelled 
