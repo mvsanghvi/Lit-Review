@@ -69,4 +69,21 @@
 		- Repition of patterns at each somitic cycle could be due to regular intervals
 - Splitting embryos and fixing one half and culturing remaining half led to:
 	- Observed traveling waves continued progression despite PSM being split into several fragments
-	- Demonstrated mRNA was expressed in periodic waves that travelled 
+	- Demonstrated mRNA was expressed in periodic waves that travelled
+		- Called them cyclic genes
+	- **Proposed existence of molecular oscillator behind the vertbrate segmentation: The Segmentation Clock**
+- Notch- Synchronizes oscillations locally in PSM and controls rhythmic somite formation
+	- Abscence of Notch leads to loss of synchronization that becomes salt and pepper pattern. 
+	- **Vertebrate segmentation involves molecular oscillator that drives periodic Notch activity in PSM**
+- *Lfng*- Important for regular periodic organization of vertebrae
+	- KO mice resulted in severe segmentation defects
+	- No oscillation in zebrafish
+- Hes7- Hairy related gene that oscillates in PSM
+	- Expression is in part downstream of Notch
+	- Represses *Lfng* expression in PSM
+	- KO leads to severe segmentation defects.
+- Segmentation clock conserved across vertebrates
+- Lack of *Lfng* in zebrafish shows while Notch oscillation is conserved, the circuitry of different oscillators is not. 
+
+**4. Coverting Temporal Pulses to Spatial Periodicity**
+- 
