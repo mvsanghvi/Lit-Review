@@ -85,5 +85,25 @@
 - Segmentation clock conserved across vertebrates
 - Lack of *Lfng* in zebrafish shows while Notch oscillation is conserved, the circuitry of different oscillators is not. 
 
-**4. Coverting Temporal Pulses to Spatial Periodicity**
-- 
+**4. Converting Temporal Pulses to Spatial Periodicity**
+- What ensures the sequential production of somites?
+- FGF/ERK signaling gradient (from posterior to anterior) in the PSM is key to the sequence
+	- Increasing/decreasing FGF signaling can respectively decrease/increase somite size
+	- So FGF gradient must define threshold in PSM at which cells become competent to respond to the clock signal.
+- FGF gradient is implemented when only the tail bud precursors of PSM transcribe gene coding for FGF ligand FGF8.
+	- Descendants of these cells stop transcribing when they are in the PSM.
+		- However the mRNA is stable and remains present despite not being transcribed anymore
+		- Combo of embryo elongation (resulting in constant generation of new posterior PSM cells) and progressive decay of mRNA leads to generation of dynamic mRNA gradient that travels posteriorly with the elongation
+		- The gradients acts as a timer in PSM cells, controlling when they differentiate.
+			- Hence the autonomy of segmentation of the PSM
+- FGF gradient plays key role in controlling posterior PSM cell motility, which is essential for elongation
+- Anterior to posterior Retinoic acid (RA) from somatic region antagonizes FGF gradient
+	- RA gradient is responsible for precise positioning the determination front during formation of trunk somites
+		- Lack of RA leads to smaller somites due to FGF gain of function shifting anteriorly the determination front
+- Wnt signaling is similar to FGF in controlling somite size
+	- Suggests it also plays role in specification of determination front
+- pH levels chemical environment
+	- High pH levels favors non-enzymatic beta-catenin acetylation
+		- Promotes Wnt signaling and PSM specification
+			- Therefore, Wnt and FGF gradients cross-regulate each other through glycolysis
+- Periodic activation of FGF and Wnt responses in the PSm suggest more complex models of cross-talk between the clock and wavefront
