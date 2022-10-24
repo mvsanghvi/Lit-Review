@@ -1,0 +1,41 @@
+**Periods of Human Embryology**
+- Period of the egg= Time of fertilization- formation and implantation of blastocyst
+	`Egg/embryo refers to pre-fertilization
+	- Conceptus= Product of conception/fertilization
+	- Zygote= Fertilization-pre multicellular egg
+	- Morula= Zygote cleaves by mitosis, forming cluster of multiple cells/blastomeres (32-cell stage)
+	- Blastocyst= Hollow ball of cells derived from morula by forming large, fluid-filled central cavity (i.e. blastocoel)
+- Period of the embryo- Ends after 8 week gestation
+	- No agreement on beginning
+		- Could be from immediately after fertilization to 3 days post fertilization
+- Period of the fetus- 9th week of gestation-birth
+	- Development still continues after birth, though
+**Phases of Human Embryology**
+- Gametogenesis- In the gonads (male & female) and involves meiosis to produce haploid cells
+	- Female- Oogenesis= Production of eggs/oocytes
+	- Males- Spermatogenesis= Produce sperm/spermatozoa
+- Fertilization
+	- One of the main effects- Restore diploid # of chromosomes
+	- Develops the zygote (unique genome from parents)
+	- Another main effect= Activates the egg
+- Cleavage
+	- Different from cell division bc daughter cells 1/2 size of parents
+		- Increase nucleocytoplasmic ratio (Nucleus volume: cytoplasm volume)
+	- Process repeats itself to form the morula
+		- Cells of the morula= blastomeres
+- Gastrulation
+	- Form primitive tissue layers (i.e. germ layers)
+		- Mesoderm
+		- Ectoderm
+		- Endoderm
+	- form 3 major axes
+		- Dorsal/Ventral (posterior/anterior)
+		- Cranial/Caudal (superior/inferior)
+		- Medial/lateral (midline of body)
+	- Cells change positions & extensive movement relative to each other
+		- Allows contact with new neighbors
+			- Allows new info to be passed between cells, changing the cells' fates
+- Formation of body plan (morphogenesis)
+	- Involves extensive folding of the embryo, called body folding, to go from flat disc to 3D
+		- Except the umbilical cord
+- Organogenesis- Organ rudiments grow & differentiate

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b1654eb6ef43c7",
+        "id": "22a1fae869186927",
         "type": "tabs",
         "children": [
           {
-            "id": "7f9832f514a69b55",
+            "id": "23ef8a4349802ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
+                "file": "Week 1 ~ Gametogenesis+Fertilzation.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
+                "file": "Week 1 ~ Gametogenesis+Fertilzation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
+                "file": "Week 1 ~ Gametogenesis+Fertilzation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,23 +126,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A brief history of the segmentation clock- Olivier Pourquie.md"
+                "file": "Week 1 ~ Gametogenesis+Fertilzation.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7f9832f514a69b55",
+  "active": "23ef8a4349802ac1",
   "lastOpenFiles": [
-    "Mechanisms of vertebrate segmentation.md",
+    "Week 0-8 ~ Embryology Overview.md",
+    "Week 3 ~ Trilaminar & Body Axes.md",
+    "Week 2 ~ Becoming Bilaminar.md",
+    "Week 1 ~ Gametogenesis+Fertilzation.md",
     "A brief history of the segmentation clock- Olivier Pourquie.md",
+    "Mechanisms of vertebrate segmentation.md",
     "Somite cell cycle analysis using somite-staging to measure intrinsic developmental time.md",
     "Recapitulating human segmentation clock w PSCs.md",
     "Clock.md"
