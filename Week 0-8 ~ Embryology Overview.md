@@ -1,4 +1,4 @@
-<u>**Periods of Human Embryology**</u>
+<u>PERIODS OF HUMAN EMBRYOLOGY</u>
 1. Period of the egg= Time of fertilization- formation and implantation of blastocyst
 	- * Egg/embryo refers to pre-fertilization
 	a. Conceptus= Product of conception/fertilization
@@ -10,7 +10,7 @@
 		- Could be from immediately after fertilization to 3 days post fertilization
 3. Period of the fetus- 9th week of gestation-birth
 	- Development still continues after birth, though
-<u>**Phases of Human Embryology**</u>
+<u>PHASES OF HUMAN EMBRYOLOGY</u>
 1. Gametogenesis- In the gonads (male & female) and involves meiosis to produce haploid cells
 	a. Female- Oogenesis= Production of eggs/oocytes
 	b. Males- Spermatogenesis= Produce sperm/spermatozoa
