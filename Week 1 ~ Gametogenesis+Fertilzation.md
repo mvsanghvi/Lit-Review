@@ -69,8 +69,37 @@
 		- As many as 300 million spermatozoa are released, but only a few hundred can navigate all the way past the oviduct. 
 			- Sperm survive and retain their capacity to fertilize for 1 to 3 days
 5. <u>OOGENESIS</u> 
-6. <u>OVULATION</u> 
-7. <u>MENSTRUAL CYCLE</u> 
-8. <u>FERTILIZATION</u> 
-9. <u>CLEAVAGE</u> 
-10. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
+	**Primary Oocytes Form in Ovaries By 5 Months of Fetal Life**
+	- Week 12-Oogonia in genital ridges enter first meiotic prophase, but then switch to dormancy. 
+	- **Germinal vesicle**- When dormant 1° oocytes nucleus, which contain the partially condensed prophase chromosomes, becomes very large and watery 
+		- This state is believed to protect the oocyte DNA during long period of meiotic arrest
+	- **Primordial Follicle**- Made up by capsule of epithelial follicle cells derived from somatic support cells AND its enclosed 1° oocyte.
+		- By 5 months, when all oogonia have initiated the first meiotic division, have a peak of 7 million primordial follicles. 
+			- Most subsequently degenerate 
+				- Birth: 700,000- 2 mill
+				- Puberty: 400,000
+	**Hormones of Female Cycle Control Folliculogenesis, Ovulation, and Condition of Uterus**
+	- From menarche (puberty) to menopause, the menstrual cycle is controlled by monthly cycles of the secretion of hypothalamic, pituitary, and ovarian hormones
+		- Results in the monthly production of female gamete and uterus primed to receive fertilized embryo
+	- On day 5 of the cycle, increase in secretion by the hypothalamus of the brain and GnRH (gonadotropin-releasing hormone) stimulates the pituitary gland to increase the secretion of two gonadtropins (gonadtropic hormones)
+		- Rising levels of these regulate later phases of folliculogenesis and proliferative phase in the uterine endometrium
+	**About 5 to 12 1° Follicles Resume Development Each Month**
+	- **1° follicles**- When the follicular epithelium of a small group of primordial follicles thickens, converting the single-layered follicular epithelium from a layer of squamous cells to cuboidal cells (independent of pituitary gonadotropins and before a particular cycle)
+	- **Zona Pellucida**- a thin layer of acellular material secreted by follicles and oocyte together on the oocyte surface
+		- Penetrated by thin extension of follicle cells connected to the oocyte cell membrane by intercellular junctions, which remains intact until just before ovulation
+			- Believed to convey both developmental signals and metabolic support to the oocyte
+	- **Growing Follicles**- When the follicular epithelium of 5 to 12 of these 1° follicles proliferate to form multilayered capsule of follicle cells around the oocyte
+		- Some growing follicles stop developing and degenerate
+		- Some continue to enlarge in response to rising levels of FSH
+			- Take up fluid and develop the **antrum** (central fluid-filled cavity)
+			- Called **antral** or **vesicular follicles**
+			- Never vascularize
+		- Connective tissue of ovarian stroma differentiate into two layers:
+			- **Theca interna**- Inner layer
+			- **Theca externa**- Outer layer
+			- Both layers become vascularized
+1. <u>OVULATION</u> 
+2. <u>MENSTRUAL CYCLE</u> 
+3. <u>FERTILIZATION</u> 
+4. <u>CLEAVAGE</u> 
+5. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
