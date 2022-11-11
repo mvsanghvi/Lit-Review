@@ -98,6 +98,17 @@
 			- **Theca interna**- Inner layer
 			- **Theca externa**- Outer layer
 			- Both layers become vascularized
+	**Single Follicle Becomes Dominant and Remainder Degenerate**
+	- The follicle that gains primacy continues to enlarge by absorbing fluid, while the remainder of recruited follicles undergo atresia (degenerate)
+	- **Cumulus oophorus**- Small mass of follicle cells surrounding the oocyte
+	- **Membrana granulosa**- Layer of follicle cells that lines the antral cavity and underlies the basement membrane of the follicle
+	- Oocytes and cumulus oophorus increasingly projects into expanding antrum into the membrana granulosa
+		- Large, swollen follicle is referred to as a mature vesicular follicle/mature Graafian follicle.
+		- Oocyte still has not resumed meiosis
+	**Why Is Folliculogenesis Selectively Stimulated in Only a Few Follicles Each Month**
+	- It is unknown why only 5 to 12 follicles commence folliculogenesis and even of those few, only one doesn't degenerate. 
+		1. Could be because the follicles become progressively more sensitive to FSH stimulation as they advance in development. 
+		2. Selection could be regulated by complex feedback system btwn pituitary and ovarian hormones/growth factors. 
 1. <u>OVULATION</u> 
 2. <u>MENSTRUAL CYCLE</u> 
 3. <u>FERTILIZATION</u> 
