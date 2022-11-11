@@ -109,8 +109,16 @@
 	- It is unknown why only 5 to 12 follicles commence folliculogenesis and even of those few, only one doesn't degenerate. 
 		1. Could be because the follicles become progressively more sensitive to FSH stimulation as they advance in development. 
 		2. Selection could be regulated by complex feedback system btwn pituitary and ovarian hormones/growth factors. 
-1. <u>OVULATION</u> 
-2. <u>MENSTRUAL CYCLE</u> 
-3. <u>FERTILIZATION</u> 
-4. <u>CLEAVAGE</u> 
-5. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
+5. <u>OVULATION</u> 
+	**Resumption of Meiosis and Ovulation Are Stimulated By Ovulatory Surge in FSH and LH**
+	- 
+	**Cumulus Oorphorus Expands in Response to Ovulatory Surge**
+	- 
+	**Ovulation Depends on Breakdown of Follicle Wall**
+	- 
+	**Ruptured Follicle Forms Endocrine Corpus Luteum**
+	- 
+6. <u>MENSTRUAL CYCLE</u> 
+7. <u>FERTILIZATION</u> 
+8. <u>CLEAVAGE</u> 
+9. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
