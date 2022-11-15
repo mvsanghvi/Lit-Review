@@ -112,8 +112,18 @@
 5. <u>OVULATION</u> 
 	**Resumption of Meiosis and Ovulation Are Stimulated By Ovulatory Surge in FSH and LH**
 	- Ovulatory surge, where FSH and LH levels rise very sharply by day 13/14, stimulates the 1° oocyte of remaining mature Graafian follicle to resume meiosis
-	**Cumulus Oorphorus Expands in Response to Ovulatory Surge**
-	- 
+		- 15 hours post induction of surge: Responsible is visible as membrane of swollen nucleus of the oocyte breaks down
+		- 20 hours post: Chromosomes lined up in metaphase and cell division to form 2° oocyte and 1st polar body follows
+			- 2° oocyte begins 2nd meiotic division promptly but then arrested at 2nd metaphase by 3 hours pre ovulation
+	**Cumulus Oophorus Expands in Response to Ovulatory Surge**
+	- Cumulus cells surrounding oocyte lose cell-cell connections and disaggregate as germinal vesicle breaks down
+		- The oocyte detaches along with mass of loose cumulus cells into the antral cavity
+			- Cumulus cell mass expands several fold after they secrete an abundant extracellular matrix made of mainly hyaluronic acid.
+				- May play a role in several process
+					a) meiotic progress and ovulation
+					b) Transport of the oocyte in the oviduct
+					c) fertilization
+					d) early development of the zygote
 	**Ovulation Depends on Breakdown of Follicle Wall**
 	- 
 	**Ruptured Follicle Forms Endocrine Corpus Luteum**
