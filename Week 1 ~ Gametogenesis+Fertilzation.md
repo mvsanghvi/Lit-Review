@@ -84,11 +84,11 @@
 	- On day 5 of the cycle, increase in secretion by the hypothalamus of the brain and GnRH (gonadotropin-releasing hormone) stimulates the pituitary gland to increase the secretion of two gonadtropins (gonadtropic hormones)
 		- Rising levels of these regulate later phases of folliculogenesis and proliferative phase in the uterine endometrium
 	**About 5 to 12 1° Follicles Resume Development Each Month**
-	- **1° follicles**- When the follicular epithelium of a small group of primordial follicles thickens, converting the single-layered follicular epithelium from a layer of squamous cells to cuboidal cells (independent of pituitary gonadotropins and before a particular cycle)
-	- **Zona Pellucida**- a thin layer of acellular material secreted by follicles and oocyte together on the oocyte surface
+	- <u>1° follicles</u>- When the follicular epithelium of a small group of primordial follicles thickens, converting the single-layered follicular epithelium from a layer of squamous cells to cuboidal cells (independent of pituitary gonadotropins and before a particular cycle)
+	- <u>Zona Pellucida</u>- a thin layer of acellular material secreted by follicles and oocyte together on the oocyte surface
 		- Penetrated by thin extension of follicle cells connected to the oocyte cell membrane by intercellular junctions, which remains intact until just before ovulation
 			- Believed to convey both developmental signals and metabolic support to the oocyte
-	- **Growing Follicles**- When the follicular epithelium of 5 to 12 of these 1° follicles proliferate to form multilayered capsule of follicle cells around the oocyte
+	- <u>Growing Follicles</u>- When the follicular epithelium of 5 to 12 of these 1° follicles proliferate to form multilayered capsule of follicle cells around the oocyte
 		- Some growing follicles stop developing and degenerate
 		- Some continue to enlarge in response to rising levels of FSH
 			- Take up fluid and develop the **antrum** (central fluid-filled cavity)
@@ -100,8 +100,8 @@
 			- Both layers become vascularized
 	**Single Follicle Becomes Dominant and Remainder Degenerate**
 	- The follicle that gains primacy continues to enlarge by absorbing fluid, while the remainder of recruited follicles undergo atresia (degenerate)
-	- **Cumulus oophorus**- Small mass of follicle cells surrounding the oocyte
-	- **Membrana granulosa**- Layer of follicle cells that lines the antral cavity and underlies the basement membrane of the follicle
+	- <u>Cumulus oophorus</u>- Small mass of follicle cells surrounding the oocyte
+	- <u>Membrana granulosa</u>- Layer of follicle cells that lines the antral cavity and underlies the basement membrane of the follicle
 	- Oocytes and cumulus oophorus increasingly projects into expanding antrum into the membrana granulosa
 		- Large, swollen follicle is referred to as a mature vesicular follicle/mature Graafian follicle.
 		- Oocyte still has not resumed meiosis
@@ -119,16 +119,42 @@
 	- Cumulus cells surrounding oocyte lose cell-cell connections and disaggregate as germinal vesicle breaks down
 		- The oocyte detaches along with mass of loose cumulus cells into the antral cavity
 			- Cumulus cell mass expands several fold after they secrete an abundant extracellular matrix made of mainly hyaluronic acid.
-				- May play a role in several process
+				- May play a role in several process:
 					a) meiotic progress and ovulation
 					b) Transport of the oocyte in the oviduct
 					c) fertilization
 					d) early development of the zygote
 	**Ovulation Depends on Breakdown of Follicle Wall**
-	- 
+	- <u>Ovulation</u>- The expulsion of the 2° oocyte from the follicle
+	- Has been likened to an inflammatory response
+		- Cascade of events is believe to be initiated by histamine and prostaglandins
+	- Pre Ovulation: 
+		1. Few hours after post ovulatory surge, the follicle is more vascularized, pink, and edematous (swollen) compared to inactive follicles
+		2. Follicle is displaces to surface of ovary and forms a bulge.
+		3. As ovulation approaches, wall of follicles thins
+			- What's left is small, nipple-shaped protrusions called the <u>stigma</u>
+		4. Combo of tension and release of collagen-degrading enzymes cause follicle to rupture in a non-explosive way
+			- Tension produced by smooth muscle cells in the follicle wall
+		5. Oocyte (plus a lot of cumulus cells attached to extracellular matrix) is slowly extruded onto surface of the ovary, 38 hours post ovulatory surge. 
+	- Sticky mass formed by oocyte-cumulus is scraped off ovary surface by oviduct's fringed mouth 
+	- Oocyte-cumulus complex moves to oviduct's ampulla by synchronized cilia on oviduct wall
+		- Oocyte remains viable for fertilization for 24 hours here before losing capability
 	**Ruptured Follicle Forms Endocrine Corpus Luteum**
-	- 
-6. <u>MENSTRUAL CYCLE</u> 
-7. <u>FERTILIZATION</u> 
-8. <u>CLEAVAGE</u> 
-9. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
+	- Post ovulation
+	- Membrane granulosa cells of follicular wall proliferate and give rise to luteal cells of corpus luteum 
+		- <u>Corpus luteum</u>- Endocrine structure that secretes steroid hormones to maintain uterine endometrium in a condition where it's ready to receive embryo
+		- If the embryo does not implant, corpus luteum degenerates 14 days later
+			- Is converted into scar-like structure= <u>corpus albicans</u>
+6. <u>MENSTRUAL CYCLE</u>
+	1. Day 5 of cycle: Thecal and follicle cells of responding follicles secrete estrogen (steroid)
+		- Estrogen causes the endometrial lining to proliferate and undergo remodeling (D5-14)
+	2. Post ovulation, thecal cells continue to secrete estrogen
+	3. Luteal cells differentiated from remaining follicle cells secrete progesterone
+		- Progesterone stimulates uterine endometrial to thicken and form convoluted glands + vascularize 
+		- Secretory phase lasts 13 days if no embryo implants
+	4. Corpus luteum shrinks and progesterone levels fall
+	5. Thickened endometrial degenerates and sloughs off, aka menstrual phase
+		- Menstrual phase (4-5 days) is considered start of next cycle. 
+1. <u>FERTILIZATION</u> 
+2. <u>CLEAVAGE</u> 
+3. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
