@@ -111,7 +111,7 @@
 		2. Selection could be regulated by complex feedback system btwn pituitary and ovarian hormones/growth factors. 
 5. <u>OVULATION</u> 
 	**Resumption of Meiosis and Ovulation Are Stimulated By Ovulatory Surge in FSH and LH**
-	- 
+	- Ovulatory surge, where FSH and LH levels rise very sharply by day 13/14, stimulates the 1° oocyte of remaining mature Graafian follicle to resume meiosis
 	**Cumulus Oorphorus Expands in Response to Ovulatory Surge**
 	- 
 	**Ovulation Depends on Breakdown of Follicle Wall**
