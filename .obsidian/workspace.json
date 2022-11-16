@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22a1fae869186927",
+        "id": "8b5b26a920d7c9ae",
         "type": "tabs",
         "children": [
           {
-            "id": "82bcf6a055aa678d",
+            "id": "2835fe5523f717df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "216cc705cebc4c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25 Years of the Segmentation Clock Gene.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 ~ Gametogenesis+Fertilzation.md",
+                "file": "25 Years of the Segmentation Clock Gene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 ~ Gametogenesis+Fertilzation.md",
+                "file": "25 Years of the Segmentation Clock Gene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 ~ Gametogenesis+Fertilzation.md"
+                "file": "25 Years of the Segmentation Clock Gene.md"
               }
             }
           }
@@ -134,19 +147,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
-  "active": "82bcf6a055aa678d",
+  "active": "216cc705cebc4c48",
   "lastOpenFiles": [
+    "A brief history of the segmentation clock- Olivier Pourquie.md",
+    "25 Years of the Segmentation Clock Gene.md",
+    "Mechanisms of vertebrate segmentation.md",
+    "Recapitulating human segmentation clock w PSCs.md",
+    "Week 1 ~ Gametogenesis+Fertilzation.md",
     "Week 2 ~ Becoming Bilaminar.md",
     "Week 4 ~ Forming the Embryo.md",
     "Week 3 ~ Trilaminar & Body Axes.md",
     "Week 5 ~ Morphogenesis + Dysmorphogenesis.md",
-    "Week 1 ~ Gametogenesis+Fertilzation.md",
-    "Week 0-8 ~ Embryology Overview.md",
-    "Stem Cell Zoo.md",
-    "Recapitulating human segmentation clock w PSCs.md",
-    "PSM.md",
-    "Mechanisms of vertebrate segmentation.md"
+    "Week 0-8 ~ Embryology Overview.md"
   ]
 }
