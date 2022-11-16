@@ -11,8 +11,12 @@
             "id": "216cc705cebc4c48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Embryology+Somitogenesis/Week 1 ~ Gametogenesis+Fertilzation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embryology+Somitogenesis/Week 1 ~ Gametogenesis+Fertilzation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embryology+Somitogenesis/Week 1 ~ Gametogenesis+Fertilzation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embryology+Somitogenesis/Week 1 ~ Gametogenesis+Fertilzation.md"
+              }
             }
           }
         ],

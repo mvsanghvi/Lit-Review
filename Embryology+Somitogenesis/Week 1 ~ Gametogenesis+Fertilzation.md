@@ -180,11 +180,26 @@
 	1. At 8 cell stage- blastomeres flatten and develop inside-out polarity that maximizes cell-cell contact with adjacent blastomeres, which were previously round and loosely adherent
 	2. <u>Compaction</u>- Reorganization of blastomeres where outer surface is convex and inner surfaces are concave and requires change in blastomere cytoskeleton
 	3. Blastomeres segregate, either to center of morula or outside
-		- Center=<u>Inner cell mass</u>
+		- Center=<u>Inner cell mass</u> (icm)
 			- Aka <u>embryoblast</u> bc gives rise to embryo proper
 		- Outside= <u>Trophoblast</u>
 			- Primary source of fetal component of placenta
 	**Morula Develops Fluid-Filled Cavity and Is Transformed Into Blastocyst**
-	- 
+	- Development Day 4: The morula begins to absorb fluid at 30 cell stage
+		1. Trophoblast, while differentiating, assembles into tightly adherent epithelium due to deposit of E-cadherin on later cell surfaces
+			- E-cadherin deposition also leads to formation of intercellular junctions:
+				a. tight junctions
+				b. gap junctions
+				c. adherens junctions
+				d. desmosomes
+		2. Forming trophoblast cells express basally polarized membrane Na/K+ ATPase, which allows them to transport and regulate exchange of metabolites between inside and outside of morula.
+			- Inside of morula= Toward icm
+			- Outside of morula= Maternal environment of oviduct
+		3. Na/K pumps sodium into morula interior with water following bc osmosis
+			- Becomes blastocoelic fluid
+		4. As hydrostatic pressure increases, a large cavity (<u>blastocoel/blastocyst cavity</u>) forms
+		5. <u>Blastocyst</u>- Forms once embryoblast cells (icm) form compact mass on one side of blastocoel and trophoblast organizes thin, single-layered epithelium
+			a. <u>Embryonic pole</u>- Side with icm
+			b. <u>Abembryonic pole</u>- Opposite side of icm
 	
 8. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
