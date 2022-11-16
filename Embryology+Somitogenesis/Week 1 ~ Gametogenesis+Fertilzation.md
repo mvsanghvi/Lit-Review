@@ -200,6 +200,9 @@
 		4. As hydrostatic pressure increases, a large cavity (<u>blastocoel/blastocyst cavity</u>) forms
 		5. <u>Blastocyst</u>- Forms once embryoblast cells (icm) form compact mass on one side of blastocoel and trophoblast organizes thin, single-layered epithelium
 			a. <u>Embryonic pole</u>- Side with icm
-			b. <u>Abembryonic pole</u>- Opposite side of icm
-	
+			b. <u>Abembryonic pole</u>- Opposite side of icm	
 8. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
+	**Blastocyst Hatches From Zona Pellucida Before Implanting**
+	- 
+	**Implantation in Abnormal Site Results in Ectopic Pregnancy**
+	- 
