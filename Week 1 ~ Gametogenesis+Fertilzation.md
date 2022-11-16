@@ -155,6 +155,24 @@
 	4. Corpus luteum shrinks and progesterone levels fall
 	5. Thickened endometrial degenerates and sloughs off, aka menstrual phase
 		- Menstrual phase (4-5 days) is considered start of next cycle. 
-1. <u>FERTILIZATION</u> 
-2. <u>CLEAVAGE</u> 
-3. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
+6. <u>FERTILIZATION</u> 
+	1. Spermatozoa become hypermobile in the vagina's acidic environment and ascend toward the ampulla of the oviduct
+	2. Surround ovulated oocyte in ampulla and force their way through the cumulus mass
+		- Ovulated follicle likely contains an unknown sperm chemotropic factor that attracts only capacitated sperm by directed swimming to the egg
+	3. 
+7. <u>CLEAVAGE</u> 
+	**Cleavage Subdivides Zygote Without Increasing Its Size**
+	- <u>Cleavage</u>- When the zygote undergoes rapid mitotic cell division.
+		- Occurs 24 hours post fertilization
+		- No cell growth
+		- <u>Blastomeres</u>- Smaller daughter cells that the zygote subdivides into during cleavage
+		- 1st cleavage- Zygote --> 2 blastomeres
+		- 2nd cleavage- 4 blastomeres (40 hours)
+		- 3 days- 6 to 12 cells
+		- 4 days- 16 to 32 cells (<u>morula</u> at 32 blastomeres)
+	- Embryo does not increase in size and remains enclosed in zona pellucida
+	**Segregation of Blastomeres Into Embryoblast and Trophoblast Precursors**
+	- 
+	**Morula Develops Fluid-Filled Cavity and Is Transformed Into Blastocyst**
+	
+8. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>

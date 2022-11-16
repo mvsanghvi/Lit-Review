@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2835fe5523f717df",
+            "id": "216cc705cebc4c48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "216cc705cebc4c48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "25 Years of the Segmentation Clock Gene.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25 Years of the Segmentation Clock Gene.md",
+                "file": "Week 1 ~ Gametogenesis+Fertilzation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25 Years of the Segmentation Clock Gene.md",
+                "file": "Week 1 ~ Gametogenesis+Fertilzation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25 Years of the Segmentation Clock Gene.md"
+                "file": "Week 1 ~ Gametogenesis+Fertilzation.md"
               }
             }
           }
@@ -152,15 +139,15 @@
   },
   "active": "216cc705cebc4c48",
   "lastOpenFiles": [
-    "A brief history of the segmentation clock- Olivier Pourquie.md",
+    "Week 0-8 ~ Embryology Overview.md",
     "25 Years of the Segmentation Clock Gene.md",
+    "A brief history of the segmentation clock- Olivier Pourquie.md",
     "Mechanisms of vertebrate segmentation.md",
     "Recapitulating human segmentation clock w PSCs.md",
     "Week 1 ~ Gametogenesis+Fertilzation.md",
     "Week 2 ~ Becoming Bilaminar.md",
     "Week 4 ~ Forming the Embryo.md",
     "Week 3 ~ Trilaminar & Body Axes.md",
-    "Week 5 ~ Morphogenesis + Dysmorphogenesis.md",
-    "Week 0-8 ~ Embryology Overview.md"
+    "Week 5 ~ Morphogenesis + Dysmorphogenesis.md"
   ]
 }
