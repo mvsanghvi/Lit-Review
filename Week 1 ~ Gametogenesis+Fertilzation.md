@@ -172,7 +172,19 @@
 		- 4 days- 16 to 32 cells (<u>morula</u> at 32 blastomeres)
 	- Embryo does not increase in size and remains enclosed in zona pellucida
 	**Segregation of Blastomeres Into Embryoblast and Trophoblast Precursors**
-	- 
+	- Cells of morula give rise to 
+		1. embryo proper 
+		2. extraembryonic membranes
+		3. Placenta + related structures 
+	- Cells segregate during cleavage depending on path they will follow
+	1. At 8 cell stage- blastomeres flatten and develop inside-out polarity that maximizes cell-cell contact with adjacent blastomeres, which were previously round and loosely adherent
+	2. <u>Compaction</u>- Reorganization of blastomeres where outer surface is convex and inner surfaces are concave and requires change in blastomere cytoskeleton
+	3. Blastomeres segregate, either to center of morula or outside
+		- Center=<u>Inner cell mass</u>
+			- Aka <u>embryoblast</u> bc gives rise to embryo proper
+		- Outside= <u>Trophoblast</u>
+			- Primary source of fetal component of placenta
 	**Morula Develops Fluid-Filled Cavity and Is Transformed Into Blastocyst**
+	- 
 	
 8. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
