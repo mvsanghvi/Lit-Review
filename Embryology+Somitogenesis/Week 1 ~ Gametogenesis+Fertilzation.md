@@ -203,6 +203,11 @@
 			b. <u>Abembryonic pole</u>- Opposite side of icm	
 8. <u>END OF FIRST WEEK: INITIATING IMPLANTATION</u>
 	**Blastocyst Hatches From Zona Pellucida Before Implanting**
-	- 
+	1. Day 3-4 of development: The morula reaches the uterus
+	2. Day 5: The blastocyst bores a hole into the zona pellucida and squeezes out
+		- Blastocyst is naked and can directly interact with the endometrium
+	3. The hatched blastocyst becomes tightly adherent to the uterine lining
+	4. <u>Decidual reaction</u>- Progesterone is secreted by the corpous luteum by <u>decidual cells</u> when adjacent cells in the endometrial stroma sense the blastocyst
+	5. Endometrial glands in the area 
 	**Implantation in Abnormal Site Results in Ectopic Pregnancy**
 	- 
