@@ -210,4 +210,13 @@
 	4. <u>Decidual reaction</u>- Progesterone is secreted by the corpous luteum by <u>decidual cells</u> when adjacent cells in the endometrial stroma sense the blastocyst
 	5. Endometrial glands in the area 
 	**Implantation in Abnormal Site Results in Ectopic Pregnancy**
-	- 
+	- Blastocyst can accidentally implant on:
+		- Peritoneal cavity
+		- Surface of ovary
+		- Within oviduct
+		- Other abnormal sites in uterus
+	- Response is increased vascularity and other supportive changes to allow the blastocyst to survive
+	- Called ectopic pregnancy
+		- Endangers mother's life because blood vessels that form are apt to rupture as a result of embryo/placental growth.
+		- Symptoms include abdominal pain and/or vaginal bleeding
+		- Drug (methyltrexate) or surgical intervention is neccessary to interupt the pregnancy 
