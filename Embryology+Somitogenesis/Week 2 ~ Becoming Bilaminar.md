@@ -1,6 +1,8 @@
 [[Week 0-8 ~ Embryology Overview]]
 [[Week 1 ~ Gametogenesis+Fertilzation]]
 
+Week 2 is the "rule of twos" week
+
 1. <u>BECOMING FULLY IMPLANTED</u>
 2. <u>EMBRYOBLAST REORGANIZES INTO EPIBLAST AND HYPOBLAST</u>
 3. <u>DEVELOPMENT OF AMNIOTIC CAVITY</u>
