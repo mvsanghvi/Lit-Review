@@ -16,6 +16,13 @@ Week 2 is the "rule of twos" week
 	- Day 9: Syncytiotrophoblast blankets entire blastocyst except for abembryonic pole region
 	- Coagulation plug of acellular material seals small hole where blastocyst implanted
 2. <u>EMBRYOBLAST REORGANIZES INTO EPIBLAST AND HYPOBLAST</u>
-3. <u>DEVELOPMENT OF AMNIOTIC CAVITY</u>
-4. <u>DEVELOPMENT OF YOLK SAC AND CHORIONIC CAVITY</u>
-5. <u>UTEROPLACENTAL CIRCULATORY SYSTEM BEGINS TO DEVELOP DURING THE SECOND WEEK</u>
+	- Pre-implantation, embryoblast differentiates into 2 epithelial layers
+	- Day 8: Embryo consists of:
+		1. <u>Epiblast</u>- Distinct external/upper layer of columnar cells
+		2. <u>Hypoblast/Primitive endoderm</u>- Internal/lower lever of cuboidal cells
+	- Extracellular basement membrane is laid down between the two layers
+		- The two-layerd embryoblast= <u>Bilaminar embryonic disc</u>/<u>Bilaminar blastoderm</u>
+	- With formation of the disc, define the primitive <u>dorsal-ventral axis</u>
+1. <u>DEVELOPMENT OF AMNIOTIC CAVITY</u>
+2. <u>DEVELOPMENT OF YOLK SAC AND CHORIONIC CAVITY</u>
+3. <u>UTEROPLACENTAL CIRCULATORY SYSTEM BEGINS TO DEVELOP DURING THE SECOND WEEK</u>
