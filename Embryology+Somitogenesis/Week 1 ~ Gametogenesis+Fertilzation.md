@@ -159,7 +159,27 @@
 	1. Spermatozoa become hypermobile in the vagina's acidic environment and ascend toward the ampulla of the oviduct
 	2. Surround ovulated oocyte in ampulla and force their way through the cumulus mass
 		- Ovulated follicle likely contains an unknown sperm chemotropic factor that attracts only capacitated sperm by directed swimming to the egg
-	3. 
+	3. Spermatozoon binds to oocyte after reaching the zona pellucida surrounding it
+		-  Binds in species-specific interaction with glycoprotien sperm receptor moelcule in zona ZP2
+	4. Acrosomes is induced to release degradative enzymes
+		- Spermatozoon can now successfully penetrate the zona pellucida and reach the surface of the oocyte
+		- Sperm-specific binding protein IZUMO1 is exposed
+			- A member of the immunoglobulin superfamily and likely an adhesion molecule, named after the Japanese shrine to marriage
+	5. Cell membranes of the oocyte and spermatozoon fuse through binding of IZUMO1 and the egg-specific protein JUNO
+		- A folate receptor named after the Roman goddess of love and marriage
+	6. Fusion immediately causes two events:
+		1. Formation of calcium wave that radiates over the surface of the egg once sperm contact occurs
+		2. Thousands of cortical granules (located just under the oocyte membrane) are released into the perivitelline space (between the oocyte and zona pellucida)
+			- Both events alter the sperm receptor molecules, causing the zona incapable of being penetrated by additional spermatozoa
+			- Prevents <u>polyspermy</u>- oocyte being fertilized by >1 spermatozoon
+	7. Fusion also initiates meiosis to resume in the oocyte
+		- Oocyte completes the 2nd meiotic metaphase and completes anaphase, telophase, and cytokinesis to produce another polar body 
+		- Oocyte now considered <u>definitive oocyte</u>- it contains a haploid complement of chromosomes and a 1C quantity of DNA after completion of the 2nd meiotic division (disregarding the sperm's presence)
+	8. The fertilized oocyte is now considered a zygote (from Greeking meaning yoked)
+		- Does not form single nucleus with both the oocyte's and sperm's chromosomes
+		- However, zygote does contain diploid chompletemt of chromosomes and a 2C quanitity of DNA
+	9. Post penetration, both the oocyte's and sperm's nuclei swell within the zygote, and are now called <u>Female and male pronuclei</u> respectively 
+	10. The pronuclei membranes disappear quickly to allow replication of both maternal and paternal chromosomes to prepare for cleavage
 7. <u>CLEAVAGE</u> 
 	**Cleavage Subdivides Zygote Without Increasing Its Size**
 	- <u>Cleavage</u>- When the zygote undergoes rapid mitotic cell division.
