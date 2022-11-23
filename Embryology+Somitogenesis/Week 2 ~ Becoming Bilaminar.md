@@ -23,6 +23,17 @@ Week 2 is the "rule of twos" week
 	- Extracellular basement membrane is laid down between the two layers
 		- The two-layerd embryoblast= <u>Bilaminar embryonic disc</u>/<u>Bilaminar blastoderm</u>
 	- With formation of the disc, define the primitive <u>dorsal-ventral axis</u>
-1. <u>DEVELOPMENT OF AMNIOTIC CAVITY</u>
-2. <u>DEVELOPMENT OF YOLK SAC AND CHORIONIC CAVITY</u>
-3. <u>UTEROPLACENTAL CIRCULATORY SYSTEM BEGINS TO DEVELOP DURING THE SECOND WEEK</u>
+3. <u>DEVELOPMENT OF AMNIOTIC CAVITY</u>
+	- Day 8: Amniotic cavity appears as fluid collects between epiblast cells and overlying trophoblast
+	1. A layer of epiblast cells expands towards embryonic pole and differentiates into amnion
+		- <u>Amnion</u>- Thin membrane that separates amniotic cavity from the cytotrophoblast
+			- 1 out 4 extrambryonic membranes:
+				1. Amnion
+				2. Chorion
+				3. Yolk Sac
+				4. Allantois
+	2. Amnion starts smaller than blastocyts cavity, then expands steadily
+	3. Amnion encloses entire embryo by week 8
+4. <u>DEVELOPMENT OF YOLK SAC AND CHORIONIC CAVITY</u>
+	- 
+5. <u>UTEROPLACENTAL CIRCULATORY SYSTEM BEGINS TO DEVELOP DURING THE SECOND WEEK</u>
