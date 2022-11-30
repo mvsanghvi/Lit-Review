@@ -37,3 +37,22 @@ Week 2 is the "rule of twos" week
 4. <u>DEVELOPMENT OF YOLK SAC AND CHORIONIC CAVITY</u>
 	- 
 5. <u>UTEROPLACENTAL CIRCULATORY SYSTEM BEGINS TO DEVELOP DURING THE SECOND WEEK</u>
+	- Nutrient uptake and waste elimination process changes
+		1. Week 1: Embryo uses simple diffusion
+		2. Day 9: Begins to form <u>uteroplacental circulation</u>- System by which maternal and fetal blood flow through the placenta to come into close proximity and exchange gases by metabolic diffusion
+			- Rapid embryo growth causes the formation of the more effecient system 
+				1. Trophablastic lacunae (vacuoles) open within the syncytiotrophoblast
+				2. Maternal capillaries near the syncytiotrophoblast expand, forming maternal sinusoids that anastomose with the tropblastic lacunae
+					- <u>Anastomose</u>-The connection of separate parts of a branching system to form a network, as of leaf veins, blood vessels, or a river and its branches
+		3. Day 11-13: Anastomosation continues and cytotrophoblast proliferates locally to form extensions growing into syncytiotrophoblast
+		4. Extensions grow out into blood-filled lacunae while covered in syncytiotrophoblast- <u>1° chorionic stem villi</u>
+		5. Day 16: Cytrtrophoblast's extraembryonic mesoderm penetrates core of the stem villi- <u>2° chorionic stem villi</u>
+		6. End of week 3: 2° villi give rise to blood vessels connected to vessels forming in the embryo proper
+			- Estabilishes a working uteroplacental circulation (primitive heart starts beating day 22)
+			- Villi with differentiated blood vessels- <u>3° chorionic stem villi</u>
+	-  Diffusing nutrients, gases, and wastes between maternal and fetal blood cross four tissue layers
+		1. Endothelium of villus capillaries
+		2. Loose connective tissue in the core of the villus
+		3. Syncytiotrophoblast layer
+		4. Cytotrophoblast player
+			- Maternal layers are not crossed because they do not invade the trophoblastic lacunae
