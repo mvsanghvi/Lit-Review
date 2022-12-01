@@ -10,5 +10,5 @@
 		b. Deformation- 2° morphologic defects *imposed* on organ/part due to mechanical forces that are <u>indirectly</u> involved with its development
 	- Can:
 		a) Occur in isolated organ/part
-		b) Occur as pattern of multiple  1° malformations w/ single cause (AKA a syndrome)
+		b) Occur as pattern of multiple 1° malformations w/ single cause (AKA a syndrome)
 			i) Can be chromosomal or teratogen
