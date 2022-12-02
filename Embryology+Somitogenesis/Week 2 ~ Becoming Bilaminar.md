@@ -13,6 +13,8 @@ Week 2 is the "rule of twos" week
 				- Cells detach from cytotrophoblast at embryonic pole and fuse with syncytium
 		- Finger-like processes extend from it and penetrate between the separating endometrial cells and pull the embryo
 			- Gradually envelopes the blastocyst as implantation progresses
+		- *<u>Cytoptrophoblast</u> and <u>Syncytiotrophoblast</u> contribute to extraembryonic membranes, not the embryo proper*
+			- *They, along with associated extraembryonic mesoderm and uterus, initiate the formation of the placenta*
 	- Day 9: Syncytiotrophoblast blankets entire blastocyst except for abembryonic pole region
 	- Coagulation plug of acellular material seals small hole where blastocyst implanted
 2. <u>EMBRYOBLAST REORGANIZES INTO EPIBLAST AND HYPOBLAST</u>
