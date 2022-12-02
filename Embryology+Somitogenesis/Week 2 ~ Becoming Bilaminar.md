@@ -54,7 +54,9 @@ Week 2 is the "rule of twos" week
 			- Is 2-layered structure
 				1. Inside= Hypoblast-derived endoderm
 				2. Outside= Mesoderm
-		7. 
+		7. Week 4: Extraembryonic mesoderm on yolk sac outer layer is major site for hematopoiesis, and primordial germ cells can first be identified here
+		8. Beyond Week 4: Yolk sac rapidly overgrown by embryonic disc
+		9. In rare case known as <u>Meckel's diverticulum</u>, the yolk sac doesn't disappear, but instead persists in form of a digestive track anomaly.
 	- Remember that yolk sac is extraembryonic membrane that has its own cavity
 5. <u>UTEROPLACENTAL CIRCULATORY SYSTEM BEGINS TO DEVELOP DURING THE SECOND WEEK</u>
 	- Nutrient uptake and waste elimination process changes
