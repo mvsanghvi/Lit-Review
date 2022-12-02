@@ -45,6 +45,17 @@ Week 2 is the "rule of twos" week
 		2. Day 12/13- 1° yolk sac is displaced by 2nd migration wave, which form 2° yolk sac
 			- 1° yolk sac eventually degrades
 		3. Extraembryonic/chorionic cavity forms by splitting extraembryonic mesoderm into 2 layers
+		4. <u>Chorion</u>- What the outer wall of the blastocyst is referred to as when the chrorionic cavity separates the embryo with its attached amnion and yolk sac from it
+			- Splitting of extraembryonic mesoderm into 2 layers, results in amnion, yolk sac, and chorion also splitting into 2-layers
+				- Amnion and chorion consist of extraembryonic ectoderm and mesoderm
+				- Yolk sac consists of extraembryonic endoderm and mesoderm
+		5. Day 13- Embryonic disc with dorsal amnion and ventral yolk sac is suspended in chorionic cavity only by <u>connecting stalk</u> (thick stalk of extraembryonic mesoderm)
+		6. <u>Definitive yolk sac</u>- Formed after formation and splitting of extraembryonic mesoderm
+			- Is 2-layered structure
+				1. Inside= Hypoblast-derived endoderm
+				2. Outside= Mesoderm
+		7. 
+	- Remember that yolk sac is extraembryonic membrane that has its own cavity
 5. <u>UTEROPLACENTAL CIRCULATORY SYSTEM BEGINS TO DEVELOP DURING THE SECOND WEEK</u>
 	- Nutrient uptake and waste elimination process changes
 		1. Week 1: Embryo uses simple diffusion
