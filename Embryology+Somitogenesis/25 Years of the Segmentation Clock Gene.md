@@ -26,6 +26,7 @@
 		- The protein represses the transcription of the gene that encodes it
 - Can speed up mouse clock osciallation by deleting two non-protein coding introns from *Hes7*
 	- Generates more somites too
+	- [[Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene]]
 - *Hes7* and its homologues are the central pacemakers of the segmentation clock
 - Delta oscillatation is controlled by *Hes7*
 
