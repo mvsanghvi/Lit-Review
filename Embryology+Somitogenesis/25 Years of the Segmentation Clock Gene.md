@@ -29,7 +29,18 @@
 	- [[Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene]]
 - *Hes7* and its homologues are the central pacemakers of the segmentation clock
 - Delta oscillatation is controlled by *Hes7*
-	- Part of [[Notch Signalling]] pathway 
+	- Part of [[Notch Signalling]] pathway
+		- Notch pathway signals between cells to activate the transcription of genes
+	- Controls the timing of HES 7 in neighbouring cells, leading to synchronization
+- 
 
 <u>Gaps in the field and future directions:</u>
-- 
+- We know:
+	- Oscillations proceed stably in single, isolated cells of the PSM
+		- Suggests the clock is intrinsic
+	- However, random mixtures of cells synchronize their oscillations and self organise in rostral-caudal axis
+		- Suggests extrinsic control 
+	- Notch signaling required for self-organization 
+- We don't get:
+	- Coordinating oscillation patterns is not yet understood
+	- What are the downstream genes whose expression oscillates in different phases from the main clock's components depending on the cell's position in the rostral-caudal axis
