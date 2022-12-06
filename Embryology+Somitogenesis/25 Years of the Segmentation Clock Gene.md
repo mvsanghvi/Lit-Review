@@ -29,6 +29,7 @@
 	- [[Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene]]
 - *Hes7* and its homologues are the central pacemakers of the segmentation clock
 - Delta oscillatation is controlled by *Hes7*
+	- Part of [[Notch Signalling]] pathway 
 
 <u>Gaps in the field and future directions:</u>
-
+- 
