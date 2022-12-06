@@ -1,5 +1,4 @@
 [[PSM]]
-[[A brief history of the segmentation clock- Olivier Pourquie]]
 [[Week 3 ~ Trilaminar & Body Axes]]
 **Main** 
 - Used iPSCs in vitro induction of PSM + derivatives to model human segmentation clock

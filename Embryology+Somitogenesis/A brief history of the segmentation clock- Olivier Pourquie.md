@@ -59,7 +59,7 @@
 - **These models were at odds with the logics of the fly segmentation cascade**
 
 **3. Discovery of the Segmentation Clock**
-- The Notch pathway is conserved in vertebrates, and has segmental patterns.
+- The [[Notch Signalling]] pathway is conserved in vertebrates, and has segmental patterns.
 	- Notch not part of Drosophila segmentation cascade.
 - Harvested embryos that were hybridized with *hairy* probes had different expression patterns in PSM despite nearly same number of somites
 	- Suggested expression pattern changes very fast in PSM
