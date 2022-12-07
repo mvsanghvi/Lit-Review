@@ -32,7 +32,15 @@
 	- Part of [[Notch Signalling]] pathway
 		- Notch pathway signals between cells to activate the transcription of genes
 	- Controls the timing of HES 7 in neighbouring cells, leading to synchronization
-- 
+- Originally knew that environmental stressors affect pregnancy
+	- I.e. low oxygen concentration in mother's blood
+	- Now know this affects clock-gene expression, leading to vertebral disorders
+	- Mathematical models have provided surprising insights
+		- I.e. Oscillations in gene expression are still robust with 90% proetin synthesis blocked
+- Oscillatory gene expression in many cell types
+	- Role in regulating proliferation of neural stem cells and muscle progenitor cells
+- Animals exhibit ultradian rhythm, a period shorter than that of circadian rhythm
+	- Involved in many activities, including hormone secretion and body temperature regulation
 
 <u>Gaps in the field and future directions:</u>
 - We know:
