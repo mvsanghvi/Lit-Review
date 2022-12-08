@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b5b26a920d7c9ae",
+        "id": "f9b9e8f5b2bbd769",
         "type": "tabs",
         "children": [
           {
-            "id": "216cc705cebc4c48",
+            "id": "cc50a49a2e1b4e3d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -129,8 +129,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "216cc705cebc4c48",
+  "active": "cc50a49a2e1b4e3d",
   "lastOpenFiles": [
+    "2022-12-08.md",
+    "Embryology+Somitogenesis/A brief history of the segmentation clock- Olivier Pourquie.md",
     "Embryology+Somitogenesis/Week 2 ~ Becoming Bilaminar.md",
     "Embryology+Somitogenesis/Week 1 ~ Gametogenesis+Fertilzation.md",
     "Week 1 ~ Gametogenesis+Fertilzation.md",
@@ -138,8 +140,6 @@
     "25 Years of the Segmentation Clock Gene.md",
     "A brief history of the segmentation clock- Olivier Pourquie.md",
     "Mechanisms of vertebrate segmentation.md",
-    "Recapitulating human segmentation clock w PSCs.md",
-    "Week 2 ~ Becoming Bilaminar.md",
-    "Week 4 ~ Forming the Embryo.md"
+    "Recapitulating human segmentation clock w PSCs.md"
   ]
 }
