@@ -1,5 +1,6 @@
 [[Week 4 ~ Forming the Embryo]]
 
+<u>Overview</u>
 - Pathway initially discovered in Drosophila
 - Key regulator of tissue growth
 	- Signaling cascade regulates numerous biological processes:
@@ -24,4 +25,6 @@
 		d) Energy status
 		e) Stress
 		f) Many diffusible hormal factors (majority of which act through G protein-coupled receptors)
-		
+<u>Introduction</u>
+- Organ size control is central question in biology as an evolutionary milestone
+- 

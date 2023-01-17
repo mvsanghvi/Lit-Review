@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Hippo Pathway- Biology and Pathophysiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Hippo Pathway- Biology and Pathophysiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Hippo Pathway- Biology and Pathophysiology.md"
+              }
             }
           }
         ]
@@ -188,10 +192,10 @@
       }
     ]
   },
-  "active": "9c385bbda3ec63a2",
+  "active": "1497d5a83a2103d1",
   "lastOpenFiles": [
-    "The Hippo Pathway- Biology and Pathophysiology.md",
     "Week 0-8 ~ Embryology Overview.md",
+    "The Hippo Pathway- Biology and Pathophysiology.md",
     "Stem Cell Zoo.md",
     "Week 4 ~ Forming the Embryo.md",
     "Week 5 ~ Morphogenesis + Dysmorphogenesis.md",
