@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Hippo Pathway- Biology and Pathophysiology.md",
+                "file": "Week 3 ~ Trilaminar & Body Axes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Hippo Pathway- Biology and Pathophysiology.md",
+                "file": "Week 3 ~ Trilaminar & Body Axes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Hippo Pathway- Biology and Pathophysiology.md",
+                "file": "Week 3 ~ Trilaminar & Body Axes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Hippo Pathway- Biology and Pathophysiology.md"
+                "file": "Week 3 ~ Trilaminar & Body Axes.md"
               }
             }
           }
@@ -159,43 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "d9bd38ad1e1b563d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3972c20ebfec510d",
-        "type": "window",
-        "children": [
-          {
-            "id": "30d45621e96ea388",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9c385bbda3ec63a2",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1740,
-        "y": -417,
-        "width": 1194,
-        "height": 784,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1497d5a83a2103d1",
   "lastOpenFiles": [
-    "Week 0-8 ~ Embryology Overview.md",
     "The Hippo Pathway- Biology and Pathophysiology.md",
+    "Week 0-8 ~ Embryology Overview.md",
     "Stem Cell Zoo.md",
     "Week 4 ~ Forming the Embryo.md",
     "Week 5 ~ Morphogenesis + Dysmorphogenesis.md",
