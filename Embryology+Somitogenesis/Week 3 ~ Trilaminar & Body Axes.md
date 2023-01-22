@@ -57,7 +57,7 @@
 - IM- small cylindrical condensation that makes urinary and parts of genital system
 - LPM- Flattened sheet
 ***Formation of Neural Plate***
-- D18-D2, the thickened neural plate folds into the Neural tube, which tapers into the brain and the lateral lips give rise to the neural crest cells
+- D18-D20, the thickened neural plate folds into the Neural tube, which tapers into the brain and the lateral lips give rise to the neural crest cells
 	- Brain already visibly divided into:
 		1. Forebrain
 		2. Midbrain
