@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f072e74d9a44c0",
+        "id": "1ab665920425ef83",
         "type": "tabs",
         "children": [
           {
-            "id": "4a03a2c4249845eb",
+            "id": "2b3730f2cedcc34f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 ~ Forming the Embryo.md",
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1497d5a83a2103d1",
+            "id": "8e543e8816928090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3 ~ Trilaminar & Body Axes.md",
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3 ~ Trilaminar & Body Axes.md",
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3 ~ Trilaminar & Body Axes.md",
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3 ~ Trilaminar & Body Axes.md"
+                "file": "A brief history of the segmentation clock- Olivier Pourquie.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1497d5a83a2103d1",
+  "active": "8e543e8816928090",
   "lastOpenFiles": [
+    "Primate Gastrulation and Early Organogenesis at Single-cell Resolution.md",
     "A brief history of the segmentation clock- Olivier Pourquie.md",
+    "Week 4 ~ Forming the Embryo.md",
+    "Somite cell cycle analysis using somite-staging to measure intrinsic developmental time.md",
+    "Week 3 ~ Trilaminar & Body Axes.md",
     "25 Years of the Segmentation Clock Gene.md",
     "Notch Signalling.md",
     "PSM.md",
     "Recapitulating human segmentation clock w PSCs.md",
-    "Somite cell cycle analysis using somite-staging to measure intrinsic developmental time.md",
-    "Week 3 ~ Trilaminar & Body Axes.md",
-    "The Hippo Pathway- Biology and Pathophysiology.md",
-    "Week 0-8 ~ Embryology Overview.md",
-    "Stem Cell Zoo.md"
+    "The Hippo Pathway- Biology and Pathophysiology.md"
   ]
 }
