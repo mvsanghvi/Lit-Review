@@ -1,5 +1,5 @@
-[[PSM]]
-[[Week 3 ~ Trilaminar & Body Axes]]
+[[Paraxial Mesoderm]]
+[[A brief history of the segmentation clock- Olivier Pourquie]]
 **Main** 
 - Used iPSCs in vitro induction of PSM + derivatives to model human segmentation clock
 	- Segmentation clock= Believed to underlie the rhythmic and controlled emergence of somites, which give rise to the segmental patter of the vertebrate axial skeleton. 

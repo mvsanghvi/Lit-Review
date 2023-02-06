@@ -129,8 +129,19 @@
     "width": 200,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "cc50a49a2e1b4e3d",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Notch Signaling.md",
     "2022-12-08.md",
     "Embryology+Somitogenesis/A brief history of the segmentation clock- Olivier Pourquie.md",
     "Embryology+Somitogenesis/Week 2 ~ Becoming Bilaminar.md",
@@ -139,7 +150,6 @@
     "Week 0-8 ~ Embryology Overview.md",
     "25 Years of the Segmentation Clock Gene.md",
     "A brief history of the segmentation clock- Olivier Pourquie.md",
-    "Mechanisms of vertebrate segmentation.md",
-    "Recapitulating human segmentation clock w PSCs.md"
+    "Mechanisms of vertebrate segmentation.md"
   ]
 }
