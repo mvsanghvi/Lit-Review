@@ -22,3 +22,9 @@
 	4. In the nucleus, ICN interacts with TF RBP-J and a trasncriptional coactivator (MAML1-3)
 	5. The complex recruits a larger trasncriptional activation complex, inducing target gene activation
 	6. ICN rapidly degrades after the formation of the transcription complex
+	- Lack of both signal amplifcation and complex signal transductions steps in the cytoplasm render the Notch pathway to be very sensitive to precise regulation via dose, duration, and contexts of signals
+	- Non-canonical Notch signaling can signal independently of RBP-J and MAML
+**Adult Hematopoiesis and Lymphopoiesis**
+**Adaptive Immune Cells**
+**Innate and Innate-like cells**
+- 
