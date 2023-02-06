@@ -9,13 +9,16 @@
 	2. Differentiation
 	3. Function
 	of adult adaptive and innate immune cells
-- Notch pathway operates via juxtacrine interactions between signal-sending cells presenting Notch ligans and signal- receiving cells expressing Notch receptors
+- Canonical Notch pathway operates via juxtacrine interactions between signal-sending cells presenting Notch ligans and signal- receiving cells expressing Notch receptors
 	- Mammals have 
 		a) 4 Notch family members (Notch 1-4) 
 		b) 5 ligands 
 			i) Jagged (Jagged 1,2-orthologs to fly Serrate)
 			ii) Delta-like families (Dll1,3,4-orthologs to fly Delta)
 	1. Notch extracellular domain (receptors Notch1-4) binds to either Jagged or Delta-like ligands through EGF-like repeats
-	2. First cleavage occurs at an extraceulluar site via ADAM10 metalloprotease
-	3. Receptor ligation induces regulated cleaveage, releasing the intracellular domain of Notch (ICN) into the cytoplasm
-	4. ICN is released to migrate to the nucleus
+	2. Receptor ligation induces regulated cleaveage, releasing the intracellular domain of Notch (ICN) into the cytoplasm
+		a) First cleavage occurs at an extraceulluar site via ADAM10 metalloprotease
+	3. ICN is released to migrate to the nucleus
+	4. In the nucleus, ICN interacts with TF RBP-J and a trasncriptional coactivator (MAML1-3)
+	5. The complex recruits a larger trasncriptional activation complex, inducing target gene activation
+	6. ICN rapidly degrades after the formation of the transcription complex
