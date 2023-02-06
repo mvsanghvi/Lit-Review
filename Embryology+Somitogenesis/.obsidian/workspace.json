@@ -86,7 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,14 +149,14 @@
   "active": "41e9842eab6c6d22",
   "lastOpenFiles": [
     "Notch Signaling.md",
+    "Notch Signaling at the crossroads of innate and adaptive immunity.md",
+    "Stem Cell Zoo.md",
+    "The Hippo Pathway- Biology and Pathophysiology.md",
     "Mechanisms of vertebrate segmentation.md",
     "Innate Immunity.md",
     "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
     "Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene.md",
     "A brief history of the segmentation clock- Olivier Pourquie.md",
-    "25 Years of the Segmentation Clock Gene.md",
-    "Notch Signaling at the crossroads of innate and adaptive immunity.md",
-    "Primate Gastrulation and Early Organogenesis at Single-cell Resolution.md",
-    "Recapitulating human segmentation clock w PSCs.md"
+    "25 Years of the Segmentation Clock Gene.md"
   ]
 }
