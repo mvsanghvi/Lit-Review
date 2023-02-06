@@ -1,3 +1,4 @@
+[[Week 3 ~ Trilaminar & Body Axes]]
 **Intro**
 - Segmentation- The repetition along the body axis of similar anatomical modules (i.e. vertebrae, worm metameres)
 	- Found in many animal species (both vertebrates & invertebrates)
@@ -59,7 +60,7 @@
 - **These models were at odds with the logics of the fly segmentation cascade**
 
 **3. Discovery of the Segmentation Clock**
-- The [[Notch Signalling]] pathway is conserved in vertebrates, and has segmental patterns.
+- The [[Notch Signaling]] pathway is conserved in vertebrates, and has segmental patterns.
 	- Notch not part of Drosophila segmentation cascade.
 - Harvested embryos that were hybridized with *hairy* probes had different expression patterns in PSM despite nearly same number of somites
 	- Suggested expression pattern changes very fast in PSM
