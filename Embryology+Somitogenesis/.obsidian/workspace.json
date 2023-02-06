@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
+                "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
+                "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
+                "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md"
+                "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "41e9842eab6c6d22",
   "lastOpenFiles": [
-    "Notch Signaling at the crossroads of innate and adaptive immunity.md",
-    "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
-    "Innate Immunity.md",
-    "25 Years of the Segmentation Clock Gene.md",
     "Notch Signaling.md",
-    "Recapitulating human segmentation clock w PSCs.md",
-    "Primate Gastrulation and Early Organogenesis at Single-cell Resolution.md",
-    "Paraxial Mesoderm.md",
+    "Mechanisms of vertebrate segmentation.md",
+    "Innate Immunity.md",
+    "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
+    "Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene.md",
     "A brief history of the segmentation clock- Olivier Pourquie.md",
-    "Week 4 ~ Forming the Embryo.md"
+    "25 Years of the Segmentation Clock Gene.md",
+    "Notch Signaling at the crossroads of innate and adaptive immunity.md",
+    "Primate Gastrulation and Early Organogenesis at Single-cell Resolution.md",
+    "Recapitulating human segmentation clock w PSCs.md"
   ]
 }

@@ -1,2 +1,21 @@
 [[Innate Immunity]]
-[[Notch Signaling]]
+
+**Intro**
+- Heritable mutated allele *"Notch"* led to small indentation in *Drosophila* wing margins observed by John Dexter+Thomas Morgan
+- In the 1990's, mutated gain-of-function (GOF) *NOTCH* allele in human T cell acute lymphoblastic leukemia
+- Has well established roles in embryonic hemaptopoiesis
+- Focus of this paper is on [[Notch Signaling]] activity in regards to :
+	1. Development
+	2. Differentiation
+	3. Function
+	of adult adaptive and innate immune cells
+- Notch pathway operates via juxtacrine interactions between signal-sending cells presenting Notch ligans and signal- receiving cells expressing Notch receptors
+	- Mammals have 
+		a) 4 Notch family members (Notch 1-4) 
+		b) 5 ligands 
+			i) Jagged (Jagged 1,2-orthologs to fly Serrate)
+			ii) Delta-like families (Dll1,3,4-orthologs to fly Delta)
+	1. Notch extracellular domain (receptors Notch1-4) binds to either Jagged or Delta-like ligands through EGF-like repeats
+	2. First cleavage occurs at an extraceulluar site via ADAM10 metalloprotease
+	3. Receptor ligation induces regulated cleaveage, releasing the intracellular domain of Notch (ICN) into the cytoplasm
+	4. ICN is released to migrate to the nucleus
