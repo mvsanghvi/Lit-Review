@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e543e8816928090",
+            "id": "41e9842eab6c6d22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25 Years of the Segmentation Clock Gene.md",
+                "file": "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25 Years of the Segmentation Clock Gene.md",
+                "file": "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25 Years of the Segmentation Clock Gene.md",
+                "file": "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25 Years of the Segmentation Clock Gene.md"
+                "file": "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e543e8816928090",
+  "active": "41e9842eab6c6d22",
   "lastOpenFiles": [
+    "Notch Signaling at the crossroads of innate and adaptive immunity.md",
+    "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
+    "Innate Immunity.md",
+    "25 Years of the Segmentation Clock Gene.md",
     "Notch Signaling.md",
     "Recapitulating human segmentation clock w PSCs.md",
     "Primate Gastrulation and Early Organogenesis at Single-cell Resolution.md",
     "Paraxial Mesoderm.md",
-    "25 Years of the Segmentation Clock Gene.md",
     "A brief history of the segmentation clock- Olivier Pourquie.md",
-    "Week 4 ~ Forming the Embryo.md",
-    "Somite cell cycle analysis using somite-staging to measure intrinsic developmental time.md",
-    "Week 3 ~ Trilaminar & Body Axes.md",
-    "Notch Signalling.md"
+    "Week 4 ~ Forming the Embryo.md"
   ]
 }
