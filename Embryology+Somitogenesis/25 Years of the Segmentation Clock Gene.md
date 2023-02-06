@@ -1,6 +1,5 @@
 [[A brief history of the segmentation clock- Olivier Pourquie]]
-[[Recapitulating human segmentation clock w PSCs]]
-
+[[Week 3 ~ Trilaminar & Body Axes]]
 <u>History of the Field:</u>
 - 25 years ago, Palmeirim reported 1st molecular evidence of gene linked to periodicity of somite formation
 	- Founded idea of developmental clock- A network of genes whose expression oscillates synchronously and thus regulates the timing of developmental events
@@ -29,7 +28,7 @@
 	- [[Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene]]
 - *Hes7* and its homologues are the central pacemakers of the segmentation clock
 - Delta oscillatation is controlled by *Hes7*
-	- Part of [[Notch Signalling]] pathway
+	- Part of [[Notch Signaling]] pathway
 		- Notch pathway signals between cells to activate the transcription of genes
 	- Controls the timing of HES 7 in neighbouring cells, leading to synchronization
 - Originally knew that environmental stressors affect pregnancy
