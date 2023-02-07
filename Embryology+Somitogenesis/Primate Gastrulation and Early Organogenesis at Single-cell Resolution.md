@@ -1,1 +1,1 @@
-[[Week 3 ~ Trilaminar & Body Axes]]
+[[Week 3]]
