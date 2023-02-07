@@ -1,3 +1,5 @@
+# Weeks 0-8
+
 <u>PERIODS OF HUMAN EMBRYOLOGY</u>
 1. Period of the egg= Time of fertilization- formation and implantation of blastocyst
 	- * Egg/embryo refers to pre-fertilization
