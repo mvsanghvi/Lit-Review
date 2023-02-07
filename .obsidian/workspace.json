@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8a787d8eaab33c7",
+            "id": "031b54346a8db269",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling and Immunity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ab1ac9f79f1936a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3deb92d8baa7345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notch and IFN-gamma Pathways.md",
+                "file": "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notch and IFN-gamma Pathways.md",
+                "file": "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notch and IFN-gamma Pathways.md",
+                "file": "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notch and IFN-gamma Pathways.md"
+                "file": "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md"
               }
             }
           }
@@ -171,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3deb92d8baa7345",
+  "active": "031b54346a8db269",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Crosstalk between the canonical NF-κB and Notch signaling pathways inhibits Pparγ expression and promotes pancreatic cancer progression in mice.md",
     "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
+    "Embryology+Somitogenesis/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
     "Embryology+Somitogenesis/Notch Signaling and Immunity.md",
+    "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md",
     "Embryology+Somitogenesis/Notch Signaling in the Immune System.md",
     "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
     "Embryology+Somitogenesis/Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene.md",
     "Embryology+Somitogenesis/A brief history of the segmentation clock- Olivier Pourquie.md",
-    "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
-    "Embryology+Somitogenesis/Notch Signaling.md",
-    "Embryology+Somitogenesis/RIG-I in Development.md",
-    "Embryology+Somitogenesis/RIG-I.md"
+    "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md"
   ]
 }
