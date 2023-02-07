@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b9e8f5b2bbd769",
+        "id": "a2918df4e034df20",
         "type": "tabs",
         "children": [
           {
-            "id": "031b54346a8db269",
+            "id": "7f24fe253f068ba0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68f422d94d6cc0b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling- A simple pathway becomes complex.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling- A simple pathway becomes complex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling- A simple pathway becomes complex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling- A simple pathway becomes complex.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81a53d77bfe2450d",
+  "active": "7f24fe253f068ba0",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Hes 7.md",
     "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md",
+    "Embryology+Somitogenesis/Notch Signaling- A simple pathway becomes complex.md",
+    "Embryology+Somitogenesis/Notch Signaling in the Immune System.md",
     "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
     "Embryology+Somitogenesis/Notch Signaling and Immunity.md",
     "Embryology+Somitogenesis/Notch Signaling.md",
     "Embryology+Somitogenesis/Crosstalk between the canonical NF-κB and Notch signaling pathways inhibits Pparγ expression and promotes pancreatic cancer progression in mice.md",
     "Embryology+Somitogenesis/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
-    "Embryology+Somitogenesis/Notch Signaling in the Immune System.md",
-    "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
-    "Embryology+Somitogenesis/Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene.md",
-    "Embryology+Somitogenesis/A brief history of the segmentation clock- Olivier Pourquie.md"
+    "Embryology+Somitogenesis/Hes7 and Notch Signaling.md"
   ]
 }
