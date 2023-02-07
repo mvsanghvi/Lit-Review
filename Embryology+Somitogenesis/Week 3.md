@@ -1,5 +1,6 @@
-[[Week 0-8 ~ Embryology Overview]]
-[[Week 2 ~ Becoming Bilaminar]]
+# Trilaminar & Body Axes
+[[Embryology Overview]]
+[[Week 2]]
 
 - **Gastrulation**- Heralded in by the formation of the ps (primitive streak)
 - **Primitive Streak**- Thickening with midline groove which forms around D15
@@ -26,7 +27,7 @@
 - **Intraembryonic mesoderm**- 3rd germ layer formed by epiblast cells diverging into space between epiblast and nascent definitive endoderm from ps
 	- Mat formed reorganizes into:
 		1. Cardiogenic mesoderm
-		2. Paraxial mesoderm
+		2. [[Paraxial mesoderm]]
 		3. Nephrotome/intermediate mesoderm
 		4. Lateral plate mesoderm
 			- Notochordal process= Primitive node @ midline undergoing 5th mesodermal cell population to form a thick wall midline test 
