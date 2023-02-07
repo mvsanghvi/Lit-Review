@@ -1,5 +1,6 @@
-[[Week 0-8 ~ Embryology Overview]]
-[[Week 3 ~ Trilaminar & Body Axes]]
+# Forming the Embryo
+[[Embryology Overview]]
+[[Week 3]]
 
 1. <u>TUBE-WITHIN-TUBE BODY PLAN ARISES THROUGH BODY FOLDING</u>
 2. <u>NEURULATION: ESTABLISHIN NEURAL TUBE, RUDIMENT OF CENTRAL NERVOUS SYSTEM</u>
