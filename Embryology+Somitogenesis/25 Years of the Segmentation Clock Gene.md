@@ -1,5 +1,4 @@
-[[A brief history of the segmentation clock- Olivier Pourquie]]
-[[Week 3 ~ Trilaminar & Body Axes]]
+[[Somitogenesis and Segmentation]]
 <u>History of the Field:</u>
 - 25 years ago, Palmeirim reported 1st molecular evidence of gene linked to periodicity of somite formation
 	- Founded idea of developmental clock- A network of genes whose expression oscillates synchronously and thus regulates the timing of developmental events

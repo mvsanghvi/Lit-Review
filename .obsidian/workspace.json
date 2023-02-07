@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc50a49a2e1b4e3d",
+            "id": "f8a787d8eaab33c7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -121,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc50a49a2e1b4e3d",
+  "active": "f8a787d8eaab33c7",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Notch Signaling.md",
-    "2022-12-08.md",
+    "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
+    "Embryology+Somitogenesis/Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene.md",
     "Embryology+Somitogenesis/A brief history of the segmentation clock- Olivier Pourquie.md",
-    "Embryology+Somitogenesis/Week 2 ~ Becoming Bilaminar.md",
-    "Embryology+Somitogenesis/Week 1 ~ Gametogenesis+Fertilzation.md",
-    "Week 1 ~ Gametogenesis+Fertilzation.md",
-    "Week 0-8 ~ Embryology Overview.md",
-    "25 Years of the Segmentation Clock Gene.md",
-    "A brief history of the segmentation clock- Olivier Pourquie.md",
-    "Mechanisms of vertebrate segmentation.md"
+    "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
+    "Embryology+Somitogenesis/Notch Signaling and Immunity.md",
+    "Embryology+Somitogenesis/Notch Signaling.md",
+    "Embryology+Somitogenesis/RIG-I in Development.md",
+    "Embryology+Somitogenesis/RIG-I.md",
+    "Embryology+Somitogenesis/MAVS.md",
+    "Embryology+Somitogenesis/Innate Immune System.md"
   ]
 }

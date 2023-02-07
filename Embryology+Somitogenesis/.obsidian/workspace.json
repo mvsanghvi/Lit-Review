@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41e9842eab6c6d22",
+            "id": "9a0b791240673a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md",
+                "file": "RNA Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md",
+                "file": "RNA Detection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md",
+                "file": "RNA Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notch Signaling at the crossroads of innate and adaptive immunity.md"
+                "file": "RNA Detection.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41e9842eab6c6d22",
+  "active": "9a0b791240673a0e",
   "lastOpenFiles": [
-    "Notch Signaling.md",
-    "Notch Signaling at the crossroads of innate and adaptive immunity.md",
-    "Stem Cell Zoo.md",
+    "Role of MAVS.md",
+    "MAVS.md",
+    "RIG-I and MAVS.md",
+    "Hes 7.md",
+    "Hes7 in the Segmentation Clock.md",
+    "Notch Signaling in the Immune System.md",
+    "Notch Signaling and Immunity.md",
     "The Hippo Pathway- Biology and Pathophysiology.md",
-    "Mechanisms of vertebrate segmentation.md",
-    "Innate Immunity.md",
-    "Essential Role of RIG-I in Hematpoietic Precursor Emergence in Primitive Hematopoiesis during Zebrafish Development.md",
     "Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene.md",
-    "A brief history of the segmentation clock- Olivier Pourquie.md",
-    "25 Years of the Segmentation Clock Gene.md"
+    "Notch Signaling.md"
   ]
 }

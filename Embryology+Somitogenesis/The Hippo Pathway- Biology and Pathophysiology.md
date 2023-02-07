@@ -1,4 +1,4 @@
-[[Week 4 ~ Forming the Embryo]]
+[[Week 4]]
 
 <u>Overview</u>
 - Pathway initially discovered in Drosophila
