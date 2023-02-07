@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
+                "file": "Embryology+Somitogenesis/Notch Signaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
+                "file": "Embryology+Somitogenesis/Notch Signaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
+                "file": "Embryology+Somitogenesis/Notch Signaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md"
+                "file": "Embryology+Somitogenesis/Notch Signaling.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "031b54346a8db269",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
     "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md",
     "Embryology+Somitogenesis/Crosstalk between the canonical NF-κB and Notch signaling pathways inhibits Pparγ expression and promotes pancreatic cancer progression in mice.md",
-    "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
     "Embryology+Somitogenesis/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
     "Embryology+Somitogenesis/Notch Signaling and Immunity.md",
     "Embryology+Somitogenesis/Notch Signaling in the Immune System.md",
