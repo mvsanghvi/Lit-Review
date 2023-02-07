@@ -1,4 +1,4 @@
-[[Week 3 ~ Trilaminar & Body Axes]]
+[[Somitogenesis and Segmentation]]
 **Intro**
 - Segmentation- The repetition along the body axis of similar anatomical modules (i.e. vertebrae, worm metameres)
 	- Found in many animal species (both vertebrates & invertebrates)
