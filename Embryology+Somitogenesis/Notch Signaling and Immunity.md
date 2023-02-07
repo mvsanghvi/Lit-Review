@@ -1,6 +1,6 @@
-[[Innate Immunity]]
+# Notch Signaling at the crossroads of innate and adaptive immunity
 
-**Intro**
+## Intro
 - Heritable mutated allele *"Notch"* led to small indentation in *Drosophila* wing margins observed by John Dexter+Thomas Morgan
 - In the 1990's, mutated gain-of-function (GOF) *NOTCH* allele in human T cell acute lymphoblastic leukemia
 - Has well established roles in embryonic hemaptopoiesis
@@ -24,7 +24,7 @@
 	6. ICN rapidly degrades after the formation of the transcription complex
 	- Lack of both signal amplifcation and complex signal transductions steps in the cytoplasm render the Notch pathway to be very sensitive to precise regulation via dose, duration, and contexts of signals
 	- Non-canonical Notch signaling can signal independently of RBP-J and MAML
-**Adult Hematopoiesis and Lymphopoiesis**
-**Adaptive Immune Cells**
-**Innate and Innate-like cells**
-- 
+## Adult Hematopoiesis and Lymphopoiesis
+## Adaptive Immune Cells
+## Innate and Innate-like cells
+- [[Innate Immune System]]
