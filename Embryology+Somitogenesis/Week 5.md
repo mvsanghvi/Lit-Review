@@ -1,5 +1,6 @@
-[[Week 0-8 ~ Embryology Overview]]
-[[Week 4 ~ Forming the Embryo]]
+# Morphogenesis + Dysmorphogenesis
+[[Embryology Overview]]
+[[Week 4]]
 
 <u>PRINCIPLES OF MORPHOGENESIS AND DYSMORPHOGENESIS</u> 
 - **Morphogenesis**- Form shaping process that results from differential growth, which is driven by cellular behaviors (i.e. cell shape, size, position, #, and adhesivity)  into 3D embryo with tube-within-a-tube body plan & rudiments to form adult organs/systems.
