@@ -1,4 +1,5 @@
-[[Week 0-8 ~ Embryology Overview]]
+# Gametogenesis+Fertilzation
+[[Embryology Overview]]
 
 1. <u>PRIMORDIAL GERM CELLS</u>
 - Yolk Sac- Contains cells that give rise to gametes starting during 4th week of gestation (extra embryonic membrane) known as primordial germ cells (PGCs)
