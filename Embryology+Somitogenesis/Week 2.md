@@ -1,5 +1,6 @@
-[[Week 0-8 ~ Embryology Overview]]
-[[Week 1 ~ Gametogenesis+Fertilzation]]
+# Becoming Bilaminar
+[[Embryology Overview]]
+[[Week 1]]
 
 Week 2 is the "rule of twos" week
 
