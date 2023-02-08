@@ -11,8 +11,12 @@
             "id": "c81b8a3b3cce0ff1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md"
+              }
             }
           }
         ]
@@ -138,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81a53d77bfe2450d",
+  "active": "c81b8a3b3cce0ff1",
   "lastOpenFiles": [
     "Innate Immunity/Notch+Immunity/Notch Signaling in the Immune System.md",
-    "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
     "Innate Immunity/Notch+Immunity/Notch Signaling In Health and Disease.md",
-    "Innate Immunity/Notch+Immunity/Notch Signaling activation via TLR stimulation.md",
-    "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
     "Innate Immunity/Notch+Immunity/Notch Signaling and Immunity.md",
     "Innate Immunity/Notch+Immunity/Notch Crosstalk with canonical NF-κB.md",
+    "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
     "Innate Immunity/Notch+Immunity/Notch and IFN-gamma Pathways.md",
+    "Innate Immunity/Notch+Immunity/Notch Signaling activation via TLR stimulation.md",
+    "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
     "Innate Immunity/RIG-I.md",
     "Embryology+Somitogenesis/Notch Signaling.md"
   ]
