@@ -1,0 +1,1 @@
+# Crosstalk between the canonical NF-κB and Notch signaling pathways inhibits Pparγ expression and promotes pancreatic cancer progression in mice

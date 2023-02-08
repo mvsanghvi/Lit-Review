@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2918df4e034df20",
+        "id": "4a9baa1c5164f894",
         "type": "tabs",
         "children": [
           {
-            "id": "7f24fe253f068ba0",
+            "id": "c81b8a3b3cce0ff1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f24fe253f068ba0",
+  "active": "81a53d77bfe2450d",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Hes 7.md",
-    "Embryology+Somitogenesis/Notch and IFN-gamma Pathways.md",
-    "Embryology+Somitogenesis/Notch Signaling- A simple pathway becomes complex.md",
-    "Embryology+Somitogenesis/Notch Signaling in the Immune System.md",
-    "Embryology+Somitogenesis/Notch Signaling and Innate Immunity+Inflammation.md",
-    "Embryology+Somitogenesis/Notch Signaling and Immunity.md",
-    "Embryology+Somitogenesis/Notch Signaling.md",
-    "Embryology+Somitogenesis/Crosstalk between the canonical NF-κB and Notch signaling pathways inhibits Pparγ expression and promotes pancreatic cancer progression in mice.md",
-    "Embryology+Somitogenesis/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
-    "Embryology+Somitogenesis/Hes7 and Notch Signaling.md"
+    "Innate Immunity/Notch+Immunity/Notch Signaling in the Immune System.md",
+    "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
+    "Innate Immunity/Notch+Immunity/Notch Signaling In Health and Disease.md",
+    "Innate Immunity/Notch+Immunity/Notch Signaling activation via TLR stimulation.md",
+    "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
+    "Innate Immunity/Notch+Immunity/Notch Signaling and Immunity.md",
+    "Innate Immunity/Notch+Immunity/Notch Crosstalk with canonical NF-κB.md",
+    "Innate Immunity/Notch+Immunity/Notch and IFN-gamma Pathways.md",
+    "Innate Immunity/RIG-I.md",
+    "Embryology+Somitogenesis/Notch Signaling.md"
   ]
 }

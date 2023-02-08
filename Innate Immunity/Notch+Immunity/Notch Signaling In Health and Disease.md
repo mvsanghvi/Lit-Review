@@ -9,7 +9,7 @@
 		- Is conceivable Notch signaling is promoted by stimuli by either exogenous agents (i.e. pathogens) or endogenous factors (i.e. cytokines)
 ### Regulation of Notch Signaling by TLRs
 - TLRs- Toll-Like Receptors
-- TLRs modulate Notch signaling by inducing Notch receptor and ligand expression
+- TLRs modulate Notch signaling by inducing Notch receptor and ligand expression [[Notch Signaling activation via TLR stimulation]]
 	- Purified and synthetic TLR ligands were able to induce Notch receptor and ligands
 		- Used Bacterial and viral pathogens
 	- Through augmenting Notch receptor and/or ligand expression, TLR signaling indirectly promotes Notch pathway activation/expression of canonical Notch target genes
@@ -25,7 +25,8 @@
 [[Notch and IFN-gamma Pathways]]
 ### Molecular mechanisms of Notch Activation by inflammatory stimuli
 [[The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia]]
-[[Crosstalk between the canonical NF-κB and Notch signaling pathways inhibits Pparγ expression and promotes pancreatic cancer progression in mice]]
+[[Notch Cross-talk with NF-κB]]
+[[Notch Crosstalk with canonical NF-κB]]
 ## Regulation of Myeloid Differentiation by Notch Signaling
 ## Regulation of Myeloid Activation And Function By Notch Signaling
 
