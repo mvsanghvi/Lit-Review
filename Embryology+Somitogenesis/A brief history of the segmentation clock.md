@@ -107,4 +107,4 @@
 	- High pH levels favors non-enzymatic beta-catenin acetylation
 		- Promotes Wnt signaling and PSM specification
 			- Therefore, Wnt and FGF gradients cross-regulate each other through glycolysis
-- Periodic activation of FGF and Wnt responses in the PSm suggest more complex models of cross-talk between the clock and wavefront
+- Periodic activation of FGF and Wnt responses in the PSM suggest more complex models of cross-talk between the clock and wavefront

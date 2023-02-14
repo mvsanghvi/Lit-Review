@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/MAVS.md",
+                "file": "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/MAVS.md",
+                "file": "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/MAVS.md",
+                "file": "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/MAVS.md"
+                "file": "Embryology+Somitogenesis/A brief history of the segmentation clock.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "9c30aae2a4e747d3",
   "lastOpenFiles": [
-    "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
-    "Innate Immunity/MAVS.md",
-    "Embryology+Somitogenesis/Week 5 ~ Morphogenesis + Dysmorphogenesis.md",
-    "Pasted image 20230129215337.png",
-    "Project.canvas",
-    "Embryology+Somitogenesis/Week 0-8 ~ Embryology Overview.md",
     "Embryology+Somitogenesis/The Hippo Pathway- Biology and Pathophysiology.md",
     "Embryology+Somitogenesis/Stem Cell Zoo.md",
+    "Embryology+Somitogenesis/Somitogenesis and Segmentation.md",
     "Embryology+Somitogenesis/Somite cell cycle analysis using somite-staging to measure intrinsic developmental time.md",
-    "Embryology+Somitogenesis/Recapitulating human segmentation clock w PSCs.md"
+    "Embryology+Somitogenesis/Recapitulating human segmentation clock w PSCs.md",
+    "Embryology+Somitogenesis/Primate Gastrulation and Early Organogenesis at Single-cell Resolution.md",
+    "Embryology+Somitogenesis/Paraxial Mesoderm.md",
+    "Embryology+Somitogenesis/Notch Signaling- A simple pathway becomes complex.md",
+    "Embryology+Somitogenesis/Notch Signaling.md",
+    "Embryology+Somitogenesis/Mechanisms of vertebrate segmentation.md"
   ]
 }
