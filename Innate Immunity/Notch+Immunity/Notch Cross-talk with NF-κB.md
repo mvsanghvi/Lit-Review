@@ -7,6 +7,6 @@
 ### Transcriptional Regulation of NF-κB Pathway Members
 ### Transcriptional Regulation of Notch Pathway Members by NF-κB
 - Cross talk mechanism described primarily in context of **B cells** 
-- Reported transcriptional upregulation of Notch ligand Jagged-1 by NF-κB
+- Reported transcriptional upregulation of Notch ligand Jagged-1: [[NF-κB upregulates Jagged-1]]
 - Notch-2 and NF-κB reported to cooperate
-	- NF-κB stimulates expression of Hes-5 and Deltex-1
+	-[[NF-κB stimulates Hes-5]] and Deltex-1 expression
