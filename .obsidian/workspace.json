@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
+                "file": "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
+                "file": "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
+                "file": "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md"
+                "file": "Embryology+Somitogenesis/A brief history of the segmentation clock.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "c81b8a3b3cce0ff1",
   "lastOpenFiles": [
-    "Innate Immunity/Notch+Immunity/Notch and IFN-gamma Pathways.md",
+    "Innate Immunity/MAVS.md",
+    "Innate Immunity/RIG-I.md",
     "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
+    "Innate Immunity/Notch+Immunity/Notch and IFN-gamma Pathways.md",
     "Innate Immunity/Notch+Immunity/Notch Crosstalk with canonical NF-κB.md",
     "Innate Immunity/Notch+Immunity/Notch Signaling In Health and Disease.md",
     "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
     "Innate Immunity/Role of MAVS.md",
     "Innate Immunity/RNA Detection.md",
-    "Innate Immunity/RIG-I in Development.md",
-    "Innate Immunity/RIG-I and MAVS.md",
-    "Innate Immunity/RIG-I.md"
+    "Innate Immunity/RIG-I in Development.md"
   ]
 }
