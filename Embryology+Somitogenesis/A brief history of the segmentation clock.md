@@ -67,14 +67,14 @@
 	- Focused on smallest time period that can be analyzed (time of one somite formation)
 		- Still saw different expression patterns with embryos with same somite number
 		- Suggested expression was dynamic within 90 min window of somite formation
-		- Repition of patterns at each somitic cycle could be due to regular intervals
+		- Repetition of patterns at each somitic cycle could be due to regular intervals
 - Splitting embryos and fixing one half and culturing remaining half led to:
 	- Observed traveling waves continued progression despite PSM being split into several fragments
 	- Demonstrated mRNA was expressed in periodic waves that travelled
 		- Called them cyclic genes
-	- **Proposed existence of molecular oscillator behind the vertbrate segmentation: The Segmentation Clock**
+	- **Proposed existence of molecular oscillator behind the vertebrate segmentation: The Segmentation Clock**
 - Notch- Synchronizes oscillations locally in PSM and controls rhythmic somite formation
-	- Abscence of Notch leads to loss of synchronization that becomes salt and pepper pattern. 
+	- Absence of Notch leads to loss of synchronization that becomes salt and pepper pattern. 
 	- **Vertebrate segmentation involves molecular oscillator that drives periodic Notch activity in PSM**
 - *Lfng*- Important for regular periodic organization of vertebrae
 	- KO mice resulted in severe segmentation defects
@@ -107,4 +107,4 @@
 	- High pH levels favors non-enzymatic beta-catenin acetylation
 		- Promotes Wnt signaling and PSM specification
 			- Therefore, Wnt and FGF gradients cross-regulate each other through glycolysis
-- Periodic activation of FGF and Wnt responses in the PSm suggest more complex models of cross-talk between the clock and wavefront
+- Periodic activation of FGF and Wnt responses in the PSM suggest more complex models of cross-talk between the clock and wavefront
