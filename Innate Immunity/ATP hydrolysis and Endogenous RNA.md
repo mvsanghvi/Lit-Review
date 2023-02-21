@@ -1,0 +1,1 @@
+# ATP hydrolysis by the viral RNA sensor RIG-I prevents unintentional recognition of self-RNA
