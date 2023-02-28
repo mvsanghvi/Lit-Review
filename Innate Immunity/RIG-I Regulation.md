@@ -21,8 +21,8 @@
 	- Changing the His830 residue with Ala enhanced IFN production via 2'O-methylated endogenous mRNA recognition
 		- His830 residue of the RIG-I RNA-binding pocket is critical for distinguishing the 2'O-methylated RNA at N1 site
 ### Interactions between RIG-I and endogenous RNAs
-- Since 5' triphosphate signature in host RNAs is apparent during transcription by RNA polymerases, RIG-I can recognize host endogenous RNA
-	-  5' triphosphate RNA transcribed by RNA polymerase III from intracellular poly(dA-dT) DNA can induce IFNs via RIG-I (shown in response to dsDNA)
+- Since 5' triphosphate (5'ppp) signature in host RNAs is apparent during transcription by RNA polymerases, RIG-I can recognize host endogenous RNA
+	-  5'ppp RNA transcribed by RNA polymerase III from intracellular poly(dA-dT) DNA can induce IFNs via RIG-I (shown in response to dsDNA)
 - NGS of RNA samples interacting with RIG-I during herpes simplex virus infection led to identification of endogenous RNA transcribed from 5S ribosomal RNA pseudogene 141, which then is translocated from the nucleus to the cytoplasm to activate RIG-I mediated signaling
 	- **Activation of the RIG-I pathway via pol III-induced endogenous RNA is a critical host strategy to fight against DNA virus infections**
 - 7SL RNA is a signal recognition particle component that is upregulated in stromal cells by Notch-Myc signaling from breast cancer cells
