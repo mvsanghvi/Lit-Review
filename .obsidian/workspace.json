@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RIG-I RNA Sensing.md",
+                "file": "Innate Immunity/RIG-I Immune Signaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RIG-I RNA Sensing.md",
+                "file": "Innate Immunity/RIG-I Immune Signaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RIG-I RNA Sensing.md",
+                "file": "Innate Immunity/RIG-I Immune Signaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RIG-I RNA Sensing.md"
+                "file": "Innate Immunity/RIG-I Immune Signaling.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "90c38547b7bcf683",
   "lastOpenFiles": [
-    "Innate Immunity/RIG-I Regulation.md",
     "RIG-I RNA Sensing.md",
+    "Innate Immunity/RIG-I Regulation.md",
     "Innate Immunity/RIG-I Immune Signaling.md",
     "Innate Immunity/RNA Detection.md",
     "Innate Immunity/RIG-I.md",
