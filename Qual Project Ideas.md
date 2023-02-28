@@ -1,0 +1,2 @@
+- KOs further down RLR pathway of intersected components with other PRRs 
+	- To confirm activation of other PRR is not acting in compensatory manner through shared components
