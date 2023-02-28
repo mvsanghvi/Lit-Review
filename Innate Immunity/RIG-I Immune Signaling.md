@@ -40,13 +40,39 @@
 		- Analysis of RD and CTD from RLRs suggest formation of distinct RNA-binding loops that impart basis for ligand specificity.
 ## RLR Activation and Autoregulation
 - Model of RIG-I autoregulation where absence of RNA ligand, RIG-I is held in "closed" conformation
-	- 
-- 
-## The RLR Signaling Pathway: Effector Actions and Regulation
+	- Predicted that CARDs are sequestered from signaling interactions through intramolecular association with the RD
+- In "open" conf., RIG-I becomes signaling active and probably multimerizes
+	- CARDS is now able to mediate associated with adaptor protein MAVS to induce IFN production and expression of host defense genes
 ## Cell-Intrinsic Innate Immunity 
+- Key transcriptional factors involved in RLR and MAVs signaling include interferon regulatory factor 3 and 7 (IRF 3 and 7) and NF-κB
+	- IRF3 and 7= Latent TFs that are phosphoed by IκB kinases, accumulate in the nuclei, and bind to target sequence
+	- NF-κB requires IKK-mediated phosphoed of IκBα that then is subjected to ubiquitin-dependent degradation by proteasomes
+- IRF3 is constitutively expressed; IRF7 expression remains low until induced by IFN presence (+ feedback loop)
+	- IRF3 through to function in immediate early enhanceosomes in most cell types while IRF7 directs later transcription programs
+- IFN-β produced & secreted by RLR cascade binds to IFN receptor to direct JAK-STAT signaling and expression of interferon stimulated genes (ISGs)
+	- Signaling amplifies IFN response by increasing expression of IFNα subtypes (+ feedback loop)
+	- Other ISGs include PRRs (all RLRs and members of TLRs)
 ## Inflammatory Signaling
+- Infection and signaling through RLRs also induces IFN-λ family expression
+- RLR signaling through RIG-I, MAVS, TBK1, and IRF3 required for IFN-λ induction
+	- Analysis of promoter regions upstream of IFN-λ genes show numerous cis-acting elements for IRFS and NF-κB binding
+		- Thus suggests type I IFN and IFN-λ induction occur through similar pathways and RLR signaling also induces IFN-λ expression to control infection
+- Recent studies suggest RLR signaling mediates proinflam response via 2 pathways
+	1. Involves MAVS-CARD9-Bcl10-dependent transcription of many NF-κB target genes
+	2. RIG-I association with ASC protein
+		- This triggers inflammasome activation and processing of proinflam cytokines (ie. IL-1β and IL-18)
 ## Signaling Cross Talk
+- RLR signaling shares numerous components with other cellular pathways
+- RLR signaling to IRF 3, 7 and NF-κB regulated by complex signaling transduction events involve components that overlap with TLR signaling pathways
+	- MAVs interacts with tumor necrosis factor receptor I (TNFR)-associated death domain (TRADD) protein.
+	- TRADD recruitment important for RLR signaling
+- Relationship between adaptor proteins NAP1 and SINTBAD unclear, but loss of either impairs signaling through both TLR and RLR pathways 
+- RLR signaling intersects with members of NLR family
+	- NLRX1 (Nod9) potentially inhibits RLR-dependent IFN induction through disrupting MAVs interactions
+	- NLRC5 interacts with RIG-I (not MAVS) to inhibit IFN responses through interacting with IKKα/β, preventing their phospho
+		- siRNA silencing of NLRC5 enhanced NF-κB transcriptional activity to drive IFN production
 ## Positive and Negative Regulation through Differential Ubiquitination and Polyubiquitin Binding
+- 
 ## Posttranslational Control of RLRs: Phosphorylation, Other Modifications, and Protein Interactions
 ## RLRs Cooperate with Other PRRs in the Detection of Viruses
 ## RLR Regulation of the Adaptive Immune Response
