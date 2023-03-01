@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/RIG-I in Development.md",
+                "file": "Innate Immunity/Innate Immune System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/RIG-I in Development.md",
+                "file": "Innate Immunity/Innate Immune System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/RIG-I in Development.md",
+                "file": "Innate Immunity/Innate Immune System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/RIG-I in Development.md"
+                "file": "Innate Immunity/Innate Immune System.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "90c38547b7bcf683",
   "lastOpenFiles": [
+    "Innate Immunity/TLR3 downregulated by MAVS.md",
+    "Innate Immunity/Role of MAVS.md",
+    "Innate Immunity/RNA Detection.md",
+    "Innate Immunity/RIG-I RNA Sensing.md",
+    "Innate Immunity/RIG-I Regulation.md",
+    "Innate Immunity/RIG-I in Development.md",
     "Innate Immunity/RIG-I Immune Signaling.md",
     "Innate Immunity/RIG-I and MAVS.md",
     "Innate Immunity/RIG-I.md",
-    "Innate Immunity/MAVS.md",
-    "Innate Immunity/Innate Immune System.md",
-    "Innate Immunity/Endogenous RNA recognition.md",
-    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
-    "Innate Immunity/5′-monophosphate RNA.md",
-    "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
-    "Innate Immunity/Notch+Immunity/Notch Signaling In Health and Disease.md"
+    "Innate Immunity/MAVS.md"
   ]
 }
