@@ -11,12 +11,8 @@
             "id": "90c38547b7bcf683",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Innate Immunity/ATP hydrolysis and Endogenous RNA.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "90c38547b7bcf683",
   "lastOpenFiles": [
+    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
     "Innate Immunity/RIG-I Immune Signaling.md",
     "Innate Immunity/RIG-I in Development.md",
     "Innate Immunity/RIG-I RNA Sensing.md",
