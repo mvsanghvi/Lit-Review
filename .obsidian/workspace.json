@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/RIG-I Immune Signaling.md",
+                "file": "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/RIG-I Immune Signaling.md",
+                "file": "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/RIG-I Immune Signaling.md",
+                "file": "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/RIG-I Immune Signaling.md"
+                "file": "Innate Immunity/ATP hydrolysis and Endogenous RNA.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "90c38547b7bcf683",
   "lastOpenFiles": [
+    "Innate Immunity/RIG-I Immune Signaling.md",
     "Innate Immunity/RIG-I in Development.md",
     "Innate Immunity/RIG-I RNA Sensing.md",
     "Innate Immunity/RNA Detection.md",
@@ -155,7 +156,6 @@
     "Innate Immunity/Innate Immune System.md",
     "Innate Immunity/TLR3 downregulated by MAVS.md",
     "Innate Immunity/Role of MAVS.md",
-    "Innate Immunity/RIG-I Immune Signaling.md",
     "Innate Immunity/RIG-I and MAVS.md",
     "Innate Immunity/RIG-I.md",
     "Innate Immunity/MAVS.md"

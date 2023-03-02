@@ -78,9 +78,20 @@
 	- K63-linked polyubiquitin chains act as 2nd ligand to enhance RIG-I signaling activation
 - Lack of conservation across species
 	- lysine 172 of RIG-I is not conserved between species
-	- Regulation of phosphorylation of serine 8 is not likely univerals
-		- aa residue is shared only among primate RIG-I and not nonprimate species
+	- Regulation of phosphorylation of serine 8 is not likely universal
+		- aa residue is shared only among primate RIG-I and not non-primate species
 ## RLRs Cooperate with Other PRRs in the Detection of Viruses
-## RLR Regulation of the Adaptive Immune Response
-## RLR Polymorphisms and Immune Disease
+- RLRs do not operate along to induce/program antiviral immunity
+	- Part of concerted and cross-talking antiviral program mediated by a variety of PRRs
+- In case of West nile virus (WNV), infection stimulates RLR signaling, but has 2nd round that stimulates TLRs
+	- Round 1: RLR signaling & IFN production against infection enhances Round 2: TLR expression
+		- RLR provides signaling crosstalk to enhance TLR expression and function, leading to global immune modulation
+	- RIG-I and MDA5 appear to cooperate direct innate immune response and IFN amplification
+- RIG-I lacking cells are able to mount IFN-dependent antiviral response, albeit attenuated and delayed compared to WT
+- RIG-I, MDA5, or MAVS KO had abrogated signaling in cells
+	- Also led to enhanced virus replication
+- TLR3 KO mice improved survival rate against WNV than WT
+	- Due to decrease of inflam response
+- RLR crosstalk signaling with TLR3 and TLR7 to enhance TLR signaling 
+
 
