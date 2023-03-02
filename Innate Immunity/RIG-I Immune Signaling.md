@@ -80,7 +80,6 @@
 	- lysine 172 of RIG-I is not conserved between species
 	- Regulation of phosphorylation of serine 8 is not likely univerals
 		- aa residue is shared only among primate RIG-I and not nonprimate species
-## Posttranslational Control of RLRs: Phosphorylation, Other Modifications, and Protein Interactions
 ## RLRs Cooperate with Other PRRs in the Detection of Viruses
 ## RLR Regulation of the Adaptive Immune Response
 ## RLR Polymorphisms and Immune Disease
