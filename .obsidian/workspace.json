@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/Innate Immune System.md",
+                "file": "Innate Immunity/RIG-I Immune Signaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/Innate Immune System.md",
+                "file": "Innate Immunity/RIG-I Immune Signaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/Innate Immune System.md",
+                "file": "Innate Immunity/RIG-I Immune Signaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/Innate Immune System.md"
+                "file": "Innate Immunity/RIG-I Immune Signaling.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "90c38547b7bcf683",
   "lastOpenFiles": [
+    "Innate Immunity/RIG-I in Development.md",
+    "Innate Immunity/RIG-I RNA Sensing.md",
+    "Innate Immunity/RNA Detection.md",
+    "Innate Immunity/RIG-I Regulation.md",
+    "Innate Immunity/Innate Immune System.md",
     "Innate Immunity/TLR3 downregulated by MAVS.md",
     "Innate Immunity/Role of MAVS.md",
-    "Innate Immunity/RNA Detection.md",
-    "Innate Immunity/RIG-I RNA Sensing.md",
-    "Innate Immunity/RIG-I Regulation.md",
-    "Innate Immunity/RIG-I in Development.md",
     "Innate Immunity/RIG-I Immune Signaling.md",
     "Innate Immunity/RIG-I and MAVS.md",
     "Innate Immunity/RIG-I.md",

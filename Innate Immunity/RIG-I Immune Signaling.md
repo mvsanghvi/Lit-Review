@@ -72,7 +72,14 @@
 	- NLRC5 interacts with RIG-I (not MAVS) to inhibit IFN responses through interacting with IKKα/β, preventing their phospho
 		- siRNA silencing of NLRC5 enhanced NF-κB transcriptional activity to drive IFN production
 ## Positive and Negative Regulation through Differential Ubiquitination and Polyubiquitin Binding
-- 
+- Posttranslational modifications (ptms) such a ubiquitination or deubiquitination of key components of the RLR signaling pathway appears to be a major point of regulation
+- Free K63-linked polyubiquitin chains can induce RIG-I activation
+	- Therefore K172-mediated polyubiquitin bind (not ubiquitin mods) might drive RIG-I activation
+	- K63-linked polyubiquitin chains act as 2nd ligand to enhance RIG-I signaling activation
+- Lack of conservation across species
+	- lysine 172 of RIG-I is not conserved between species
+	- Regulation of phosphorylation of serine 8 is not likely univerals
+		- aa residue is shared only among primate RIG-I and not nonprimate species
 ## Posttranslational Control of RLRs: Phosphorylation, Other Modifications, and Protein Interactions
 ## RLRs Cooperate with Other PRRs in the Detection of Viruses
 ## RLR Regulation of the Adaptive Immune Response
