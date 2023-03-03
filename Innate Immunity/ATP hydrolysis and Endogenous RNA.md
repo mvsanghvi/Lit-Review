@@ -16,5 +16,14 @@
 - MDA5 doesn't recognize terminal structures, but cooperatively polymerizes along dsRNA which supposedly triggers MAVS polymerization
 - The SF2 ATPase domain plays a critical role in RIG-I activation
 	- Mutation of the 7 SF2 "helicase" motifs resulted in RLRs that are either inactive or signal constitutively
+## Results
+### Prevention of ATP hydrolysis in RIG-I leads to a constitutive activation of IFNβ promoter by recognition of self-RNA 
+- Dissect influence of mutations on ability of RIG-I to elicit downstream signaling, used IFNβ promoter activity assay
+	- Carried out in HEK 293T RIG-I KO cells
+- In various KOs and mutation introductions:
+	1. Mutated E373Q signaling in non-infected cells because self-RNA interaction? Failed to signal
+	2. Point mutation in RD? RIG-I E373Q,K888T still constitutively active in non-infected cells
+		- Indicates increased signaling capacity of endogenous RNA is independent from 'ppp or 'pp-dsRNA epitopes that RIG-I recognizes via RD
+	3. 
 ## Discussion
 - 
