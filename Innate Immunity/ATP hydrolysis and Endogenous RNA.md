@@ -29,6 +29,20 @@
 		- Indicates increased signaling capacity of endogenous RNA is independent from 'ppp or 'pp-dsRNA epitopes that RIG-I recognizes via RD
 ### RIG-I ATP hydrolysis defective mutant E373Q shows increased interaction with ribosomal RNA
 - IP RIG-I & mutants from noninfected & infected HEK 293T RIG-I KO cells and analyzed copurified RNA molecules
+	- RIG-I E373Q has 3x higher RNA recovery than RIG-I regardless of infection or lack thereof.
+		- The co-purified RNA isn't immunostimulatory in a RIG-I WT background
+			- But cells that transiently express RIG-I E373Q can be further stimulated by transfection of total RNA extracts and purified rRNA
+				- Suggests rRNA can activate RIG-I E373Q
+- Data suggests RIG-I recognizes immunostimulatory RNA via the SF2 and RD domains, 
+	- Does not require ATP binding for this process
+	- ATP binding is necessary bc RIG-I K270I expression alone doesn't stimulate the IFNβ promoter
+- Purified full-length human RIG-I and RIG-I E373Q and 80S ribosomes to test for direct interaction
+	- Verifying higher affinity of the RIG-I ATP hydrolysis defective mutant towards rRNA
+		- Confirmed both RIG-I E373Q and RIG-I WT bind ATP, only WT hydrolyzes ATP
 - 
 ## Discussion
-- 
+- f
+
+# Experiment Ideas
+1. IP RIG-I & mutants from noninfected & infected HEK 293T RIG-I KO cells and analyzed copurified RNA molecules
+2. Analyze on Bioanalyzer RNA chip or agarose gel
