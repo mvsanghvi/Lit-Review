@@ -1,2 +1,4 @@
 - KOs further down RLR pathway of intersected components with other PRRs 
 	- To confirm activation of other PRR is not acting in compensatory manner through shared components
+- Over express RIG-I to simulate stimulation in foreign presence and look at read-out of somitogenesis
+- Rescue experiment
