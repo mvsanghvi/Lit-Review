@@ -39,10 +39,24 @@
 - Purified full-length human RIG-I and RIG-I E373Q and 80S ribosomes to test for direct interaction
 	- Verifying higher affinity of the RIG-I ATP hydrolysis defective mutant towards rRNA
 		- Confirmed both RIG-I E373Q and RIG-I WT bind ATP, only WT hydrolyzes ATP
-- 
+- Conducted sedimentation assays with rRNA pre-incubated with WT RIG-I or RIG-I E373Q w/ or w/o ATP or non-hydrolysable ATP analogue ADP-BeF3
+### Specificity of RIG-I towards dsRNA is increased in ATP presence
+-  Evaluated role of ATP binding and hydrolysis of RIG-I in presence and absence of ATP or ADP-BeF3 w/ different RNAs
+	- RNAs mimic different types of endogenous or viral RNAs
+- Used fluoresce anisotropy experiments to dissect influence of different RNA ends
+	- Positive effect of ATP was not observed when corresponding ppp-dsRNA 12 mer
+		- Plausible RIG-I dissociates from unphosphorylated RNA termini w/ an increased rate after ATP hydrolysis than from ppp-termini
+- Tested the role of ATP on binding of different RIG-I KOs/mutants to the ES hairpin RNA mimicking the base of ribosomal ES7L.
+	- In presence of ATP:
+		- Moderately increased binding of RIG-I E373Q and C268F to hairpin
+		- ATP reduced affinity of WT RIG-I 
 ## Discussion
 - f
 
 # Experiment Ideas
 1. IP RIG-I & mutants from noninfected & infected HEK 293T RIG-I KO cells and analyzed copurified RNA molecules
 2. Analyze on Bioanalyzer RNA chip or agarose gel
+3. Sedimentation assays via ultra-centrifugation of sucrose cushions loaded with 80S ribosomes
+4. EMSA (electrophoretic mobility shift assay)
+5. Fluoresce anisotropy experiments to dissect influence of different RNA ends
+6. ATP hydrolysis assays
