@@ -22,7 +22,10 @@
 	- Carried out in HEK 293T RIG-I KO cells
 - In various KOs and mutation introductions:
 	1. Mutated E373Q signaling in non-infected cells because self-RNA interaction? Failed to signal
+		- E373Q has a stabilized ATP-bound state by slowed-down ATP hydrolysis
 	2. Point mutation in RD? RIG-I E373Q,K888T still constitutively active in non-infected cells
+		- K888T mediates 'ppp binding in RD
+			- Mutations in this residue inactivate recognition of viral RNA
 		- Indicates increased signaling capacity of endogenous RNA is independent from 'ppp or 'pp-dsRNA epitopes that RIG-I recognizes via RD
 ### RIG-I ATP hydrolysis defective mutant E373Q shows increased interaction with ribosomal RNA
 - IP RIG-I & mutants from noninfected & infected HEK 293T RIG-I KO cells and analyzed copurified RNA molecules
