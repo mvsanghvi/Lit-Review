@@ -10,7 +10,7 @@
 - MDA5 ligands not well known, but do include >1000 bp dsRNA, high order dsRNA, or AU-rich RNA
 - RLRs are superfamily II (SP2) of ATPases, helicases, or nucleic acid translocases members
 - RIG-I and MDA5 consist of 2 N-terminal tandem caspase activation and recruitment domains (2CARD), a central ATPase/translocase domain and C-terminal regulatory domain (RD)
-	- When activated, RD binds to the 'ppp/'pp-dsRNA end, while SF2 domain interacts with adjacent RNA duplex and forms active ATPase sites.
+	- When activated, RD binds to the ppp/pp-dsRNA end, while SF2 domain interacts with adjacent RNA duplex and forms active ATPase sites.
 	- In this conformation, 2CARD module can be K63-linked polyubiquinated.
 	- Multiple Ub-2CARD complexes assemble to form a nucleation site for MAVS polymerization into long helical filaments
 - MDA5 doesn't recognize terminal structures, but cooperatively polymerizes along dsRNA which supposedly triggers MAVS polymerization
@@ -24,7 +24,7 @@
 	1. Mutated E373Q signaling in non-infected cells because self-RNA interaction? Failed to signal
 		- E373Q has a stabilized ATP-bound state by slowed-down ATP hydrolysis
 	2. Point mutation in RD? RIG-I E373Q,K888T still constitutively active in non-infected cells
-		- K888T mediates 'ppp binding in RD
+		- K888T mediates ppp binding in RD
 			- Mutations in this residue inactivate recognition of viral RNA
 		- Indicates increased signaling capacity of endogenous RNA is independent from 'ppp or 'pp-dsRNA epitopes that RIG-I recognizes via RD
 ### RIG-I ATP hydrolysis defective mutant E373Q shows increased interaction with ribosomal RNA
@@ -51,6 +51,12 @@
 		- Moderately increased binding of RIG-I E373Q and C268F to hairpin
 		- ATP reduced affinity of WT RIG-I 
 ## Discussion
+- Mutations that slowed down/inhibited RIG-I ATPase led to increased interaction of RIG-I w/ endogenous RNA
+	- Includes dsRNA expansion segments of the human large ribosomal subunit
+- Results suggest RIG-I ATPase confers specificity to viral RNA by preventing signaling through abundant background of self-RNA
+- Discovered single amino acid mutations that are mostly found within the ATPase domain of RLRs
+- Increased interferon levels suggest increased activation of MDA5 or RIG-I underlies the molecular pathology of diseases
+- Mutations in E373Q, E373A, and C268F all led to increased activation of RIG-I in no infection
 - 
 
 # Experiment Ideas
