@@ -51,7 +51,7 @@
 		- Moderately increased binding of RIG-I E373Q and C268F to hairpin
 		- ATP reduced affinity of WT RIG-I 
 ## Discussion
-- f
+- 
 
 # Experiment Ideas
 1. IP RIG-I & mutants from noninfected & infected HEK 293T RIG-I KO cells and analyzed copurified RNA molecules
