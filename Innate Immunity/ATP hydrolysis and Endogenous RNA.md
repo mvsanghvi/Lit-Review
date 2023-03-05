@@ -57,8 +57,16 @@
 - Discovered single amino acid mutations that are mostly found within the ATPase domain of RLRs
 - Increased interferon levels suggest increased activation of MDA5 or RIG-I underlies the molecular pathology of diseases
 - Mutations in E373Q, E373A, and C268F all led to increased activation of RIG-I in no infection
-- 
-
+	- Mutations may be locking RIG-I in an RNA-bound, active conformation
+- RIG-I RD dominates binding for based-paired ppp containing RNA ends
+	- It's ATPase is very active, but no strong effect of ATP on RNA affinity
+- ATP reduces the affinity towards self-RNA contains duplex region but not a "proper" ppp-dsRNA end
+- If RD is unable to tether RIG-I to ppp-dsRNA ends the ATPase could rapidly remove RIG-I from RNA duplex regions via its translocase
+	- Thus prevents an autoimmune response towards self-RNA
+- Point mutation in K888 didn't reduce constitutively active ATP hydrolysis deficient RIG-I
+- RD and ATP binding are clearly important for signaling
+	- In certain mutations suggested a ring-like, ATP-bound structure is also involved in signaling cause by self-RNA
+		- In this conformation, the RD likely helps to displace the 2CARD module from the SF2 domain, but may not have a high affinity for the RNA itself.
 # Experiment Ideas
 1. IP RIG-I & mutants from noninfected & infected HEK 293T RIG-I KO cells and analyzed copurified RNA molecules
 2. Analyze on Bioanalyzer RNA chip or agarose gel
