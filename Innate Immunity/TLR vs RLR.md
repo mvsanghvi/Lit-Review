@@ -33,8 +33,17 @@
 			- DAI molecule is a cytoplasmic DNA sensor that binds dsDNA and induces type I IFN & inflam cytokines
 				- Other mechanism responds to dsDNA in DAI deficiency
 ## Recognition of Viruses by TLR3
-- Role of TLR3 in dsRNA recogntion 
+- Role of TLR3 in dsRNA recognition, including when dsRNA is produced during ssRNA virus replication
+- Also implicated in recognition of siRNA (small interfering)
+	- Binds to TRL3 in sequence-independent manner, leads to IL-12 and IFNλ, thus suppressing angiogenesis
+		- As opposed action to suppress target gene expression
+- TLR3 deficient mice show reduced production of type I IFN, IFNλ, and IL-12p40
 ## Recognition of Viral Nucleic Acids by TLR7-9
+- Guanosine and uridine-rich ssRNAs (from HIV) were identified as natural ligands for TLR7
+- Human TLR8 preferentially recognizes ssRNA derived from HIV and R-848
+	- TLR8 deficient mice responded normally
+		- Suggests species-specific function
+- 
 ## Recognition of Viruses by RLRs
 ### Transcriptional Control of the IFN Gene
 ## TLR3 Signaling
