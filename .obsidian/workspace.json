@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qual Project Ideas.md",
+                "file": "Innate Immunity/TLR vs RLR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual Project Ideas.md",
+                "file": "Innate Immunity/TLR vs RLR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual Project Ideas.md",
+                "file": "Innate Immunity/TLR vs RLR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual Project Ideas.md"
+                "file": "Innate Immunity/TLR vs RLR.md"
               }
             }
           }
@@ -148,15 +148,19 @@
   },
   "active": "90c38547b7bcf683",
   "lastOpenFiles": [
-    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
-    "Innate Immunity/RIG-I Immune Signaling.md",
-    "Innate Immunity/RIG-I in Development.md",
-    "Innate Immunity/RIG-I Regulation.md",
+    "Innate Immunity/TLR vs RLR.md",
     "Innate Immunity/RIG-I RNA Sensing.md",
+    "Innate Immunity/RIG-I Regulation.md",
+    "Innate Immunity/RIG-I in Development.md",
+    "Innate Immunity/RIG-I Immune Signaling.md",
+    "Innate Immunity/RIG-I and MAVS.md",
+    "Innate Immunity/RIG-I.md",
+    "Innate Immunity/MAVS.md",
+    "Innate Immunity/Innate Immune System.md",
+    "Qual Project Ideas.md",
+    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
     "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
     "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
-    "Innate Immunity/RIG-I and MAVS.md",
-    "Innate Immunity/RNA Detection.md",
-    "Innate Immunity/Innate Immune System.md"
+    "Innate Immunity/RNA Detection.md"
   ]
 }
