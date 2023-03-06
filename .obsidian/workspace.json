@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5deef24c17318375",
+        "id": "b379fa242a2cb939",
         "type": "tabs",
         "children": [
           {
-            "id": "90c38547b7bcf683",
+            "id": "78c295863df88523",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,21 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90c38547b7bcf683",
+  "active": "78c295863df88523",
   "lastOpenFiles": [
-    "Innate Immunity/TLR vs RLR.md",
-    "Innate Immunity/RIG-I RNA Sensing.md",
-    "Innate Immunity/RIG-I Regulation.md",
-    "Innate Immunity/RIG-I in Development.md",
     "Innate Immunity/RIG-I Immune Signaling.md",
+    "Innate Immunity/RIG-I in Development.md",
+    "Innate Immunity/RIG-I Regulation.md",
+    "Innate Immunity/RIG-I RNA Sensing.md",
+    "Innate Immunity/RNA Detection.md",
+    "Innate Immunity/Role of MAVS.md",
+    "Innate Immunity/TLR vs RLR.md",
+    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
+    "Innate Immunity/Endogenous RNA recognition.md",
     "Innate Immunity/RIG-I and MAVS.md",
     "Innate Immunity/RIG-I.md",
     "Innate Immunity/MAVS.md",
     "Innate Immunity/Innate Immune System.md",
     "Qual Project Ideas.md",
-    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
     "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
-    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
-    "Innate Immunity/RNA Detection.md"
+    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md"
   ]
 }
