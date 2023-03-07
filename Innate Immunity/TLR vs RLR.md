@@ -88,6 +88,30 @@
 	- TBK1 deficient mice reduced IRF3 nuclear translocation with concomitant decrease in IFNβ production when stimulated
 	- Cells deficient of both TBK1 and IKKε have complete loss of IRF3 activation and IFNβ induction
 ## TLR3 Signaling
+- TLRs recruit specific a specific combo of TIR domain containing adapters post PAMP recognition
+- TLR signaling can be divided into 2 groups:
+	1. myeloid differentiation primary response gene 88 (MyD88)- dependent pathway
+	2. TRIF-dependent pathway
+		- TIR-containing adaptor protein (TIRAP)/MyD88-adaptor-like (MAL)
+		- TRIF/TIR domain-containing adaptor molecule 1 (TICAM1)
+		- TRIF-related adaptor molecule (TRAM)/TICAM2
+	- Both pathways commonly induce inflammatory cytokines, but each can also induce type I IFN 
+- TLR5, 7, and 9 signaling is defective in MyD88-deficient mice post PAMP recognition 
+	- Does not require TIRAP, TRIF, or TRAM, so MyD88 the sole adapter
+- TLR2 uses MyD88 but also requires TIRAP as an additional adaptor to link itself to MyD88
+- TLR3 uses TRIF, but not MyD88
+	- TLR3-TRIF pathway activates NF-κB via 2 separates pathways
+		1. TRIF N-terminal region contains 3 putative motifs that mediate binding to TRAF6, an adaptor implicated in NF-κB activation. 
+			- Ubiquitinated IKKλ and TRAF6 subsequently recruit protein kinase complex involved TAK1 (MAP3 K protein family member)
+				- TAK1 suggested to phopho IKKβ
+					- TAK1 deficient mice had reduce inflammatory cytokine production and impaired NF-κB activation
+		2. TRIF C-terminal region (containing Rip homotypic interaction motif (RHIM) responsible for TRIF and RIP1 (RIP family member involved in TNF receptor-mediated NF-κB activation) interaction)
+			- Suggests RIP1 is inducibly polyubiquitinated to form TRAF6 & TAK1 complex, resulting in  NF-κB activation
+				- RIP1-deficient cells, TLR3-mediated NF-κB activation is reduced
+				- But TRAF6 is reported to be dispensable for TRIF-dependent NF-κB activation in some cells, suggesting cell type-specific contributions of TRAF6 in TRIF-dependent NF-κB activation.
+- TLR4 uses all 4 adaptors
+	- TRAM links it to TRIF
+- 
 ## TLR7 & TLR9 Signaling
 ## RLR Signaling
 ### Contribution of TLR and RLR Signaling to the Generation of Adaptive Immunity
