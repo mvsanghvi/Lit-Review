@@ -111,8 +111,16 @@
 				- But TRAF6 is reported to be dispensable for TRIF-dependent NF-κB activation in some cells, suggesting cell type-specific contributions of TRAF6 in TRIF-dependent NF-κB activation.
 - TLR4 uses all 4 adaptors
 	- TRAM links it to TRIF
-- 
+- IRF3 activation and IFNβ induction post stimulation is impaired in TRIF-deficient mice
+	- Indicates IRF3 activation is controlled by TRIF-dependent pathway 
 ## TLR7 & TLR9 Signaling
+- Studies done in pDCs (plasmacytoid Dendritic Cells) because both exclusively expressed by pDCs.
 ## RLR Signaling
-### Contribution of TLR and RLR Signaling to the Generation of Adaptive Immunity
+- 
 ## Conclusion
+- PRRs are expressed in different cellular compartments and recognize different, but overlapping, nucleic acids
+- TLR7 & 9 are exclusively expressed in pDCs (sense for viral ssRNA and DNA)
+- TLR3 recognizes dsRNA released into the endosome and relies on the adapter TRIF
+- RLRs are expressed in the cytoplasm in both immune and nonimmune cells, and recognize RNA produced as a consequence of viral replication. 
+- MAVs serves as a common adapter for RLR
+- Many viruses encode proteins to counteract activation of TLR and RLR signaling pathways
