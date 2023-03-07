@@ -116,7 +116,18 @@
 ## TLR7 & TLR9 Signaling
 - Studies done in pDCs (plasmacytoid Dendritic Cells) because both exclusively expressed by pDCs.
 ## RLR Signaling
-- 
+- RLR signaling pathways converge at NF-κB, MAPK, and IRFs for robust type I IFN induction
+- MAVs was discovered as an adaptor for RLR that provides a link between RLR and downstream signaling mols
+- Overexpression of MAVs activates IFN, IFN, IFN, and NF-κB promoters, resulting in type I IFN production that is sufficient for inhibition of viral replication
+- MAVs C-terminal tail (required for mitochondria targeting) deletion abrogates IRF3 and NF-κB activation
+	- Suggests mitochondria signaling plays important role in antiviral immune response. 
+- RIG-I deficient mice are embryonic lethal
+	- Due to liver degeneration
+- MAVs-deficient mice are viable and develop normally 
+	- Embryonic fibroblasts derived failed to activate NF-κB and IRF3, and had concomitant loss of type I IFN and inflam cytoking induction post infection of RIG-I/MDA5 recognizable RNA
+- MAVs is dispensable for type I IFN induction by cytosolic dsDNA, DNA virus, or various TLR ligands
+- In pDCs, type I IFN production was unaffected by MAVs loss, suggesting TLRs contribute more preferentially than RLRs to viral recognition. 
+	- In other cell types (i.e. fibroblast cells), RLRs play central role in viral recognition and induction of immune response
 ## Conclusion
 - PRRs are expressed in different cellular compartments and recognize different, but overlapping, nucleic acids
 - TLR7 & 9 are exclusively expressed in pDCs (sense for viral ssRNA and DNA)
