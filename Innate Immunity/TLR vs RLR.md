@@ -65,12 +65,28 @@
 		3. C-Rel
 		4. p105 (NF-κB1: p50 precursor)
 		5. p100 (NF-κB2: p52 precursor)
+		- Stimulation of TLR or RLR ligands rapidly catalyzes the phospho of IκB proteins by the multiprotein IKK complex
+			- IκB proteins are subsequently polyubiquitinated and degraded, allowing for NF-κB translocation into the nucleus. 
+				- IKKβ (rather than IKKα) plays essential role in NF-κB activation in TLR & RLR signaling
 	2. Activating Transcription Factor 2 (ATF2)/c-Jun
+		- A component of AP-1, which belongs to the dimeric basic region leucine zipper protein family that binds TPA- or cAMP-response elements present in various cytokine genes
+			- AP-1 activation during TLR signaling is controlled through MAPK phosphorylation 
+				- These MAPKs are activated w/ similar kinetics after TLR engagement or viral infection
 	3. Interferon Regulatory factors IRFs
-- Stimulation of TLR or RLR ligands rapidly catalyzes the phospho of IκB proteins by the multiprotein IKK complex
-	- IκB proteins are subsequently polyubiquitinated and degraded, allowing for NF-κB translocation into the nucleus. 
-		- IKKβ (rather than IKKα) plays essential role in NF-κB activation in TLR & RLR signaling
-- 
+		- IRFs are mainly activated during virus infection and are likely to determine type I IFN induction specificity
+			- IRF3 is critically involved in IFNβ induction after infection
+				- Is a constitutively expressed protein that resides in the cytoplasm in unstimulated cells 
+					- Viral infection triggers IRF3 phospho at serine/threoine clusters in the C-terminal regulatory regions by virus-activated kinases (VAKs), 
+						- Allows IRF3 to form a homodimer, translocate into the nucleus, and bind to DNA to regulate expression of IFNβ and other IFN-stimulate gene 
+			- IRF7 is structurally the most similar to IRF3, whose activation is controlled by phospho in the C-terminal region
+				- However, IRF7 expression is weak in unstimulated cells, but dramatically induced post stimulation
+					- Therefore, IFNβ induction is dependent on initial activation of IRF3
+					- Then, secreted IFNβ acts on neighboring cells and activates pathways via type I IFN receptor to induce IRF7 expression, which may result in amplification of type I IFN induction
+- TBK1 and IKKε (IKKi) were discovered to be essential to VAKs, which phospho and activated IRF3 and IRF7
+	- IKKε expression is restricted to immune cells
+		- IKKε deficient mice showed no obvious phenotype regarding IRF3 activation and IFNβ induction
+	- TBK1 deficient mice reduced IRF3 nuclear translocation with concomitant decrease in IFNβ production when stimulated
+	- Cells deficient of both TBK1 and IKKε have complete loss of IRF3 activation and IFNβ induction
 ## TLR3 Signaling
 ## TLR7 & TLR9 Signaling
 ## RLR Signaling
