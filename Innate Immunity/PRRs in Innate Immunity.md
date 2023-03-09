@@ -17,3 +17,20 @@
 	6. AIM2-like receptors (ALRs)
 - TLRs and CLRs are both on the cell surface and in intracellular membranes transmembrane receptors
 - RLRs, NLRs, and cGAS-STING pathway are intracellular receptor groups
+## Toll-Like Receptors (TLRs)
+### Structure, Location, and Functions
+### Signal Transmission through TLRs
+#### MyD88-Dependent Pathway
+#### TRIF-Dependent Pathway
+#### Balance between MyD88-Dependent and TRIF-Dependent Pathway
+#### Intrinsic and Pathogen-Related Negative Regulation of TLR Signaling Pathways
+## NOD-Like Receptors (NLRs)
+### Formation of Inflammasomes
+### Signal Transduction
+### Activation of Transcription
+### Autophagy
+## RIG-Like Receptors (RLRs)
+### Ligands for RLRs
+### Signal Transduction through RLRs
+### RLR Regulation
+## Clinical Significance of TLRs, NLRs, and RLRs
