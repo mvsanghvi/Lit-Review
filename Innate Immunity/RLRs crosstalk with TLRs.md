@@ -2,7 +2,7 @@
 
 
 ## Introduction
-- TLRs were first PRR to be identified
+- TLRs were first [[PRRs in Innate Immunity]] to be identified
 	- Also most well characterized and recognize a wide range of PAMPs
 	- Recruit specific set of adaptor molecules that harbor TIR (Toll-IL-1 receptor) domain
 		- I.e. MyD88 and TRIF
