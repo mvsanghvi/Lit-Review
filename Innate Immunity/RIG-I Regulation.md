@@ -78,5 +78,5 @@
 - 14-3-3 proteins including 14-3-3ε and 14-3-3η can function as mitochondrial transporting chaperones
 - NS3 proteins antagonize RLR-mediated signaling by sequestrating 14-3-3 proteins
 - Zyxin, involved in actin polymerization
-	- Localizes with MAVs on the mitochondria and functions as a scaffold protein for the interaction between RLRs and MAvs
+	- Localizes with MAVs on the mitochondria and functions as a scaffold protein for the interaction between RLRs and MAVs
 - SIDT2, a dsRNA transporter protein, enhances RLR signaling by enhancing the transport of internalized dsRNA from endosomal compartments to the cytoplasm for viral detection by RLRs.
