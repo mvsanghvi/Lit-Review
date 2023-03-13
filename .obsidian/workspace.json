@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38557c71672da95d",
+            "id": "11886477c228a340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/RIG-I RNA Sensing.md",
+                "file": "RLRs crosstalk with TLRs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/RIG-I RNA Sensing.md",
+                "file": "RLRs crosstalk with TLRs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/RIG-I RNA Sensing.md",
+                "file": "RLRs crosstalk with TLRs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/RIG-I RNA Sensing.md"
+                "file": "RLRs crosstalk with TLRs.md"
               }
             }
           }
@@ -146,26 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38557c71672da95d",
+  "active": "11886477c228a340",
   "lastOpenFiles": [
-    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
+    "Innate Immunity/TLR vs RLR.md",
+    "RLRs crosstalk with TLRs.md",
+    "Innate Immunity/PRRs in Innate Immunity.md",
+    "Innate Immunity/Endogenous RNA recognition.md",
+    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
+    "Innate Immunity/5′-monophosphate RNA.md",
     "Innate Immunity/RIG-I RNA Sensing.md",
+    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
     "Innate Immunity/RIG-I Regulation.md",
     "Innate Immunity/RIG-I and MAVS.md",
     "Innate Immunity/RIG-I Immune Signaling.md",
-    "Innate Immunity/TLR vs RLR.md",
-    "Innate Immunity/PRRs in Innate Immunity.md",
     "Innate Immunity/MAVS.md",
     "Innate Immunity/RIG-I.md",
-    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
-    "Innate Immunity/5′-monophosphate RNA.md",
     "Qual Project Ideas.md",
     "Innate Immunity/TLR3 downregulated by MAVS.md",
     "Innate Immunity/Role of MAVS.md",
     "Innate Immunity/RNA Detection.md",
     "Innate Immunity/RIG-I in Development.md",
     "Innate Immunity/Innate Immune System.md",
-    "Innate Immunity/Endogenous RNA recognition.md",
     "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md"
   ]
 }
