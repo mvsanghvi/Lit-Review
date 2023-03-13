@@ -29,13 +29,19 @@
 - TFs IRF3-7 and NF-κB downstream of IFN-inducing PRRs are commonly activated and transiently induce IFN-encoding genes
 ## Activation of RLR-Mediated Signaling
 ### Association Between RLRs and MAVS
+- 3 RLRs are ubiquitously expressed in the cytoplasm
 - RIG-I detects substrate RNAs that have a panhandle double-stranded structure with a 5′-triphosphate or 5′-diphosphate moiety and activates downstream signaling in an ATP-dependent manner
+- MAVs-mediated signaling is required to increase cell membrane permeability and the subsequent K+ ion efflux that leads to the formation of the NLrP3-containing inflammasome
 ### Activation of RLR-mediated signaling
-- 
+- In steady state, RIG-I adopts an auto-repressed conformation
 ### Intracellular localization of RLRs and MAVs
 - In the inactivated state, RLRs are uniformly expressed in the cytoplasm
-- Under various stress conditions (i.e. viral infection) cells produce stress granules (SGs) to inhibit cellular protein synthesis and store the protein machinery to reinitiate translation after recovery from the stress condition.
-	- Machinery= Translationally stalled mRNAs and RNA-binding proteins
+- MAVs is also localized in MAMs (mitochondrial-associated endoplasmic reticulum membranes) and peroxisomes and regulates RLR-mediated signaling
+-  Stress granules (SGs) are membrane-less cytoplasmic aggregates to which RLRs are localized
+	- Can enhance MAVs-mediated signaling by acting as platforms for the recognition of foreign viral RNAs by RLRs
+	- Under various stress conditions (i.e. viral infection) cells produce SGs to inhibit cellular protein synthesis and store the protein machinery to reinitiate translation after recovery from the stress condition.
+		- Machinery= Translationally stalled mRNAs and RNA-binding proteins
+- Accumulation of MAVs-enriched mitochondria around RIG-I containing aggregates supports the hypothesis that SGs serve as platforms for viral detection
 ### RLRs and their involvement in autoimmune and autoinflammatory diseases
 - SNPs in DDX58 (encodes RIG-I) associated with Singleton-Merten syndrome (SMS).
 - Other mutants associated with SMS (devoid of ATP-independent activity) interact with endogenous ribosomal RNA and activate unintentional ATP-independent IFN production, resulting in SMS development
@@ -65,3 +71,12 @@
 	- 5′-triphosphate dsRNA has been shown to exhibit antiviral activity against lethal IAV infection
 	- Unique RIG-I agonist has been reported to exhibit significant antitumor activity
 	- RIG-I antagonists have also been identified with the aim of controlling excessive IFN production
+## Regulation by Host Proteins
+### Regulation by ubiquitin ligases and deubiquitinases
+- Post translational modifications plays an essential role in regulating RLR/MAVs-mediated signaling
+### Regulation by other host proteins
+- 14-3-3 proteins including 14-3-3ε and 14-3-3η can function as mitochondrial transporting chaperones
+- NS3 proteins antagonize RLR-mediated signaling by sequestrating 14-3-3 proteins
+- Zyxin, involved in actin polymerization
+	- Localizes with MAVs on the mitochondria and functions as a scaffold protein for the interaction between RLRs and MAvs
+- SIDT2, a dsRNA transporter protein, enhances RLR signaling by enhancing the transport of internalized dsRNA from endosomal compartments to the cytoplasm for viral detection by RLRs.
