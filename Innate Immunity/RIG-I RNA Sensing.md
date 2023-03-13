@@ -13,6 +13,19 @@
 - 
 ## RLR recognition of immunostimulatory RNA
 ### Activation of RIG-I by viral RNAs
+- RIG-I monitors the 5' ends of RNA molecules of several biochemical features and is activated by:
+	1. Base pairing of RNA with 5' end triphosphate group (PPP) to complementary strand of RNA
+	2. Uncapped 5' diphosphate (pp) end
+	3. Unmethylated 2'-O position at 5'-terminal
+		- CTD has a pocket binding specifically to these 3 conditions
+			- The base-paired portion of the RNA forms contacts with the helicase domain, which has ATPase activity
+				- ATP hydrolysis determines dissociation rate of RIG-I from RNA
+					- Host RNA lack molecular featurs of stimulatory RNAs
+						- Cellular mRNAs acquire a cap structure involving 2'-O-methylation in the nucleus following transcription before export to the cytoplasm
+						- 
+- Stable RIG-I and RNA interaction displaces the CARDs, stopping CARDs interaction with parts of the helicase domain
+- Freed CARDs from multiple RIG-I proteins oligomerize and become accessible for MAVs interaction, resulting in downstream signaling
+- 
 ### Activation of RIG-I by host RNAs
 ### Activation of RLRs in sterile conditions
 ## RLR regulation
