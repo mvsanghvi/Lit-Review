@@ -118,7 +118,7 @@
 ## RLR Signaling
 - RLR signaling pathways converge at NF-κB, MAPK, and IRFs for robust type I IFN induction
 - MAVs was discovered as an adaptor for RLR that provides a link between RLR and downstream signaling mols
-- Overexpression of MAVs activates IFN, IFN, IFN, and NF-κB promoters, resulting in type I IFN production that is sufficient for inhibition of viral replication
+- Overexpression of MAVs activates IFNα4, IFNα6, IFNβ promoter, and NF-κB promoters, resulting in type I IFN production that is sufficient for inhibition of viral replication
 - MAVs C-terminal tail (required for mitochondria targeting) deletion abrogates IRF3 and NF-κB activation
 	- Suggests mitochondria signaling plays important role in antiviral immune response. 
 - RIG-I deficient mice are embryonic lethal
