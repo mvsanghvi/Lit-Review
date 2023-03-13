@@ -44,6 +44,25 @@
 - RLR mutations result in spontaneous signaling in absence of stimulation
 ## RLR regulation
 ### Regulation by interacting proteins
+- Several RLR-binding proteins that regulate RLR activity by modulating several processes: 
+	- dsRNA binding to RLRs (i.e. co-receptor proteins)
+		- PACT is first reported protein
+			- Interacts with RIG-I CTD and stimulates RIG-I ATPase activity
+		- ZCCHC3 acts as co-receptor for RIG-I and MDA5 
+			- Binds with its C-terminal zinc finger domain to RNAs that activate RLRs while its N-terminal domain interacts with the helicase and CTD of RIG-I and MDA5
+	- RLR oligomerization
+	- TRIM25-mediated K63-linked ubiquitylation of RLRs
+	- subcellular localization of RLRs
 ### Regulation by non-coding RNAs
+- Long non-coding RNAs (lncRNAs) and miRNAs have emerged as important regulators of RLR signal transduction
+	- Infection/interferon stimulation triggers expression of lncRNAs
+		- Often in cell type-specific or tissue-specific manner
+	- Upon induction, some lncRNAs and miRNAs promote or dampen RLR signaling by regulating RLR gene expression or other key molecules in the RLR pathway
+		- Creating feedback or feedforward regulatory loops
+			- NEAT1 (lncRNA) is induced upon hantavirus infection
+				- Promotes RIG-I expression
+-  TRIM25 is RIG-I activator has RNA-binding capacity as well
+	- Is important for E3 ligase activity and has positive effect on RIG-I antiviral signaling
 ### Regulation by autophagy
+- 
 
