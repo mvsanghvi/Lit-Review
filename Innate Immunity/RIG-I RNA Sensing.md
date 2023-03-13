@@ -64,5 +64,6 @@
 -  TRIM25 is RIG-I activator has RNA-binding capacity as well
 	- Is important for E3 ligase activity and has positive effect on RIG-I antiviral signaling
 ### Regulation by autophagy
-- 
+- Absence of autophagy promotes RLR-mediated cytokine responses
+	- Indicates autophagy dampens RLR signaling
 
