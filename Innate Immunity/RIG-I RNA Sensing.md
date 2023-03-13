@@ -10,7 +10,13 @@
 	- Lacks CARDs
 - RIG-I at rest is in a signaling-repressed, closed conformation that is mediated by specific contacts of CARD2 with an inserting domain between 2 RecA-like helicase domains of RIG-I
 	- When bound to RNA ligand, helicase domain tightly wraps around the RNA in a C-clamp fashion
-- 
+- "Pincer" helical elements found in RIG-I helicase connect to the CTD and believed to trigger RNA binding 
+- Current RIG-I model:
+	- RIG-I binds to RNA in its monomeric form
+	- Signaling RIG-I via its CARDs require RIG-I oligomers that are nucleated and stabilized by non-degradative K63-polyubiquitin chains
+	- RLR interact with CARD domain on MAVs
+	- MAVS then activates TBK1 (TANK-binding kinase 1) and IKKε which then activate IRF3&7
+	- IRF3&7 with NF-κB induce transcription of genes encoding type 1 IFNs and other antiviral/immunoregulatory genes
 ## RLR recognition of immunostimulatory RNA
 ### Activation of RIG-I by viral RNAs
 - RIG-I monitors the 5' ends of RNA molecules of several biochemical features and is activated by:
