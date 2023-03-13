@@ -1,10 +1,37 @@
 # Regulation of [[RIG-I]]-like receptor-mediated signaling: interaction between host and viral factors
 
 ## Intro
+- IFNs (interferons), first discovered family of cytokines, were identified as host factors secreted by virus-infected cells to "interfere" with viral replication
+	- Further classified into 3 types in humans:
+		1. type I IFNs: IFNα forms (1, 2, 4-8, 10, 13, 14, 16, 17, 21), IFNβ, IIFNω, IFNε, and IFNκ
+		2. type II IFNs (IFNγ)
+		3. type III IFNs (IFNλ1-4)
+	- Type I and III IFNs play essential roles in innate immunity
+	- Type I IFN secretion induced by microbes:
+		1. Type I IFN receptor complex and surrounding noninfected cells, thereby activating cytoplasmic Janus kinases (JAK1 and TYK2)
+		2. JAK-mediated tyrosine phosphorylation activates STAT1&2
+		3. STAT1&2 with DNA-binding component IRF (IFN regulatory factor)-9 form a tripartite complex called ISGF3 (IFN stimulated gene factor 3)
+		4. ISGF3 is translocated to the nucleus
+		5. ISGF3 binds to ISRE (IFN-stimulated response element) on the promoters of hundreds of ISGs (IFN-inducible genes) and activates their transcription
+		6. Proteins encoded by ISGs induce strong antiviral innate immunity to eliminate invading viruses
+	- Type III IFNs are also activated in response to pathogenic infections
+		- However, these cytokines are recognized by a distinct receptor complex made up of IFNLR1 and interleukin (IL)-10R2
+			- Downstream signaling pathway is nearly identical to type I IFNs
+				- Results in similar antiviral activity via JAK-STAT-induced ISG production
+					- Functional different might be caused cell-type specificity producing IFNs and their receptors. 
+						- Type III IFN receptors are predominantly expressed on epithelial cells and certain myeloid cells
+- Infections detected by PRRs:
+	- dsRNA: TLR3
+	- ssRNA: TLR7&8
+	- unmethylated CpG DNA: TLR9
+	- Cytosolic RNAs: RLRs
+	- cytosolic DNA: cGAS
+- TFs IRF3-7 and NF-κB downstream of IFN-inducing PRRs are commonly activated and transiently induce IFN-encoding genes
 ## Activation of RLR-Mediated Signaling
 ### Association Between RLRs and MAVS
 - RIG-I detects substrate RNAs that have a panhandle double-stranded structure with a 5′-triphosphate or 5′-diphosphate moiety and activates downstream signaling in an ATP-dependent manner
 ### Activation of RLR-mediated signaling
+- 
 ### Intracellular localization of RLRs and MAVs
 - In the inactivated state, RLRs are uniformly expressed in the cytoplasm
 - Under various stress conditions (i.e. viral infection) cells produce stress granules (SGs) to inhibit cellular protein synthesis and store the protein machinery to reinitiate translation after recovery from the stress condition.
