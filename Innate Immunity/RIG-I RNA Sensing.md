@@ -22,12 +22,26 @@
 				- ATP hydrolysis determines dissociation rate of RIG-I from RNA
 					- Host RNA lack molecular featurs of stimulatory RNAs
 						- Cellular mRNAs acquire a cap structure involving 2'-O-methylation in the nucleus following transcription before export to the cytoplasm
-						- 
+						- 18S and 28S rRNAs and tRNAs are processed in the nucleus and their mature, cytosolic forms typically only have a single phosphate at the 5' end.
+							- Monophosphates (5'P) may even block RIG-I
+						- 5S rRNA retains a 5'-ppp moiety, but it's methylated and extensively complexed with proteins. 
 - Stable RIG-I and RNA interaction displaces the CARDs, stopping CARDs interaction with parts of the helicase domain
 - Freed CARDs from multiple RIG-I proteins oligomerize and become accessible for MAVs interaction, resulting in downstream signaling
-- 
 ### Activation of RIG-I by host RNAs
+- Infection can also result in RIG-I activation by host cellular RNAs
+- Some herpesviruses lead to:
+	- 5S rRNA pseudogene transcripts to become highly enriched
+		- Biological function are poorly understood
+		- Have 5'ppp groups and self-complementary regions
+		- Mislocalize to the cytoplasm in infected cells
+	- Vault RNAs (vtRNAs) are highly enriched
+		- Are highly self-complementary, are transcribed in the nucleus  with a 5'ppp group from the initiating ribnucleotide
+		- vtRNAs participate in the formation of cytoplasmic ribonucleoprotein particles called vaults
+		- DUSP11 (dual specificity phosphatase 11) usually removes 2 phosphates from the 5' end of vtRNAs to make 5'P.
+			- Infection reduces DUSP11, leaving 5'PPP-bearing vtRNAs that then activate RIG-I
+	- Concomitantly, non-coding cellular Y-RNAs accumulate in their 5'PPP form and bind to RIG-I
 ### Activation of RLRs in sterile conditions
+- RLR mutations result in spontaneous signaling in absence of stimulation
 ## RLR regulation
 ### Regulation by interacting proteins
 ### Regulation by non-coding RNAs
