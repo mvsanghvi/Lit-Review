@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
+                "file": "Innate Immunity/PRRs in Innate Immunity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
+                "file": "Innate Immunity/PRRs in Innate Immunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
+                "file": "Innate Immunity/PRRs in Innate Immunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md"
+                "file": "Innate Immunity/PRRs in Innate Immunity.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "8d6481cb08cf9813",
   "lastOpenFiles": [
+    "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
     "Innate Immunity/Endogenous RNA recognition.md",
     "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
     "Innate Immunity/5′-monophosphate RNA.md",
