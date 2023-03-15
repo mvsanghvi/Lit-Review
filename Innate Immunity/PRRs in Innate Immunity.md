@@ -17,7 +17,11 @@
 	6. AIM2-like receptors (ALRs)
 - TLRs and CLRs are both on the cell surface and in intracellular membranes transmembrane receptors
 - RLRs, NLRs, and cGAS-STING pathway are intracellular receptor groups
-- 
+- Receptor stimulation leads to triggering a cascade of signaling pathways
+	- Leads increased production of IFN-1, proinflam cytokines, and other proinflam substances
+- Alternative infection fighting: Direct destruction of infected cells by pyrolysis or autophagocytosis
+	- Once DAMPS are recognized, signaling pathways within the cells are also activated
+		- Leads to production of various cytokines and chemokines
 ## Toll-Like Receptors (TLRs)
 ### Structure, Location, and Functions
 - 
