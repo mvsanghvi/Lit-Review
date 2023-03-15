@@ -169,7 +169,14 @@ TRIF protein interacts with TRAF3 and 6.
 	- Instead some respond to presence of cytokines such as interferons
 - # Insert table here
 ### Signal Transduction
-- 
+1. The NOD1 receptor recognizes peptidoglycan
+	- The NOD2 receptor recognizes bacterial G(-)/(+) MDP
+2. Upon binding to ligand, the NLRS bind to RIPK2 (receptor-interacting serine/threonine-protein kinase 2) to form RIPK2-IkB complex
+3. RIPK2 causes activation of TAK1 kinase
+	- Prereq for IKK complex and MAPK pathway activation
+4. IKK-dependent dephosphoryation of IκB (NF-κB inhibitor) leads to NF-κB translocation to cell nucleus and increase transcription of target genes
+	- Activation of MAPK pathway also results in increased secretion of proinflam cytokines by the cell
+- **Some NLRs play roles as inhibitors of intracellular signaling pathways mediated by different receptors**
 ## RIG-Like Receptors (RLRs)
 - 
 ### Ligands for RLRs
