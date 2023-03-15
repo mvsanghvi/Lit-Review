@@ -121,7 +121,53 @@ TRIF protein interacts with TRAF3 and 6.
 			- Results in MyD88 degradation and TBK1 activation
 				- Results in decreased production of proinflam cytokines and increased IFN I production
 ## NOD-Like Receptors (NLRs)
-- 
+- Present in cells of invertebrates and vertebrates
+- 22 receptors of NLRs have been found in humans
+- Structure includes a common domain organization
+		a. Centrally located nucleotide-binding NACHT domain (NAIP, HET-E, TP-20) that participates in auto-oligomerization
+			-Is essential for ATP-dependent activation of NLRs
+		b. N-terminal effector domain that binds to adaptor proteins and downstream effectors to convey receptor excitatory information
+		c. C-terminal region that is composed of varying # of LRR repeats
+			-Is responsible for ligand recognition
+- Human NLRs are divided into 4 subgroups:
+	1. NLRA
+		- An AD (acidic transactivation domain)- subgroup
+		- Includes only one type of receptor: CITTA (Class II Histocompatibility Complex Transactivator)
+	1. NLRB
+		- BIR (baculoviral inhibitory repeat-like domain)-subgroup
+		-  Includes only one type of receptor: NAIP (NLR Family Apoptosis Inhibitory Protein)
+			- NAIP is considered as a sensor of bacteria flagellin or type-3 secretion system components delivered by pathogens leading to NLRC4 inflammasome activation
+	1. NLRC
+		- CARD-subgroup
+		- Involves 6 receptors:
+			1. NLRC1, NOD1 (Nucleotide oligomerization domain 1)
+			2. NLRC2, NOD2 (Nucleotide oligomerization domain 2)
+			3. NLRC3
+			4. NLRC4
+			5. NLRC5
+			6. NLRX1
+		- NOD 1 and 2 are considered 2 major receptors belonging to NLRC
+			- Recognize intra-bacterial building blocks that enter the cell through direct bacterial invasion of through **other cellular uptake mechanisms**
+	1. NLRP
+		- PYD (Pyrin domain)-subgroup
+		- Includes 14 receptors characterized by the presence of a PYD domain at the N-terminus that is responsible for transmitting an pyroptotic signal or inducing an inflam repsonse
+		- Plays a significant role in both innate immunity and mammalian reproduction
+			- **NLRPs may play a role in oogenesis and early stages of embryogenesis pre-implantation**
+- NLRs recognize a wide range of PAMPS
+	- Bacterial cell wall components (i.e. flagellin, peptidoglycan)
+	- Microbial secreted toxins
+	- Viral RNA
+	- Fungal Sharps
+	- Entire microbial and parasitic organisms
+- Also recognize DAMPs
+	- ATP
+	- Hyaluronic acid
+	- Sodium urate (MSU)
+	- Uric acid
+	- Cholesterol crystals
+- Not all NLRs function as PRRs
+	- Instead some respond to presence of cytokines such as interferons
+- # Insert table here
 ### Signal Transduction
 - 
 ## RIG-Like Receptors (RLRs)
