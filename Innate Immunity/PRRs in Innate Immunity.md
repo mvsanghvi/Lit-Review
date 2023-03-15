@@ -24,7 +24,48 @@
 		- Leads to production of various cytokines and chemokines
 ## Toll-Like Receptors (TLRs)
 ### Structure, Location, and Functions
-- 
+- First receptors encoded by mutated *toll* gene were in Drosophila
+	- Found to be responsible for developmental processes and the immune system
+- TLRs are germline encoded, evolutionarily old proteins
+- Species-specific genetically determined # of TLRs
+	- Drosophila: 9
+	- Purple sea urchin: 222
+	- Humans: TLR1-10
+	- Mice: TLR1-13, excluding TLR10
+- TLRs are expressed both in immune cells and the surface of epithelial, endothelial, and fibroblast cells
+	- Localizations:
+		- Cell surface: TLR1, 2, 4-6
+		- Endosomal membranes TLR 3, 7-9
+	- Composed of: 
+		a. Extracellular N-terminal LRR (leucine-rich repeat)
+			-Is responsible for recognizing ligands
+				a. proteins (i.e bacterial flagellin)
+				b. sugars (i.e. fungal zymogen)
+				c. lipids (bacterial lipopolysaccharide)
+				d. nucleic acids (DNA and RNA of viruses)
+		b. Single transmembrane domain
+		c. TIR domain (Intracellular Toll/IL-1R receptor)
+			-Shows similarity to cytoplasmic region of IL-1 receptor
+			-Is essential for activating signal transduction cascade 
+- TLRs are synthesized in the ER and then transported to target sites (in mammals)
+	- ER-associated chaperone protein gp96, PRAT4A, and Unc93B1 play important roles in generation, maturation, and proper folding of receptors
+		- gp96 and PRAT4A play a role in TLR receptor ligand recognition (except TLR3)
+			- Loss of led to TLR receptors not showing ligand recognition activity, and thus reduction in production of IFNS and proinflam cytokines
+		-  Unc93B1 is a chaperone protein binding endoplasmic TLRS (TLR3, 7, 9) and TLR5 in the cytoplasmic reticulum
+			- Facilitates their maturation
+			- Upon attachment and including TLR8 and 13, the LRR domain is fragmented by cathepsins
+				- Resulting domains remain connected to each other
+					- Allows receptor dimers to form and function properly
+						- Intact receptors still recognize PAMPs, but can't trigger the signaling cascade
+- TLR 1, 2, 6 form heterodimers with each other through which to recognize mainly triacylated lipopeptides and diacylated lipopeptides
+	- TLR1/2 or TLR2/6
+	- TLR2 alone presents widest range of detectable ligands:
+		a. bacterial proteins
+		b. hemagglutinins (from smallpox)
+		c. glycolipids
+		d. glycopeptides
+		e. lipoproteins
+- # Insert table here
 ### Signal Transmission through TLRs
 #### MyD88-Dependent Pathway
 #### TRIF-Dependent Pathway
