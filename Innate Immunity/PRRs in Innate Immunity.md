@@ -57,7 +57,7 @@
 				- Resulting domains remain connected to each other
 					- Allows receptor dimers to form and function properly
 						- Intact receptors still recognize PAMPs, but can't trigger the signaling cascade
-- TLR 1, 2, 6 form heterodimers with each other through which to recognize mainly triacylated lipopeptides and diacylated lipopeptides
+- TLR 1, 2, 6 form heterodimers with each other through which to recognize mainly tri-acylated lipopeptides and diacylated lipopeptides
 	- TLR1/2 or TLR2/6
 	- TLR2 alone presents widest range of detectable ligands:
 		a. bacterial proteins
@@ -67,6 +67,27 @@
 		e. lipoproteins
 - # Insert table here
 ### Signal Transmission through TLRs
+1. Initiation of the signaling pathway beigns with dimerization of intracellular TIR domains
+	- Involves formation of a dimer by the two extramembrane domains followed by formation of a dimer by the TIR domains
+		- TLR3-5 and 7-9 form homodimers while TLR 1, 2, and 6 form heterodimers
+			- Each dimer binds different amounts of ligand
+				- TLR3 binds a single dsDNA molecule
+				-  TLR1/2 or TLR2/6 bind a single di- or tri-acetylated lipoprotein molecule each
+				- TLR9 attaches 2 CpG-rich DNA fragments
+				- TLR4 attaches two LPS (lipopolysaccharide) molecules each
+2. TIR dimers attach one of the TIR-domain containing adaptor proteins
+	- Includes: 
+		- MyD88
+			- Can be used by all TLRs to activate NF-κB and MAPKs and, as a downstream product of that, proinflam cytokines
+				-  TIRAP/MAL
+					- Protein involved in attachment of MyD88 to membrane TLRs (i.e. TLR2 and 4)
+					- Is directly involved in signal transduction by endosomal TLRs (i.e TLR9)
+		- TRIF
+			- Attached to TLR3 or 4 and promotes an alternative signaling pathway leading to activation of IRF3, NF-κB, and MAPKs and, as a downstream product of that, increase IFN I synthesis and proinflam cytokines
+				- TLR3 connects directly to TRIF
+				- TRAM
+					- Attached to TLR4 and bridges it and TRIF
+- TLR signaling pathway is determined by the adaptor attached
 #### MyD88-Dependent Pathway
 #### TRIF-Dependent Pathway
 #### Balance between MyD88-Dependent and TRIF-Dependent Pathway
