@@ -110,7 +110,16 @@ TRIF protein interacts with TRAF3 and 6.
 6. c. Pellino-1 is also phosphorylated by TBK1/IKKe, accelerating RIP-1 ubiquitination
 	- Suggests Pellino-1 mediates NF-κB activation through RIP-1 recruitment
 #### Balance between MyD88-Dependent and TRIF-Dependent Pathway
-
+- TLR4 activates both MyD88- and TRIF-dependent conduction pathway
+	- Activation of them is under the control of several proteins
+- TRAF3 is a protein found in both myddosome and triffosome complex
+- In MyD88:
+	- TRAF3 is degraded
+		- Results in activation in TAK1
+	- TRAF3 also functions as an inhibitor in MyD88-Dependent Pathway
+		- NRFP-1 E# ubiquitin ligase binds and ubiquitinates MyD88 and TBK1
+			- Results in MyD88 degradation and TBK1 activation
+				- Results in decreased production of proinflam cytokines and increased IFN I production
 ## NOD-Like Receptors (NLRs)
 - 
 ### Signal Transduction
