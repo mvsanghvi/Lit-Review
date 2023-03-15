@@ -102,6 +102,13 @@
 	8. b. Stabilizes mRNA
 	9. b. Leads to regulation of inflam responses
 #### TRIF-Dependent Pathway
+TRIF protein interacts with TRAF3 and 6.
+3. b. TRAF6 recruits RIP-1 kinase
+4. b. TAK1 complex is activated
+5. b.  TRAF3 recruits TBK1 and IKKe, which interact with NEMO protein during IRF3 phospohrylation
+6. b. IRF3 forms dimers that travel to the cell nucleus and cause increased IFN I gene expression
+6. c. Pellino-1 is also phosphorylated by TBK1/IKKe, accelerating RIP-1 ubiquitination
+	- Suggests Pellino-1 mediates NF-κB activation through RIP-1 recruitment
 #### Balance between MyD88-Dependent and TRIF-Dependent Pathway
 
 ## NOD-Like Receptors (NLRs)
