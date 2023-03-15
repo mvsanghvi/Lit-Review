@@ -8,3 +8,5 @@
 - Not all NLRs function as PRRs
 	- Instead some respond to presence of cytokines such as interferons
 		- RLR could be activated first but also rescued by other PRRs that recognize cytokine response
+- **Some NLRs play roles as inhibitors of intracellular signaling pathways mediated by different receptors**
+	- So could include Notch too?
