@@ -178,7 +178,10 @@ TRIF protein interacts with TRAF3 and 6.
 	- Activation of MAPK pathway also results in increased secretion of proinflam cytokines by the cell
 - **Some NLRs play roles as inhibitors of intracellular signaling pathways mediated by different receptors**
 ## RIG-Like Receptors (RLRs)
-- 
+- Core domain and CTD interact to detect RNA immunostimulators
+- CARD is responsible for transducing the ligand recognition signal
+	- LGP2 lacks a CARD domain and is believed to be a receptor that regulates RIG-I and MDA5
+		- Inhibits RIG-I and enhances MDA5 response
 ### Ligands for RLRs
 ### Signal Transduction through RLRs
 ### RLR Regulation
