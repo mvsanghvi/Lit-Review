@@ -3,3 +3,8 @@
 - Over express RIG-I/Mavs to simulate stimulation in foreign presence and look at read-out of somitogenesis
 	- KO upstream of NF-κB (or constitutively active NF-κB) to simulate stimulation
 - Rescue experiment
+
+
+- Not all NLRs function as PRRs
+	- Instead some respond to presence of cytokines such as interferons
+		- RLR could be activated first but also rescued by other PRRs that recognize cytokine response
