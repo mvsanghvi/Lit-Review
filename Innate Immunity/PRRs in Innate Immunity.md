@@ -67,7 +67,7 @@
 		e. lipoproteins
 - # Insert table here
 ### Signal Transmission through TLRs
-1. Initiation of the signaling pathway beigns with dimerization of intracellular TIR domains
+1. Initiation of the signaling pathway begins with dimerization of intracellular TIR domains
 	- Involves formation of a dimer by the two extramembrane domains followed by formation of a dimer by the TIR domains
 		- TLR3-5 and 7-9 form homodimers while TLR 1, 2, and 6 form heterodimers
 			- Each dimer binds different amounts of ligand
@@ -174,7 +174,7 @@ TRIF protein interacts with TRAF3 and 6.
 2. Upon binding to ligand, the NLRS bind to RIPK2 (receptor-interacting serine/threonine-protein kinase 2) to form RIPK2-IkB complex
 3. RIPK2 causes activation of TAK1 kinase
 	- Prereq for IKK complex and MAPK pathway activation
-4. IKK-dependent dephosphoryation of IκB (NF-κB inhibitor) leads to NF-κB translocation to cell nucleus and increase transcription of target genes
+4. IKK-dependent dephosphorylation of IκB (NF-κB inhibitor) leads to NF-κB translocation to cell nucleus and increase transcription of target genes
 	- Activation of MAPK pathway also results in increased secretion of proinflam cytokines by the cell
 - **Some NLRs play roles as inhibitors of intracellular signaling pathways mediated by different receptors**
 ## RIG-Like Receptors (RLRs)
@@ -196,5 +196,26 @@ TRIF protein interacts with TRAF3 and 6.
 	- High molecular weight 
 - Host cellular RNA can be a RLR ligand during infection
 ### Signal Transduction through RLRs
+- In uninfected cells:
+	- RIG-I and MDA5 are constitutively phosphorylated at several specific serine and threonine residues in the CTD and CARD domains
+		- Keeps them in state of suppressed signal transduction
+	- RIG-I is maintained in an auto-repressed conf. due to interactions btwn helicase domain and CARD domain
+		- MDA5 presents an open conformation without foreign RNA presence
+- In infected cells and upon RNA binding:
+	1. RLRs undergo conformational change dependent on their ATPase activity
+		- This is stimulated by binding to PACT (protein kinase R activator)
+	2. Conf. changes triggers the release of CARD domains that bind to regulatory molecules
+	3. RIG-I/MDA5 bind to phosphatase PP1-isoform PP1A or PP1γ
+		- Causes dephosphorylation of CARD domains
+	4. RIG-I attaches to TRIM (tripartite motif protein 25) and Riplet (RNF135), which attach Lys63-linked ubiquitin polymers to the CARDs and C-terminal domains
+		- This attachment is essential for tetramerization process of RIG-I and its interaction with MAVS located on the MAMs/mitochondria outer membrane
+			- MDA5 binds dsRNA using Hel-CTD domains and forms filaments along the entire length of dsRNA (unlike RIG-I)
+				- Doesn't bind dsRNA ends so filament formation is necessary for stable dsRNA binding and activation and these filaments bind to MAVS
+	5.  MAVS forms prion-like filament structures that initiates the formation of a large signaling complex composed of TRAP (Tumor necrosis factor Receptor-Associated Factors) and TBK1 (AKA IKKE) 
+	6. The IKK complex (made up of IKKa, B, and y) is activated on ubiquitin chains anchored to the TRAFs.
+	7. This leads to the activation of IRF3 and/or IRF7 and NF-κB, that (with the participation of AP1) lead to increased IFN and cytokine (TNF, IL-6, and IL-8) transcriptional activity
+	8.  IFNa/B secretion leads to increased transcription of a # of ISGs (interferon stimulated genes)
+	9.  Results in the creation of an "antiviral env." in infected and adjacent healthy cells
+- RIG-I and MDA5 have the ability to block viral rep by directly inhibiting the binding of viral proteins to viral RNA
 ### RLR Regulation
 
