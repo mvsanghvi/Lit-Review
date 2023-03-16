@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/PRRs in Innate Immunity.md",
+                "file": "Qual Project Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/PRRs in Innate Immunity.md",
+                "file": "Qual Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/PRRs in Innate Immunity.md",
+                "file": "Qual Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/PRRs in Innate Immunity.md"
+                "file": "Qual Project Ideas.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "8d6481cb08cf9813",
   "lastOpenFiles": [
-    "Innate Immunity/RIG-I Regulation.md",
     "Innate Immunity/PRRs in Innate Immunity.md",
+    "Innate Immunity/RIG-I Regulation.md",
     "Innate Immunity/RIG-I in Development.md",
     "Innate Immunity/RIG-I Immune Signaling.md",
     "Innate Immunity/RIG-I and MAVS.md",
