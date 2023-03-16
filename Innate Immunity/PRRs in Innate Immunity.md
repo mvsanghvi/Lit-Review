@@ -183,6 +183,18 @@ TRIF protein interacts with TRAF3 and 6.
 	- LGP2 lacks a CARD domain and is believed to be a receptor that regulates RIG-I and MDA5
 		- Inhibits RIG-I and enhances MDA5 response
 ### Ligands for RLRs
+- Structures recognized by the RIG-I receptor are ss and dsRNA: 
+	- 5'ppp
+	- 5'pp
+		- Both must also have adjacent neighboring structures paired in conformation (i.e. a hairpin)
+		- Not present in most mature cellular RNA
+		- Recognizes genomic RNA as well as RNA of damaged interfering molecules of some viruses, the 5'E-region
+		- Shorter dsRNA fragments
+- MDA5 recognizes:
+	- large ss or dsRNA aggregates
+		- ribose 2'-O methylation in the 5'-cup structure avoids MDA5 activation
+	- High molecular weight 
+- Host cellular RNA can be a RLR ligand during infection
 ### Signal Transduction through RLRs
 ### RLR Regulation
 
