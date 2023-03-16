@@ -218,4 +218,9 @@ TRIF protein interacts with TRAF3 and 6.
 	9.  Results in the creation of an "antiviral env." in infected and adjacent healthy cells
 - RIG-I and MDA5 have the ability to block viral rep by directly inhibiting the binding of viral proteins to viral RNA
 ### RLR Regulation
+- ZAPs protein binding to RIG-I causes its oligomerization and enhances its ATPase properties leading to increased IFN I production
+- TRIM25 accelerates K63-linked polyubiquitination in the CARD domain and enhances the interaction btwn RIG-I and MAVS
+- USP15 prevents LUBAC-dependent degradation of TRIM25, which also promotes RIG-I signaling pathways
+	- Ubiquitination is a reversible process
+- MAVS complex stability is regulated by several E3 ligases 
 
