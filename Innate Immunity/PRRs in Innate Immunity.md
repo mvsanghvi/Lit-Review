@@ -65,7 +65,7 @@
 		c. glycolipids
 		d. glycopeptides
 		e. lipoproteins
-- # Insert table here
+![[Pasted image 20230317133318.png]]
 ### Signal Transmission through TLRs
 1. Initiation of the signaling pathway begins with dimerization of intracellular TIR domains
 	- Involves formation of a dimer by the two extramembrane domains followed by formation of a dimer by the TIR domains
@@ -167,7 +167,7 @@ TRIF protein interacts with TRAF3 and 6.
 	- Cholesterol crystals
 - Not all NLRs function as PRRs
 	- Instead some respond to presence of cytokines such as interferons
-- # Insert table here
+![[Pasted image 20230317133401.png]]
 ### Signal Transduction
 1. The NOD1 receptor recognizes peptidoglycan
 	- The NOD2 receptor recognizes bacterial G(-)/(+) MDP
