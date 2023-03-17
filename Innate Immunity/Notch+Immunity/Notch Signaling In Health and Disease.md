@@ -1,7 +1,11 @@
 # Role of [[Notch signaling]] in regulating innate immunity and inflammation in health and disease
 
 ## Introduction
-- 
+- Notch signaling pathway is evolutionarily conserved
+	- Regulates cell proliferation, apoptosis, and cell fate decisions during development and adult tissue homeostasis
+- Mammalian cells have 4 Notch receptors 
+	- are large single-pass type I transmembrane proteins involved in transducing specific extracellular signals to the nucleus in response to ligand binding. 
+	- Notch 1-4
 ## Active Notch Signaling Under Inflammatory Conditions
 - RBPJ- Gene encoding key nuclear mediator in canonical Notch
 - Association of active Notch signaling with inflammatory conditions
