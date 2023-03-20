@@ -30,3 +30,15 @@
 	3. MAVS CARD rapidly forms prion-like aggregates, which convert other MAVS on the mitochondrial outer membrane into prion-like aggregates
 	4. MAVS binds through its PRR domain of TRAF 2//5/OR 6 which promotes activation of IKK (alpha/beta) complex. 
 	5. The complex activates NF-κB to promote the transcription of proinflammatory cytokines
+## Regulation of MAVS activity under physiological conditions and during viral infection
+### Post-transcriptional Regulation of MAVS
+### Post-translational Regulation of MAVS
+##### Post-transcriptional Positive Regulation of MAVS
+##### Post-transcriptional Negative Regulation of MAVS
+###### MAVS Regulation by Ubiquitination
+## Regulation of MAVS by viral proteins
+### Cleavage of MAVS
+### Degradation of MAVS
+### Modulation of MAVS Signaling
+## Conclusion
+
