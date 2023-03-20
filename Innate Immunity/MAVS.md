@@ -96,4 +96,8 @@
 ### Degradation of MAVS
 ### Modulation of MAVS Signaling
 ## Conclusion
+- Cells and viruses regulate MAVS at both the post-transcriptional and post-translational levels using multiple mechanisms
+	- Ubiquitination plays a particularly crucial role in initiating, maintaining, and curtailing RLR-mediated signaling pathways
+	 - K27, 48, and 63-linked ubiquitination acting in concert to regulate MAVS signaling.
+		- Other types (i.e. K6, 11, 29, and 33) is unclear
 
