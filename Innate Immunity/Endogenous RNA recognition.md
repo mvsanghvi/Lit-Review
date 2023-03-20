@@ -12,8 +12,11 @@
 	- Destabilizing ds parts through A-to-I editing
 	- SF2 domain of RLRs itself confers a proof-reading activity by removing RIG-I from self-RNA so as to avoid autoimmunity
 	- ATP turnover can lead to translocation on dsRNA stems that could remove the protein from the RNA and reinstall the inactivated state
-- SNPs (single-nucleotide polymorphisms) in RLR genes lead to system-wide autoimmune dieases 
+- SNPs (single-nucleotide polymorphisms) in RLR genes lead to system-wide autoimmune diseases 
 ## Results 
 - 
 ## Discussion
-- 
+- Our data suggests that RIG-I mutations (C268F SMS) stabilize signal-on state of RIG-I independently of ATP when in the presence of RNA
+	- Through salt bridge between K270 from domain 1A and E702 from 2A
+- However, ATP further increases binding of RIG-I C268F to internal dsRNA stems
+- The P-loop mutation can mimic the effects of ATP binding
