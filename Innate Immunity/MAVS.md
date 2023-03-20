@@ -66,7 +66,31 @@
 ##### Post-transcriptional Negative Regulation of MAVS
 - Mainly K48-linked ubiquitination modification, signal blocking, autophagy, and apoptosis
 ###### MAVS Regulation by Ubiquitination
+- Binding of various adaptor proteins to MAVS modulates its ubiquitination-mediated degradation
+	- I.e.:
+		- Poly C-binding protein 2 (PCBP2) is upregulated after viral infection
+		- PCBP1 has similar role but expression is not altered by viral infection
+			- PBCB1-mediated promotion of degradation is under physiological conditions
+			- PCBB2 does the same, but under viral conditions to re-establish homeostasis and avoid excessive immune signaling
 ###### MAVS blockade via direct protein interaction
+- Direct binding of TTLL12 (tubulin-tyrosine ligase-like protein 12) to MAVS, TBK1, and IKKε
+	- Expression reduced during viral infection, thereby releasing the block in MAVS-mediated activation of the immune response
+- Lactate acts as a key (-) regulator of RLR signaling via direct binding to the MAVS TM domain
+	- Thus prevents MAVS mitochondrial localization, aggregate formation, and signaling function
+	- Lactate has long been considered metabolic waste product of anaerobic glycolysis
+- Binding of activated RIG-I to MAVS causes dissociation of HK2 (hexokinase II), leading to a reduction in glycolysis and lactate production, attenuation of lactate-mediated MAVS inhibition, and upregulation of downstream signaling for IFN production
+###### MAVS Regulation related to apoptosis and autophagy
+- When other mechanisms fail, apoptosis can be used as a strategy to inhibit viral replication.
+- However, the cell has also evolved various feedback mechanisms to ensure timely inhibition of immune signaling to avoid excessive tissue damage
+	- NLRP11 (IFN I-induced Nod-like receptor) is upregulated after viral infection and can inhibit type I IFN production. 
+- NLRP11 strongly interacts with TRAF6 and promotes k48-linked ubiquitination degradation of TRAF6, thereby inhibiting RLR signaling
+	- TRAF6 is involved in apoptosis after viral infection
+		- NLRP11 can potentially inhibit apoptosis, ensuring survival of the host cells
+- Autophagy, a cellular degradation process, acts as an antiviral defense mechanism by clearing intracellular micro-organisms and interacting with the innate immune response
+- Tetherin is IFN-induced membrane protein that is upregulated following viral infection
+	- Induced K27-linked ubiquitination of MAVS and, through additional binding, leads to lysosomal degradation
+		- Can be considered another negative feedback mechanism that suppresses excessive signaling
+- MAVS-mediated antiviral immunity include MAVS phosphorylation and induces MAVS degradation
 ## Regulation of MAVS by viral proteins
 ### Cleavage of MAVS
 ### Degradation of MAVS
