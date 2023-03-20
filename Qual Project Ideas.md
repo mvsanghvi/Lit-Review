@@ -15,3 +15,12 @@
 		- RLR could be activated first but also rescued by other PRRs that recognize cytokine response
 - **Some NLRs play roles as inhibitors of intracellular signaling pathways mediated by different receptors**
 	- So could include Notch too?
+
+
+# Experiment Ideas for studying RIG-I interactions and RNA analysis
+1. IP RIG-I & mutants from noninfected & infected HEK 293T RIG-I KO cells and analyzed copurified RNA molecules
+2. Analyze on Bioanalyzer RNA chip or agarose gel
+3. Sedimentation assays via ultra-centrifugation of sucrose cushions loaded with 80S ribosomes
+4. EMSA (electrophoretic mobility shift assay)
+5. Fluoresce anisotropy experiments to dissect influence of different RNA ends
+6. ATP hydrolysis assays
