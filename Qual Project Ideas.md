@@ -16,6 +16,11 @@
 - **Some NLRs play roles as inhibitors of intracellular signaling pathways mediated by different receptors**
 	- So could include Notch too?
 
+- Notch regulates Innate Immunity
+	- Meaning notch is recognizing something to tell TLRs what to do
+	- Notch signaling stimulated by foreign species. Normally binds with RIG-I, and stimulation then goes down RIG-I pathway.
+		- With RIG-I gone, Notch lacks something to communicate with within the cell so it causes downstream effects on the Notch pathway itself
+
 
 # Experiment Ideas for studying RIG-I interactions and RNA analysis
 1. IP RIG-I & mutants from noninfected & infected HEK 293T RIG-I KO cells and analyzed copurified RNA molecules

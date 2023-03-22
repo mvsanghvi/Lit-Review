@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/MAVS.md",
+                "file": "Qual Project Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/MAVS.md",
+                "file": "Qual Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/MAVS.md",
+                "file": "Qual Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/MAVS.md"
+                "file": "Qual Project Ideas.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "f5a13d706d05d7ac",
   "lastOpenFiles": [
+    "Innate Immunity/MAVS.md",
     "Innate Immunity/RIG-I Regulation.md",
     "Innate Immunity/RIG-I in Development.md",
     "Innate Immunity/RIG-I Immune Signaling.md",
@@ -159,7 +160,6 @@
     "Innate Immunity/Endogenous RNA recognition.md",
     "Innate Immunity/5′-monophosphate RNA.md",
     "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
-    "Innate Immunity/MAVS.md",
     "Innate Immunity/Notch+Immunity/Notch Signaling and Immunity.md",
     "Innate Immunity/PRRs Table 2.png",
     "Innate Immunity/PRRs Table 1.png",
