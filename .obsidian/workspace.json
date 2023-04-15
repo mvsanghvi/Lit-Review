@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Somitogenesis and Segmentation.md",
+                "file": "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Somitogenesis and Segmentation.md",
+                "file": "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Somitogenesis and Segmentation.md",
+                "file": "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Somitogenesis and Segmentation.md"
+                "file": "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "f5a13d706d05d7ac",
   "lastOpenFiles": [
+    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
+    "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
+    "Embryology+Somitogenesis/Somitogenesis and Segmentation.md",
     "Embryology+Somitogenesis/Recapitulating human segmentation clock w PSCs.md",
     "Embryology+Somitogenesis/Primate Gastrulation and Early Organogenesis at Single-cell Resolution.md",
     "Embryology+Somitogenesis/Paraxial Mesoderm.md",
@@ -161,19 +164,16 @@
     "Embryology+Somitogenesis/Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene.md",
     "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
     "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
-    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
     "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
     "Innate Immunity/Notch+Immunity/Notch Signaling In Health and Disease.md",
     "Innate Immunity/Notch+Immunity/Notch Signaling and Immunity.md",
     "Innate Immunity/Notch+Immunity/Notch Crosstalk with canonical NF-κB.md",
     "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
     "Innate Immunity/Notch+Immunity/Notch and IFN-gamma Pathways.md",
-    "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
     "Qual Project Ideas.md",
     "Innate Immunity/MAVS.md",
     "Innate Immunity/RIG-I Regulation.md",
     "Innate Immunity/RIG-I in Development.md",
-    "Innate Immunity/RIG-I Immune Signaling.md",
     "Innate Immunity/MAVS Table 1.png",
     "Innate Immunity/PRRs Table 2.png",
     "Innate Immunity/PRRs Table 1.png",
