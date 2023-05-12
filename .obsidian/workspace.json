@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
+                "file": "Innate Immunity/PRRs in Innate Immunity.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a88af49bb9e0372e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Innate Immunity/PRRs Table 1.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +75,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a1c2360969f86733",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
+                "file": "Innate Immunity/PRRs Table 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
+                "file": "Innate Immunity/PRRs Table 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md"
+                "file": "Innate Immunity/PRRs Table 1.png"
               }
             }
           }
@@ -146,37 +165,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5a13d706d05d7ac",
+  "active": "a88af49bb9e0372e",
   "lastOpenFiles": [
-    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
-    "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
-    "Embryology+Somitogenesis/Somitogenesis and Segmentation.md",
-    "Embryology+Somitogenesis/Recapitulating human segmentation clock w PSCs.md",
-    "Embryology+Somitogenesis/Primate Gastrulation and Early Organogenesis at Single-cell Resolution.md",
-    "Embryology+Somitogenesis/Paraxial Mesoderm.md",
-    "Embryology+Somitogenesis/Notch Signaling- A simple pathway becomes complex.md",
-    "Embryology+Somitogenesis/Notch Signaling.md",
-    "Embryology+Somitogenesis/Mechanisms of vertebrate segmentation.md",
-    "Embryology+Somitogenesis/Hes7 in the Segmentation Clock.md",
-    "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
-    "Embryology+Somitogenesis/Hes 7.md",
-    "Embryology+Somitogenesis/Embryology Overview.md",
-    "Embryology+Somitogenesis/Accelerating the Tempo of the Segmentation Clock by Reducing the Number of Introns in the Hes7 Gene.md",
-    "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
-    "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
+    "Innate Immunity/PRRs in Innate Immunity.md",
+    "Innate Immunity/PRRs Table 2.png",
+    "Innate Immunity/TLR vs RLR.md",
+    "Innate Immunity/5′-monophosphate RNA.md",
+    "Innate Immunity/ATP hydrolysis and Endogenous RNA.md",
+    "Innate Immunity/Endogenous RNA recognition.md",
+    "Innate Immunity/Innate Immune System.md",
+    "Innate Immunity/MAVS.md",
+    "Innate Immunity/RIG-I.md",
+    "Innate Immunity/RIG-I and MAVS.md",
+    "Innate Immunity/RIG-I Immune Signaling.md",
+    "Innate Immunity/RIG-I in Development.md",
+    "Innate Immunity/RIG-I Regulation.md",
+    "Innate Immunity/RIG-I RNA Sensing.md",
+    "Innate Immunity/RLRs crosstalk with TLRs.md",
+    "Innate Immunity/RNA Detection.md",
+    "Innate Immunity/Role of MAVS.md",
+    "Innate Immunity/TLR3 downregulated by MAVS.md",
+    "Qual Project/Aim 1.canvas",
+    "Innate Immunity/PRRs Table 1.png",
+    "Qual Project/Aim 2.canvas",
+    "Qual Project",
     "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
     "Innate Immunity/Notch+Immunity/Notch Signaling In Health and Disease.md",
     "Innate Immunity/Notch+Immunity/Notch Signaling and Immunity.md",
     "Innate Immunity/Notch+Immunity/Notch Crosstalk with canonical NF-κB.md",
     "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
     "Innate Immunity/Notch+Immunity/Notch and IFN-gamma Pathways.md",
-    "Qual Project Ideas.md",
-    "Innate Immunity/MAVS.md",
-    "Innate Immunity/RIG-I Regulation.md",
-    "Innate Immunity/RIG-I in Development.md",
+    "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
+    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
     "Innate Immunity/MAVS Table 1.png",
-    "Innate Immunity/PRRs Table 2.png",
-    "Innate Immunity/PRRs Table 1.png",
     "Innate Immunity/Pasted image 20230320165538.png"
   ]
 }
