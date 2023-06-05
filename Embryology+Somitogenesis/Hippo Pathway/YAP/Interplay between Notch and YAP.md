@@ -1,5 +1,7 @@
 Interplay between [[Notch Signaling]] and YAP/TAZ Pathways in the Regulation of in the Regulation of Cell Fate During Embryo Development
 
+Pizcueta and Pujades et al 2021
+
 # Cell and Tissue Mechanics During Embryonic Development
 # The Usual Suspects: YAP/TAZ-TEAD As Sensors and Transducers of Mechanical Changes
 ## The Core of YAP/TAZ-TEAD
