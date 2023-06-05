@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hes7 and Notch Signaling.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md"
               }
             }
           }
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81a53d77bfe2450d",
+  "active": "73cbe10957d1f137",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Notch.md",
@@ -186,7 +188,6 @@
     "Embryology+Somitogenesis/Paraxial Mesoderm.md",
     "Embryology+Somitogenesis/Notch Signaling.md",
     "Embryology+Somitogenesis/Mechanisms of vertebrate segmentation.md",
-    "Embryology+Somitogenesis/Hes7 in the Segmentation Clock.md",
     "Innate Immunity/MAVS Table 1.png",
     "Innate Immunity/PRRs Table 2.png",
     "Innate Immunity/Pasted image 20230320165538.png"
