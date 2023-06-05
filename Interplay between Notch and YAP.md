@@ -8,7 +8,7 @@ Interplay between [[Notch Signaling]] and YAP/TAZ Pathways in the Regulation of 
 # The Notch Pathway as the Key Regulator of Binary Cell Fate Decisions in Development
 ## Binary Cell Fate Decisions Through Cell-Cell Communication
 ## Context Dependency of Notch Control of Cell Fate Decisions
-# Mechanosensing in the control of Cell Fate Decisions
+# Mechano-sensing in the control of Cell Fate Decisions
 ## Cooperation between the Notch and YAP/TAZ Pathways in Binary Cell Fate Decisions
 ## The YAP/TAZ Pathway Acting Upstream of Notch Signaling in Cell-Autonomous vs Non-cell-autonomous Mechanisms
 ## The Notch Pathway being Upstream of YAP/TAZ
