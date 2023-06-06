@@ -4,11 +4,14 @@ Ma et al 2019
 - Discovery of Hippo pathway in organ size control has shed light on this mystery
 # Core of the Hippo Pathway
 - 1st discovered in Drosophila through genetic mosaic screens
+	- Named after hpo mutant that displayed the phenotype of enormously sized organs and outwardly resemble a hippopotamus
 - Core components include:
+	- NDR family protein kinase Warts (Wts)
 	- Salvador (Sav) protein
 	- Ste20-like protein kinase Hippo (Hpo)
 	- Mob adaptor protein as tumor suppressor (Mats)
-- 
+		- All four tumor suppressors form a kinase cascade
+			- Hpo-Sav complex phosphorylates and activates Wts-Mats complex
 # YAP/TAZ Regulation by the Hippo Pathway and Beyond
 # Upstream Signals
 ## Mechanical Signals
