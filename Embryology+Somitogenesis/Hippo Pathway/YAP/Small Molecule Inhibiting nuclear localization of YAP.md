@@ -16,4 +16,3 @@ Uehara et al 2015
 	- Pazopanib
 		- Dasatinib, statin, and pazopanib are clinical approved drugs
 			- **Effect of pazopanib was the weakest of the three** 
-- 
