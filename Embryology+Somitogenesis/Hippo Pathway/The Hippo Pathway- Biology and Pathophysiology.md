@@ -19,6 +19,8 @@ Ma et al 2019
 			- YAP inactivation blocks tissue overgrowth caused by Hippo inactivation
 		- YAP represents major functional output of the Hippo pathway
 			- Is inhibited by the Hippo kinase cascade
+- Phosphorylated YAP/TAZ binds 14-3-3 and is sequestered in the cytoplasm, thus inhibiting YAP/TAZ
+	- Additional phosphorylation by casein kinase 1 leds to beta-TrCP-mediated ubiquitination and proteasomal degradation
 - 
 # YAP/TAZ Regulation by the Hippo Pathway and Beyond
 # Upstream Signals

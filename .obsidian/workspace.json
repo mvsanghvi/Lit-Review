@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9030b5fc5db1e7a6",
+        "id": "4af3e39a1a18f5f5",
         "type": "tabs",
         "children": [
           {
-            "id": "2dfc931353aa0781",
+            "id": "a3ad24f4ae99b978",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dfc931353aa0781",
+  "active": "a3ad24f4ae99b978",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Untitled 1.md",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Untitled 1.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
     "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
