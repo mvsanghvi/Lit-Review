@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3a4d883dfef0f11",
+        "id": "9030b5fc5db1e7a6",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d40f93dedda843",
+            "id": "2dfc931353aa0781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md"
               }
             }
           }
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2d40f93dedda843",
+  "active": "2dfc931353aa0781",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Untitled 1.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
