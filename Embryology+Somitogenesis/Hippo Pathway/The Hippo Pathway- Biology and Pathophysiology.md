@@ -26,7 +26,12 @@ Ma et al 2019
 	-  MAP4K4/6/7
 	- TAO
 		- Can also phosphorylate & activate MST1/2
-- LATS1/2 and their binding partner MOB1A/B
+- LATS1/2 and their binding partner MOB1A/B are indispensable for upstream phosphorylating/inactivating YAP/TAZ 
+- Deleting MST1/2, MAP4K, or TOAK1/2/3 only partially blocks YAP/TAZ phosphorylation
+	- Deleting all at once severely abolishes YAP/TAZ phosphorylation
+		- Suggests redundant role for these kinases acting upstream of LATS1/2
+	- Relative contribution is dependent on cell type and upstream signals 
+- 
 # YAP/TAZ Regulation by the Hippo Pathway and Beyond
 # Upstream Signals
 ## Mechanical Signals
