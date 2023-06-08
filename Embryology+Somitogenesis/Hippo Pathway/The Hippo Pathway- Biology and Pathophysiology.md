@@ -20,8 +20,13 @@ Ma et al 2019
 		- YAP represents major functional output of the Hippo pathway
 			- Is inhibited by the Hippo kinase cascade
 - Phosphorylated YAP/TAZ binds 14-3-3 and is sequestered in the cytoplasm, thus inhibiting YAP/TAZ
-	- Additional phosphorylation by casein kinase 1 leds to beta-TrCP-mediated ubiquitination and proteasomal degradation
-- 
+	- Additional phosphorylation by casein kinase 1 led to beta-TrCP-mediated ubiquitination and proteasomal degradation
+- In parallel to MST1/2 additional kinases can directly phosphorylate LATS1/2 at their hydrophobic motifs to activate LATS1/2
+	- MAP4K1/2/3/5
+	-  MAP4K4/6/7
+	- TAO
+		- Can also phosphorylate & activate MST1/2
+- LATS1/2 and their binding partner MOB1A/B
 # YAP/TAZ Regulation by the Hippo Pathway and Beyond
 # Upstream Signals
 ## Mechanical Signals
