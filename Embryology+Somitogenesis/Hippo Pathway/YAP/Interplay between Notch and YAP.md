@@ -1,4 +1,4 @@
-Interplay between [[Notch Signaling]] and YAP/TAZ Pathways in the Regulation of in the Regulation of Cell Fate During Embryo Development
+Interplay between [[Notch Signaling]] and [[YAP]]/TAZ Pathways in the Regulation of in the Regulation of Cell Fate During Embryo Development
 
 Pizcueta and Pujades et al 2021
 

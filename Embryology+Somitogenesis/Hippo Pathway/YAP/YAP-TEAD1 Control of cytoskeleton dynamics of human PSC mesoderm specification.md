@@ -1,4 +1,4 @@
-YAP–TEAD1 control of cytoskeleton dynamics and intracellular tension guides human pluripotent stem cell mesoderm specification
+[[YAP]]–TEAD1 control of cytoskeleton dynamics and intracellular tension guides human pluripotent stem cell mesoderm specification
 Pagliari et al. 2020
 
 - hESCs and iPSCs grow in compact colonies at high cell density; while this condition is usually associated in somatic epithelial cells to YAP inactivation and nuclear exclusion, YAP remains predominantly expressed in PSC nuclei.
