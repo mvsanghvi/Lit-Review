@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "261ca4b9dc7b2614",
+        "id": "ab42c19e37bbdbf5",
         "type": "tabs",
         "children": [
           {
-            "id": "cd14bb0266df18f1",
+            "id": "cd8bf5b44168261f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md"
               }
             }
           }
@@ -154,19 +154,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd14bb0266df18f1",
+  "active": "cd8bf5b44168261f",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
+    "Embryology+Somitogenesis/Week 1.md",
+    "Embryology+Somitogenesis/Week 5.md",
+    "Embryology+Somitogenesis/Week 4.md",
+    "Embryology+Somitogenesis/Week 3.md",
+    "Embryology+Somitogenesis/Week 2.md",
+    "Embryology+Somitogenesis/Embryology Overview.md",
+    "Embryology+Somitogenesis/Paraxial Mesoderm.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP nuclear‐cytoplasmic translocation is regulated by mechanical signaling, protein modification, and metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Untitled 1.md",
     "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
@@ -179,14 +187,6 @@
     "Embryology+Somitogenesis/Hippo Pathway",
     "Innate Immunity/Notch+Immunity/Notch Cross-talk with NF-κB.md",
     "Innate Immunity/Notch+Immunity/The Notch-Hes1 pathway sustains NF-κB activation through CYLD repression in T cell leukemia.md",
-    "Innate Immunity/Notch+Immunity/Notch Signaling In Health and Disease.md",
-    "Innate Immunity/Notch+Immunity/Notch Signaling and Immunity.md",
-    "Innate Immunity/Notch+Immunity/Notch Signaling activation via TLR stimulation.md",
-    "Innate Immunity/Notch+Immunity/Notch Crosstalk with canonical NF-κB.md",
-    "Innate Immunity/Notch+Immunity/Notch and IFN-gamma Pathways.md",
-    "Innate Immunity/Notch+Immunity/NF-κB upregulates Jagged-1.md",
-    "Innate Immunity/Notch+Immunity/NF-κB stimulates Hes-5.md",
-    "Innate Immunity/PRRs in Innate Immunity.md",
     "Innate Immunity/PRRs Table 1.png",
     "Innate Immunity/MAVS Table 1.png",
     "Innate Immunity/PRRs Table 2.png",
