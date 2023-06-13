@@ -11,5 +11,8 @@ Dattani, Austin Smith, et al. 2022
 	- Leading to elimination by ubiquitin proteasome pathway
 	- Also targets angiomotin (AMOT)
 - AMOT proteins are part of the Hippo/[[Yap]] pathway
+	- Promotes kinase activity of LATS1/2
+	- Attenuates YAP protein nuclear translocation
+	- Stabilizing AMOT= reduces YAP activity
 - 
 # Discussion

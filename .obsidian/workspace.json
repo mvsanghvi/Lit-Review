@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab42c19e37bbdbf5",
+        "id": "4949ad7d193e5333",
         "type": "tabs",
         "children": [
           {
-            "id": "cd8bf5b44168261f",
+            "id": "d30fcfa51820d4cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd8bf5b44168261f",
+  "active": "d30fcfa51820d4cb",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
     "Embryology+Somitogenesis/Week 1.md",
     "Embryology+Somitogenesis/Week 5.md",
@@ -164,13 +168,9 @@
     "Embryology+Somitogenesis/Week 2.md",
     "Embryology+Somitogenesis/Embryology Overview.md",
     "Embryology+Somitogenesis/Paraxial Mesoderm.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
