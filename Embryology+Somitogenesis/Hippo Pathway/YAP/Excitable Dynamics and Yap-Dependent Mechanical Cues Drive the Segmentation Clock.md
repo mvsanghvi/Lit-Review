@@ -19,3 +19,9 @@ Hubaud, Pourquie et al 2017
 - Increasing cell density overcame fibronectin's effect on YAP activation
 - Inverse correlation between the nucleo-cytoplasmic ratio of YAP1 and cell density
 	- Found through micropattern seeded at different cell densities
+- <u>In vivo: chicks </u>
+	- Electroporated chick embryos with YAP5SA
+	- Measured oscillations of *LFNG*
+		- Embryos treated with doxycycline resulted in upregulation of *LFNG* and disruption of cyclic activated 
+			- Uniform expression pattern
+	- Those electroporated but not treated with doxycycline displayed normal patterning and three phases of expression
