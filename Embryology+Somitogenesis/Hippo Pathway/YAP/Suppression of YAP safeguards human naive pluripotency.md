@@ -21,7 +21,13 @@ Dattani, Austin Smith, et al. 2022
 		- WNT targets *TBXT* and *MIXL1* are upregulated only when cells are also released from MEK/ERK inhibition
 ## XAV939 withdrawal leads to decreased AMOTL2 and upregulation of YAP1/TAZ targets
 - AMOT and AMOTL2 prevents YAP nuclear localization in early mouse embryos
+	- In mouse ICM, AMOT required for YAP1 phosphorylation and nuclear exclusion
 	- Disable TEAD-mediated transcription of TE genes in the ICM
 	- AMOTL2 mRNA is most abundant in naïve PSCs
 		- Also in ICM and naïve epiblast of the human embryo
+- Plating w/o XAV= reduced AMOTL2 lvls
+- nPSCs cultured w/o XAV= reduction of YAP1 phosphorylation at Ser127 site
+- Usually, heterogenous nucleocytoplasmic staining of YAP1 in nPSCs
+	- XAV withdrawal for 24 hrs led to significant moderate increase in nuclear staining
+		- Effect more pronounced for TAZ
 - 
