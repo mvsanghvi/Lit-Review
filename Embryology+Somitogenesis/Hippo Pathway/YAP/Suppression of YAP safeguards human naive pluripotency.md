@@ -30,4 +30,14 @@ Dattani, Austin Smith, et al. 2022
 - Usually, heterogenous nucleocytoplasmic staining of YAP1 in nPSCs
 	- XAV withdrawal for 24 hrs led to significant moderate increase in nuclear staining
 		- Effect more pronounced for TAZ
-- 
+- Panel of YAP/TEAD targets were upregulated in nPSCs 24hrs post WAV withdrawal
+- **Meaning, withdrawal of tankyrase inhibition in nPSCs leads to increased YAP nuclearization and TEAD transcriptional program activation**
+## Depletion of YAP1 enables sustained self-renewal w/o XAV939
+- YAP1 5SA expression led to marked upregulation of GATA:mK02 reporter expression and TE genes in PXGL
+- Constitutive YAP activity overrides the ability of tankyrase inhibition to suppress TE.
+- Deletion of YAP1 or TAZ
+	- Shows markedly reduced frequency of GATA3:mK02 induction when transferred to PD03
+	- Double KOs do **NOT** expand
+	- YAP1 KO showed minimal GATA3:mK02 induction while retaining expression of OCT4 and naïve marker KLF17
+- Does YAP1 KO enable efficient self-renewal w/o need for XAV?
+	- Results showed YAP activation mediates human nPSC to TE differentiation while XAV suppresses this signal
