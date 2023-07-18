@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4949ad7d193e5333",
+        "id": "a42ac74b878737af",
         "type": "tabs",
         "children": [
           {
-            "id": "d30fcfa51820d4cb",
+            "id": "d91e340f7da77bdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md"
               }
             }
           }
@@ -154,13 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d30fcfa51820d4cb",
+  "active": "d91e340f7da77bdc",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
+    "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
     "Embryology+Somitogenesis/Week 3.md",
     "Embryology+Somitogenesis/Week 4.md",
     "Embryology+Somitogenesis/Week 2.md",
-    "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Untitled.md",
     "Untitled.md",
     "Qual Project/Qual Project Ideas.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
