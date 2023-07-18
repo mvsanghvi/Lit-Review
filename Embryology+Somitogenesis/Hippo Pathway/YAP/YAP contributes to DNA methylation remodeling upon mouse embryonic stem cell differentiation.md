@@ -2,7 +2,7 @@ Fabiana Passaro, Ilaria De Martino, Federico Zambelli, Giorgia Di Benedetto... D
 American Society for Biochemistry and Molecular Biology, 2021
 
 # Intro
-- Yap/Taz double KO lead to embryos arrested in the pre-morula stage
+- [[YAP]]/Taz double KO lead to embryos arrested in the pre-morula stage
 	- Likely due to induced repression of Sox2
 		- Thus preventing appearance of ICM phenotype
 - YAP is expressed in the blastocyst and in ESCs
@@ -13,4 +13,10 @@ American Society for Biochemistry and Molecular Biology, 2021
 	- Low TEAD levels cells are eliminated
 	- Conflicting results showed that YAP/TAZ depletion had no effects on stemness when ESCs are grown in 2i media
 		- Instead, downregulation mimics GSK3 inhibition that blocks beta-catenin pathway
-- 
+	- Silencing/KO of YAP does not effect maintaining the undifferentiated state
+	- When differentiation, YAP knockdown (KD) results in insufficient accumulation of differentiation markers, including T, Gata6, and Gata3
+		- Oct4 and Nanog are normally suppressed
+# Transient KD of YAP affects early steps of differentiation of ESCs
+- GFP-expressing ESCs under control of neural-specific promoter (alpha1-tubulin gene)
+- YAP KD cells were induced to differentiate towards neuroectodermal fate
+- Number of GFP-positive cells significantly decreased in YAP KD since first step of differentiation 
