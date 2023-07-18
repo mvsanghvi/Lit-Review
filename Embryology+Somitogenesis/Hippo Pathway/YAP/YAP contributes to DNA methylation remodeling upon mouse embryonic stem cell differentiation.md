@@ -20,3 +20,6 @@ American Society for Biochemistry and Molecular Biology, 2021
 - GFP-expressing ESCs under control of neural-specific promoter (alpha1-tubulin gene)
 - YAP KD cells were induced to differentiate towards neuroectodermal fate
 - Number of GFP-positive cells significantly decreased in YAP KD since first step of differentiation 
+# Transient KD of YAP causes perturbation of homeostasis ESCs
+- Surviving cells seem to be unable to differentiate properly
+	- Suggests that the transient down-regulation of YAP stably affect the signature of selected sub-populations of surviving cells
