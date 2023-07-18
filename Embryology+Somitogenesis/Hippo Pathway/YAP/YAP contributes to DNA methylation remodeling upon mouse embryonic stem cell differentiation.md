@@ -2,3 +2,15 @@ Fabiana Passaro, Ilaria De Martino, Federico Zambelli, Giorgia Di Benedetto... D
 American Society for Biochemistry and Molecular Biology, 2021
 
 # Intro
+- Yap/Taz double KO lead to embryos arrested in the pre-morula stage
+	- Likely due to induced repression of Sox2
+		- Thus preventing appearance of ICM phenotype
+- YAP is expressed in the blastocyst and in ESCs
+- Many studies looked to characterize the function of YAP/TAZ in ESCs
+	- Some reported YAP or TAZ suppression leads to decreased intensity of alkaline phosphatase staining in colonies, downregulation of Oct4 and Sox2, and concomitant expression of differentiation markers like T, Gata4, and alpha-fetoprotein
+	- Overexpression of TEAD dom-neg protein led to inducing ESCs inducing differentiation preferentially to the endodermal lineage
+	- High TEAD activity sustains pluripotency in ICM
+	- Low TEAD levels cells are eliminated
+	- Conflicting results showed that YAP/TAZ depletion had no effects on stemness when ESCs are grown in 2i media
+		- Instead, downregulation mimics GSK3 inhibition that blocks beta-catenin pathway
+- 
