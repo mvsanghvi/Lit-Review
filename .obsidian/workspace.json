@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   },
   "active": "d91e340f7da77bdc",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
     "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
     "Embryology+Somitogenesis/Week 3.md",
@@ -164,11 +167,8 @@
     "Untitled.md",
     "Qual Project/Qual Project Ideas.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
     "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
     "Embryology+Somitogenesis/Week 1.md",

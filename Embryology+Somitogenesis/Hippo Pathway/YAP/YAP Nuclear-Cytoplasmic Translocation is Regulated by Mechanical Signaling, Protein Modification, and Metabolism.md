@@ -1,7 +1,7 @@
 Zou et al 2020
 
 # Intro
-- Interestingly,  [[YAP]]  distribution  between  thenucleus and cytoplasm is not static (Manning et al., 2018)
+- Interestingly,  [[YAP]]  distribution between the nucleus and cytoplasm is not static (Manning et al., 2018)
 # The structural basis of cell nuclear transport process
 # Mechanical signals that regulate YAP nuclear import
 - YAP is one of the most sensitive transcription factors(TFs) activated in response to mechanical stress. 
