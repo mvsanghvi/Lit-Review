@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d91e340f7da77bdc",
+            "id": "e7c3380f4c5baaf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md"
               }
             }
           }
@@ -154,34 +154,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d91e340f7da77bdc",
+  "active": "e7c3380f4c5baaf0",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
     "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
     "Embryology+Somitogenesis/Week 3.md",
     "Embryology+Somitogenesis/Week 4.md",
     "Embryology+Somitogenesis/Week 2.md",
     "Untitled.md",
     "Qual Project/Qual Project Ideas.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
     "Embryology+Somitogenesis/Week 1.md",
     "Embryology+Somitogenesis/Week 5.md",
     "Embryology+Somitogenesis/Embryology Overview.md",
     "Embryology+Somitogenesis/Paraxial Mesoderm.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP nuclear‐cytoplasmic translocation is regulated by mechanical signaling, protein modification, and metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Untitled 1.md",
-    "Embryology+Somitogenesis/Hes7 and Notch Signaling.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
     "Qual Project/Aim 1.canvas",
