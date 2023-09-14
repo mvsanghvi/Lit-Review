@@ -21,10 +21,26 @@ Genes and Development, (2017), 31(22)
 	- YAP selectively repressed these genes
 - Chir99021 was used for the RNA-seq experiment to elevate ME gene expression to similar levels of Activin only treated WT hESCs
 	- T was much strongly induced by Activin only treatment on YAP KO hESCs than WT hESCs
+		- Along with other ME development genes MIXL1 and EOMES
+- Loss of YAP had little to no effect on ME gene activation in response to Chir99021 alone
+- Activin treatment led to dramatic increase of T (and EOMES) expression and loss of Sox2
+	- Believed YAP acts to safeguard proliferating hESCs against aberrant ME differentiation gene activation in presence of Activin
 ## β-Catenin is required for Activin-induced differentiation of YAP knockout hESCs
 
 ## Activin induces genome-wide recruitment of β-catenin to chromatin in YAP knockout cells
 ## YAP represses the WNT3 and NODAL enhancers in hESCs
+- Ablation of YAP led to loss of >99.9% of identified peaks in ChIP-seq analysis of YAP and TEAD4-binding sites (as a control)
+- Analysis showed TEAD4 was top DNA motif bound by YAP in WT hESCs
+	- 1046 elements were cobound by YAP/TEAD4
+- Analysis of YAP KO hESCs showed compared to WT:
+	- 2504 genes were down-regulated
+	- 2751 genes were upregulated
+		- Previously repressed genes included NODAL and WNT3
+			- They regulated PS formation
+			- NODAL expression strongly induced and led to enhanced binding of SMAD2,3 proteins (which binds to WNT3 gene promoter)
+			- WNT3 expression modestly induced
+	- YAP repression of WNT3 and NODAL prevents their ectopic activation in self-renewing hESCs
+		- Absence of YAP leads to hESCs being primed to differentiated toward ME cell fates
 
 ## WNT3 activation is essential for Activin-induced differentiation in YAP knockout cells
 
@@ -37,6 +53,9 @@ Genes and Development, (2017), 31(22)
 ## Activin-treated YAP knockout hESCs progress toward cardiomyocytes
 
 ## YAP does not block intermediate stages of cardiomyogenesis
-
+- Activin signaling is sufficient for full differentiation of YAP KO hESCs into cardiomyocytes
+- Blocked YAP expression at various intermediated staged during cardiomyogenesis
+	- If YAP blocked after day 3-5, cardiomyocytes formed in response to Activin
+	- If YAP blocked before day 3 (including WT), cardiomyocytes did not form in response to Activin
 # Discussion
 
