@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7c3380f4c5baaf0",
+            "id": "0bde5d0861656072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
+                "file": "Embryology+Somitogenesis/Self-organization of human embryonic stem cells on micropatterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
+                "file": "Embryology+Somitogenesis/Self-organization of human embryonic stem cells on micropatterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
+                "file": "Embryology+Somitogenesis/Self-organization of human embryonic stem cells on micropatterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md"
+                "file": "Embryology+Somitogenesis/Self-organization of human embryonic stem cells on micropatterns.md"
               }
             }
           }
@@ -154,12 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7c3380f4c5baaf0",
+  "active": "0bde5d0861656072",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Self-organization of human embryonic stem cells on micropatterns.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
@@ -169,7 +171,6 @@
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
     "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
     "Embryology+Somitogenesis/Week 3.md",
     "Embryology+Somitogenesis/Week 4.md",
@@ -181,7 +182,6 @@
     "Embryology+Somitogenesis/Week 5.md",
     "Embryology+Somitogenesis/Embryology Overview.md",
     "Embryology+Somitogenesis/Paraxial Mesoderm.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP nuclear‐cytoplasmic translocation is regulated by mechanical signaling, protein modification, and metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
     "Qual Project/Aim 1.canvas",
