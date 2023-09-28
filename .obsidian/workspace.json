@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "0bde5d0861656072",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
@@ -165,7 +166,6 @@
     "Embryology+Somitogenesis/Self-organization of human embryonic stem cells on micropatterns.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",

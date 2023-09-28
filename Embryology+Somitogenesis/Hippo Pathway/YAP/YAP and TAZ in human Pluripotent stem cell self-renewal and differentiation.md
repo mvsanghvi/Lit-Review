@@ -9,7 +9,7 @@ Cellular Reprogramming, (2020), 55-61, 22(2)
 ## The Hippo signaling pathway
 - Canonical Hippo Signaling include two serine-threonine kinase, MST1/2 (mammalian Ste20-like kinases 1/2) and the MAP4K family of kinases that stimulate LATS1/2 (large tumor suppressor 1/2)
 - The Hippo pathway acts by binding MST1/2 to the SAV1 (Salvador homolog 1) as a regulatory protein and MOB1 (MOB kinase activator 1A) activator
-- The Hippo kinase by promoting the cytoplasmic accumulation of YAP and TAZ negatively controls their activity
+- The Hippo kinase by promoting the cytoplasmic accumulation of [[YAP]] and TAZ negatively controls their activity
 - NF2 (neurofibromatosis type 2) with the MST/SAV complex enhances the LATS1/2 phosphorylation
 - Subsequently, the activated LATS1/2 promotes the formation of phosphorylated YAP and TAZ in the cytoplasm by interaction with alpha-catenin and 14-3-3 protein
 - There were several domains and motifs including the WW domains, the TEAD (TEA domain family member 1) TF-binding domain, the SH3-binding domain, the CC (coiled-coil) domain, the TAD domain, and PDZ-binding motif within YAP and TAZ
@@ -18,7 +18,11 @@ Cellular Reprogramming, (2020), 55-61, 22(2)
 		- SMAD, RUNX2, TBX5, and ERBB4
 - TEAD then stimulates cell proliferation, survival, migration, and antiapoptotic-related genes 
 	- I.e. *CTGF, CYR61, and ITGB2*
-- Accumulation of YAP/TAZ in the nucleus under stiff surfaces such as Matrigel
-	- Also collagen I
-- Under soft surfaces YAP/TAZ stays in the cytoplasm
+- YAP/TAZ accumulation in the nucleus under: 
+	- Stiff surfaces such as Matrigel and collagen I
+	- Low density
+- YAP/TAZ stays in the cytoplasm:
+	- Soft surfaces
+	- High density
+- YAP/TAZ nuclear accumulation is inhibited by Rho GTPases (Rho-associated kinase) inhibitor Y27632 and ML-7 (myosin light chain kinase inhibitor) 
 ## YAP/TAZ signals can regulate hESC self-renewal and differentiation
