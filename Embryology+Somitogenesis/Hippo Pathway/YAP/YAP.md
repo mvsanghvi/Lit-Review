@@ -15,3 +15,5 @@ Mouse Cells:
 Human Cells:
 - hESCs and iPSCs grow in compact colonies at high cell density
 	- Usually associated in somatic epithelial cells to YAP inactivation and nuclear exclusion **BUT** YAP remains predominantly expressed in PSC nuclei.
+- Accumulation of YAP/TAZ in the nucleus under stiff surfaces such as Matrigel, while under soft surfaces YAP/TAZ stays in the cytoplasm 
+	- [[YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation]]
