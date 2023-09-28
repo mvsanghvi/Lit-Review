@@ -26,3 +26,12 @@ Cellular Reprogramming, (2020), 55-61, 22(2)
 	- High density
 - YAP/TAZ nuclear accumulation is inhibited by Rho GTPases (Rho-associated kinase) inhibitor Y27632 and ML-7 (myosin light chain kinase inhibitor) 
 ## YAP/TAZ signals can regulate hESC self-renewal and differentiation
+- YAP as a potent transcription coactivator by binding to the TEAD plays an essential role in regulating hESC fate decisions
+- Has been found that during hESC differentiation, Lats kinase as a key component of the Hippo tumor suppressor pathway inhibits YAP protein and leads to loss of embryonic stem cell pluripotency
+	- [[The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation]]
+- WNT and Hippo pathways can regulate the expression of pluripotency factor OCT4
+- Also been found that Hippo/YAP signaling through the interactions with Wnt signaling can control neural tissue patterning of hPSCs
+	- [[Wnt-YAP interactions in the neural fate of human pluripotent stem cells and the implications for neural organoid formation]]
+	- Low-density culture conditions as a modulator of Hippo pathway activity increase nuclear YAP expression, and changed neural cell fate
+		- [[The Hippo pathway member YAP enhances human neural crest cell fate and migration]]
+- YAP-TEAD complexes can activate Oct4 expression and improve hPSC proliferation
