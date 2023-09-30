@@ -29,8 +29,8 @@ Stem Cells and Development (2007)
 			- Hypoblast adjacent to blastocyst cavity
 # Types
 - ES cells
-	- Early ESCs: Formed during cleavage, before blastocyst formation
-	- Blastocyst ESCs: Pluripotent cells from the ICM
+	- Early ESCs: Formed during cleavage, before blastocyst formation [[Week 1]]
+	- Blastocyst ESCs: Pluripotent cells from the ICM [[Week 2]]
 		- Form ALMOST any kind of cell in the body
 - Fetal stem cells
 	- Pluripotent cells responsible for initial development of all tissues before birth
@@ -49,5 +49,19 @@ Stem Cells and Development (2007)
 		- Depending on plasticity, i.e. growth or differentiation conditions
 # Derivation
 # Culturing ES Cells
+## Maintaining stem cells in the pluripotent state
+- ES cells require feeder cells for their growth and culture
+- MEFS (mitotically inactivated murine embryonic fibroblasts) are most commonly used as the feeder layer
+### Culturing mESCs
+- Cultured in complete ES medium in presence of a feeder layer of MEFs to maintain undifferentiated state
+- Exogenously added LIF (Leukemia inhibitory factor) also prevent differentiation
+- Routinely passaged every 2-3 days to prevent differentiation
+### Culturing hESCs
+- Culturing requires feeder layers and either:
+	1. Presence of serum
+	2. bFGF (basic fibroblast growth factor) when in the absence of serum
+- Passaged every 4-6 days to prevent differentiation 
+### Alternatives to MEFS for mESCs
+### Alternatives to MEFS for hESCs
 # Targeted Differentiation of Stem Cells
 # Summary
