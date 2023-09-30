@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e09e895962566153",
+        "id": "9d9189b885d05726",
         "type": "tabs",
         "children": [
           {
-            "id": "2a59c336ad26e080",
+            "id": "962abeaf0cf402b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a59c336ad26e080",
+  "active": "962abeaf0cf402b8",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Recapitulating human segmentation clock w PSCs.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Specifying the Anterior Primitive Streak by modulating YAP1 levels in hPSCs.md",
     "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
+    "Embryology+Somitogenesis/Recapitulating human segmentation clock w PSCs.md",
     "Embryology+Somitogenesis/Protocols/Self-organization of human embryonic stem cells on micropatterns.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
@@ -181,7 +174,6 @@
     "Embryology+Somitogenesis/Week 3.md",
     "Embryology+Somitogenesis/Week 4.md",
     "Embryology+Somitogenesis/Week 2.md",
-    "Untitled.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
     "Qual Project/Aim 1.canvas",
