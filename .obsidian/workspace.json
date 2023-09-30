@@ -11,8 +11,12 @@
             "id": "2a59c336ad26e080",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md"
+              }
             }
           }
         ]
@@ -148,6 +156,9 @@
   },
   "active": "2a59c336ad26e080",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Recapitulating human segmentation clock w PSCs.md",
+    "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
+    "Embryology+Somitogenesis/Protocols/Self-organization of human embryonic stem cells on micropatterns.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo pathway member YAP enhances human neural crest cell fate and migration.md",
@@ -171,9 +182,6 @@
     "Embryology+Somitogenesis/Week 4.md",
     "Embryology+Somitogenesis/Week 2.md",
     "Untitled.md",
-    "Qual Project/Qual Project Ideas.md",
-    "Embryology+Somitogenesis/25 Years of the Segmentation Clock Gene.md",
-    "Embryology+Somitogenesis/Week 1.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
     "Qual Project/Aim 1.canvas",
