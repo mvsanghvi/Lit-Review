@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9d9189b885d05726",
+        "id": "90948f70e8df3d54",
         "type": "tabs",
         "children": [
           {
-            "id": "962abeaf0cf402b8",
+            "id": "a3666bd4be27f17e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md"
+              }
             }
           }
         ]
@@ -146,20 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962abeaf0cf402b8",
+  "active": "a3666bd4be27f17e",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
-    "Embryology+Somitogenesis/Week 1.md",
+    "YAP1.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
     "Embryology+Somitogenesis/Week 2.md",
+    "Embryology+Somitogenesis/Week 1.md",
+    "Embryology+Somitogenesis/Naive and Primed Pluripotent States.md",
     "Embryology+Somitogenesis/Embryology Overview.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo pathway member YAP enhances human neural crest cell fate and migration.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Wnt-YAP interactions in the neural fate of human pluripotent stem cells and the implications for neural organoid formation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Specifying the Anterior Primitive Streak by modulating YAP1 levels in hPSCs.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
@@ -173,7 +182,6 @@
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
-    "Embryology+Somitogenesis/Early mouse embryo lineage allocation and tissue organization.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
     "Qual Project/Aim 1.canvas",
