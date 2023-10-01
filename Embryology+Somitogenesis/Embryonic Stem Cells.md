@@ -62,6 +62,8 @@ Stem Cells and Development (2007)
 	2. bFGF (basic fibroblast growth factor) when in the absence of serum
 - Passaged every 4-6 days to prevent differentiation 
 ### Alternatives to MEFS for mESCs
+- Requirement for serum or LIF for undifferentiated growth of mESC has been shown to be overcome by supplementing the cultures with BMP (bone morphogenetic protein)/GDF (growth and differentiation factor)
+- Overexpressing Nanog "locks in" mESC identity and provides resistance to differentiation-inducing stimuli 
 ### Alternatives to MEFS for hESCs
+- LIF DOESN'T prevent hESC differentiation, like it does in mESCs, when feeders are absent
 # Targeted Differentiation of Stem Cells
-# Summary
