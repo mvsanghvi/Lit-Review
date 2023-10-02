@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
+                "file": "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
+                "file": "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
+                "file": "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md"
+                "file": "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md"
               }
             }
           }
@@ -156,9 +156,11 @@
   },
   "active": "6af1ce5a23330f48",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Protocols/hPSC culture 2013.jpeg",
+    "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
+    "Embryology+Somitogenesis/Embryonic Stem Cells.md",
     "Embryology+Somitogenesis/Week 2.md",
     "Embryology+Somitogenesis/Week 1.md",
-    "Embryology+Somitogenesis/Embryonic Stem Cells.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo pathway member YAP enhances human neural crest cell fate and migration.md",
@@ -180,8 +182,6 @@
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
     "Embryology+Somitogenesis/Recapitulating human segmentation clock w PSCs.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
     "Qual Project/Aim 1.canvas",
