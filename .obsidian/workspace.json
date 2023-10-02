@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
+                "file": "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
+                "file": "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
+                "file": "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md"
+                "file": "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   },
   "active": "6af1ce5a23330f48",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
+    "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
+    "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo pathway member YAP enhances human neural crest cell fate and migration.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
@@ -179,9 +182,6 @@
     "Embryology+Somitogenesis/Week 4.md",
     "Embryology+Somitogenesis/Week 3.md",
     "Embryology+Somitogenesis/Week 2.md",
-    "Embryology+Somitogenesis/Week 1.md",
-    "Embryology+Somitogenesis/Stem Cell Zoo.md",
-    "Embryology+Somitogenesis/Somitogenesis and Segmentation.md",
     "Embryology+Somitogenesis/Protocols/hPSC culture 2013.jpeg",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
