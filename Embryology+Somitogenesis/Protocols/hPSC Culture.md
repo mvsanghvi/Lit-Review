@@ -5,9 +5,20 @@ Kevin G. Chen, Barbara S. Mallon, Ronald D.G. McKay, and Pamela G. Robey
 Cell Stem Cell. 2014 January 2; 14(1): 13–26
 
 # Introduction
+
+![[hPSC culture timeline.jpg]]
 # Human PSCs Require Conditions Distinct from Those of Murine PSCs
 # Key Contributing Factors in hPSC Culture
 ## Growth Medium Development for hPSC Culture
+- Medium has undergone dynamic evolution since initial hESC culture by Thomson in 1998
+	- [[Embryonic SCs from human blastocysts]]
+- 1st gen of hESC medium contained fetal bovine serum (FBS), and undefined/conditioned secretory components from MEFs
+- The next generations: Replace xenogeneic elements in media used chemically defined medium with Activin A, Nodal, and FGF-2
+- Feeder-based hPSC culture: Contains Knock-Out Serum Replacement  (KSR) used with FGF-2
+- Feeder-free hPSC culture: Defined TeSR1 media containing FGF-2, lithium chloride (LiCl), gamma-aminobutyric acid (GABA), TGF-beta, and pipeolic acid
+	- Developed by the Thomson group [[Conditions for deriving human embryonic stem cells]]
+- E8: Derivative of TeSR1 containing 8 components that lacks both serum albumin and beta-mercaptoethanol
+	- Developed by the Thomson group [[Actin-myosin contractility is responsible for the reduced viability of dissociated human embryonic stem cells]]  [[Chemically defined conditions for human iPSC derivation and culture]]
 ## Extracellular Components
 ## Environmental Cues
 # hPSC Maintenance Methods Should Be Tailored for Different Uses
