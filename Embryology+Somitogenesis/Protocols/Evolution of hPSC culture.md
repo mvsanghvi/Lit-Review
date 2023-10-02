@@ -1,9 +1,15 @@
+MEF Feeders
+
+|  Cell Culture Media |  Components |  Year | Cell Lines  |
+|---|---|---|---|
+|  | FBS | 1998 |  |
+
 Matrigel
 
 |  Cell Culture Media |  Components |  Year | Cell Lines  |
 |---|---|---|---|
 | MEF-CM + FGF2 | Conditioned medium from MEF and recombinant human fibroblast growth factor (FGF)2 | 2001 | H1, 7, 9, and 14 |
-| HESCO | DMEM/F12, FGF2, KO serum replacer, NEAA, L-glutamine, Beta-mercaptoethanol, BSA, insulin, transferrin, B-cell activating factor, Wnt3a, cholesterol | 2006 | H9, BG01  |
+| HESCO | DMEM/F12, FGF2, KO serum replacer (KSR), NEAA, L-glutamine, Beta-mercaptoethanol, BSA, insulin, transferrin, B-cell activating factor, Wnt3a, cholesterol | 2006 | H9, BG01  |
 | DMEM/F12 | DMEM/F12, rh FGF2, N2 medium, B12 medium, NEAA, L-glu, Beta-mer, BSA  | 2006 | H1, HSF6 |
 | mTeSR | DMEM/F12, rh FGF2, NEAA, L-glu, Beta-mer, BSA, insulin, transferrin, transforming growth factor (TGF), beta1, pipecolic acid, lithium chloride, gamma-aminobutyric acid | 2006 | H1, 7, 9, and 14 |
 | StemPro | DMEM/F12, rh FGF2, BSA, transferrin, IGF-I, activin A, heregulin 1beta | 2007 | H1, BG01, BG02, BG03, CyT49 |
@@ -26,6 +32,13 @@ Recombinant human vitronectin
 |  Cell Culture Media |  Components |  Year | Cell Lines  |
 |---|---|---|---|
 | E8 | DMEM/F12, rh FGF2, NaHCO3, selenium, ascorbic acid, insulin, transferrin, TBF-beta1 | 2011 | H1, 9, and hiPSCs |
+
+Recombinant human E-cadherin
+
+|  Cell Culture Media |  Components |  Year | Cell Lines  |
+|---|---|---|---|
+| MEF-CM + FGF2 | Conditioned medium from MEF and rh FGF2 | 2010 | H1, 9, and hiPSCs |
+| mTeSR | DMEM/F12, rh FGF2, NEAA, L-glu, Beta-mer, BSA, insulin, transferrin, transforming growth factor (TGF), beta1, pipecolic acid, lithium chloride, gamma-aminobutyric acid | 2010 | H1, 9, and hiPSCs |
 
 Hit 9
 
