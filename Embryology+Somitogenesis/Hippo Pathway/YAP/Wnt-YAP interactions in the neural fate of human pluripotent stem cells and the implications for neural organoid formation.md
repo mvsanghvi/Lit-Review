@@ -3,11 +3,12 @@ Julie Bejoy, Liqing Song, Yan Li
 Organogenesis (2016)
 
 # Introduction
-# THE ROLE OF CANONICAL WNT/β-CATENIN SIGNALING IN HPSC FATE DECISIONS
-# WNT INTERACTIONS WITH EXTRACELLULAR MATRIX AND THE EFFECT OF CULTURE SYSTEMS
+# The Role Of Canonical Wnt/Β-Catenin Signaling In Hpsc Fate Decisions
 
-# THE ROLE OF HIPPO/YAP SIGNALING IN STEM CELL FATE DECISIONS
+# Wnt Interactions With Extracellular Matrix And The Effect Of Culture Systems
 
-# RELATIONSHIP OF HIPPO/YAP PATHWAY AND WNT/β-CATENIN PATHWAY
+# The Role Of Hippo/Yap Signaling In Stem Cell Fate Decisions
+
+# Relationship Of Hippo/Yap Pathway And Wnt/Β-Catenin Pathway
 
 # Conclusions
