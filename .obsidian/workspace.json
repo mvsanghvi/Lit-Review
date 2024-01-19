@@ -11,8 +11,12 @@
             "id": "69e5ecacefc3b045",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Embryology+Somitogenesis/Week 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",
+                "file": "Embryology+Somitogenesis/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",
+                "file": "Embryology+Somitogenesis/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md"
+                "file": "Embryology+Somitogenesis/Week 1.md"
               }
             }
           }
@@ -150,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81a53d77bfe2450d",
+  "active": "69e5ecacefc3b045",
   "lastOpenFiles": [
     "Embryology+Somitogenesis/Protocols/hPSC Culture.md",
     "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",

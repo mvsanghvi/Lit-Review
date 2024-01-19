@@ -207,13 +207,13 @@
 			- Primary source of fetal component of placenta
 	**Morula Develops Fluid-Filled Cavity and Is Transformed Into Blastocyst**
 	- Development Day 4: The morula begins to absorb fluid at 30 cell stage
-		1. Trophoblast, while differentiating, assembles into tightly adherent epithelium due to deposit of E-cadherin on later cell surfaces
+		1. Trophoblast, while differentiating, assembles into tightly adherent epithelium due to deposit of <u>E-cadherin</u> on later cell surfaces
 			- E-cadherin deposition also leads to formation of intercellular junctions:
 				a. tight junctions
 				b. gap junctions
 				c. adherens junctions
 				d. desmosomes
-		2. Forming trophoblast cells express basally polarized membrane Na/K+ ATPase, which allows them to transport and regulate exchange of metabolites between inside and outside of morula.
+		2. Forming trophoblast cells express basally polarized membrane <u>Na/K+ ATPase</u>, which allows them to transport and regulate exchange of metabolites between inside and outside of morula.
 			- Inside of morula= Toward icm
 			- Outside of morula= Maternal environment of oviduct
 		3. Na/K pumps sodium into morula interior with water following bc osmosis
@@ -228,8 +228,14 @@
 	2. Day 5: The blastocyst bores a hole into the zona pellucida and squeezes out
 		- Blastocyst is naked and can directly interact with the endometrium
 	3. The hatched blastocyst becomes tightly adherent to the uterine lining
-	4. <u>Decidual reaction</u>- Progesterone is secreted by the corpous luteum by <u>decidual cells</u> when adjacent cells in the endometrial stroma sense the blastocyst
-	5. Endometrial glands in the area 
+	4. <u>Decidual reaction</u>- Progesterone is secreted by the corpus luteum by <u>decidual cells</u> when adjacent cells in the endometrial stroma sense the blastocyst
+		1. Progesterone secretion keeps uterine lining from sloughing off, keeping the lining in a "favorable state"
+			1. Normally, the corpus degenerates after 13 days if there is no implantation
+			2. In the case of implantation, <u>trophoblast</u> produces human chorionic gonadotropin (hCG) to support the corpus, thus maintaining progesterone supply 
+				1. Referred to as "maternal recognition of pregnancy"
+	5. Corpus luteum continues to secrete large amounts of progesterone until the placenta itself does the same 
+		1. Corpus luteum involutes to become the corpus albicans
+	6. Endometrial glands in the area 
 	**Implantation in Abnormal Site Results in Ectopic Pregnancy**
 	- Blastocyst can accidentally implant on:
 		- Peritoneal cavity
@@ -240,4 +246,4 @@
 	- Called ectopic pregnancy
 		- Endangers mother's life because blood vessels that form are apt to rupture as a result of embryo/placental growth.
 		- Symptoms include abdominal pain and/or vaginal bleeding
-		- Drug (methyltrexate) or surgical intervention is neccessary to interupt the pregnancy 
+		- Drug (methyltrexate) or surgical intervention is necessary to interrupt the pregnancy 
