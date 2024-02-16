@@ -7,6 +7,8 @@ http://doi.org/10.1089/cell.2019.0084
 # Introduction
 - hESCs are commonly derived from the ICM of preimplantation embryos and can maintain their pluripotency in appropriate culture media
 - Mouse epiblast stem cells (the primed pluripotent state) have similar properties with hESCs (the naive pluripotent state)
+- hESCs and mEpiSCs self-renew through dividing asymmetrically with activating TGF-beta and basic FGF
+	- Can differentiate when stimulated with proper sets of internal and external signals
 ## The Hippo signaling pathway
 - Canonical Hippo Signaling include two serine-threonine kinase, MST1/2 (mammalian Ste20-like kinases 1/2) and the MAP4K family of kinases that stimulate LATS1/2 (large tumor suppressor 1/2)
 - The Hippo pathway acts by binding MST1/2 to the SAV1 (Salvador homolog 1) as a regulatory protein and MOB1 (MOB kinase activator 1A) activator
@@ -27,8 +29,8 @@ http://doi.org/10.1089/cell.2019.0084
 	- High density
 - YAP/TAZ nuclear accumulation is inhibited by Rho GTPases (Rho-associated kinase) inhibitor Y27632 and ML-7 (myosin light chain kinase inhibitor) 
 ## YAP/TAZ signals can regulate hESC self-renewal and differentiation
-- YAP as a potent transcription coactivator by binding to the TEAD plays an essential role in regulating hESC fate decisions
-- Has been found that during hESC differentiation, Lats kinase as a key component of the Hippo tumor suppressor pathway inhibits YAP protein and leads to loss of embryonic stem cell pluripotency
+- YAP is a potent transcription coactivator by binding to the TEAD plays an essential role in regulating hESC fate decisions
+- Has been found that during hESC differentiation, LATS inhibits YAP protein, and leads to loss of embryonic stem cell pluripotency
 	- [[The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation]]
 - WNT and Hippo pathways can regulate the expression of pluripotency factor OCT4
 - Also been found that Hippo/YAP signaling through the interactions with Wnt signaling can control neural tissue patterning of hPSCs
