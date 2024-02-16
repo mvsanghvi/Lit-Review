@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "198cc98aa423742e",
+        "id": "b100de0c0edad306",
         "type": "tabs",
         "children": [
           {
-            "id": "69e5ecacefc3b045",
+            "id": "8482113a92889c45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "857e04b4ed28efe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2e14668301d3fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md"
               }
             }
           }
@@ -150,36 +179,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81a53d77bfe2450d",
+  "active": "857e04b4ed28efe7",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Protocols/hPSC Culture.md",
-    "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",
-    "Embryology+Somitogenesis/Protocols/Actin-myosin contractility is responsible for the reduced viability of dissociated human embryonic stem cells.md",
-    "Embryology+Somitogenesis/Protocols/Conditions for deriving human embryonic stem cells.md",
-    "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
-    "Embryology+Somitogenesis/Protocols/Self-organization of human embryonic stem cells on micropatterns.md",
-    "Embryology+Somitogenesis/Protocols/Embryonic SCs from human blastocysts.md",
-    "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.md",
-    "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
-    "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo pathway member YAP enhances human neural crest cell fate and migration.md",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Wnt-YAP interactions in the neural fate of human pluripotent stem cells and the implications for neural organoid formation.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP contributes to DNA methylation remodeling upon mouse embryonic stem cell differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear Localization in the Absence of Cell-Cell Contact.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Nuclear-Cytoplasmic Translocation is Regulated by Mechanical Signaling, Protein Modification, and Metabolism.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Wnt-YAP interactions in the neural fate of human pluripotent stem cells and the implications for neural organoid formation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo pathway member YAP enhances human neural crest cell fate and migration.md",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
+    "Embryology+Somitogenesis/A brief history of the segmentation clock.md",
+    "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.md",
+    "Embryology+Somitogenesis/Protocols/hPSC Culture.md",
+    "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",
+    "Embryology+Somitogenesis/Protocols/Actin-myosin contractility is responsible for the reduced viability of dissociated human embryonic stem cells.md",
+    "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
+    "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
     "Embryology+Somitogenesis/Protocols/hPSC culture 2013.jpeg",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
