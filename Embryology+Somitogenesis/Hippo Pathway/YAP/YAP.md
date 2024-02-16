@@ -7,7 +7,7 @@ Self-Summary:
 - YAP/TAZ stays in the cytoplasm:
 	- Soft surfaces
 	- High density
-	- [[YAP and TAZ in human Pluripotent stem cell self-renewal and differentiation]]
+	- [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]
 
 Mouse Cells:
 - Mouse PSM cells:
