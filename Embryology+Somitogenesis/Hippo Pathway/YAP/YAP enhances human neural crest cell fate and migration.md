@@ -1,3 +1,5 @@
+The Hippo pathway member YAP enhances human neural crest cell fate and migration
+
 Christopher J. Hindley, Alexandra Larisa Condurat, Vishal Menon, Ria Thomasl, Luis M. Azmitia, Jason A. Davis, Jan Pruszak
 
 Scientific Reports (2016)
