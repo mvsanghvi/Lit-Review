@@ -35,6 +35,11 @@ http://doi.org/10.1089/cell.2019.0084
 - WNT and Hippo pathways can regulate the expression of pluripotency factor OCT4
 - Also been found that Hippo/YAP signaling through the interactions with Wnt signaling can control neural tissue patterning of hPSCs
 	- [[Wnt-YAP interactions in the neural fate of human pluripotent stem cells and the implications for neural organoid formation]]
+	- Retinoic acid signaling enhanced hESC-derived neural crest cell fate decisions/migrations
 	- Low-density culture conditions as a modulator of Hippo pathway activity increase nuclear YAP expression, and changed neural cell fate
-		- [[The Hippo pathway member YAP enhances human neural crest cell fate and migration]]
+		- Under low density, hESCs could be differentiated into adipocytes, chondrocytes, osteoblasts, and peripheral neurons as neural crest progenitors
+		- [[YAP enhances human neural crest cell fate and migration]]
+- YAP/TAZ pathway can prevent hPSC differentiation and promote reprogramming efficiency
+	- [[The Hippo signaling pathway and stem cell biology.]]
 - YAP-TEAD complexes can activate Oct4 expression and improve hPSC proliferation
+- Switching YAP from the Beta-catenin pluripotency complex (by RASSF1A) enhancing hESCs differentiation 
