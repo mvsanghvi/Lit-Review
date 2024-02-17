@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e2a4d0772af424ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md"
               }
             }
           }
@@ -191,11 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2a4d0772af424ec",
+  "active": "b2e14668301d3fea",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP enhances human neural crest cell fate and migration.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP enhances human neural crest cell fate and migration.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo signaling pathway and stem cell biology..md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
