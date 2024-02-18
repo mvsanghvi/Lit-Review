@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"ff2f1cb6b01f732d","x":-400,"y":-160,"width":250,"height":60,"type":"text","text":"YAP translocates to cytoplasm at high density"},
-		{"id":"5962c3dc3ad8d193","x":-60,"y":-260,"width":220,"height":100,"type":"text","text":"Hippo Pathway (and WNT) regulate OCT4 expression"},
-		{"id":"c872b694d6554d71","x":120,"y":-100,"width":225,"height":120,"type":"text","text":"YAP is needed for Beta-catenin to control cardiomyocyte differentiation"},
-		{"id":"07bf7c8112528304","x":-420,"y":-30,"width":250,"height":130,"type":"text","text":"YAP pathway can prevent hPSC differentiation and promote reprogramming efficiency"},
-		{"id":"81d1d7dfd8b6ac44","x":-150,"y":-10,"width":250,"height":90,"type":"text","text":"YAP signaling (through WNT) controls neural tissue patterning"}
+		{"id":"ff2f1cb6b01f732d","type":"text","text":"YAP translocates to cytoplasm at high density","x":-400,"y":-160,"width":250,"height":60},
+		{"id":"5962c3dc3ad8d193","type":"text","text":"Hippo Pathway (and WNT) regulate OCT4 expression [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":-80,"y":-240,"width":220,"height":80},
+		{"id":"07bf7c8112528304","type":"text","text":"YAP pathway can prevent hPSC differentiation and promote reprogramming efficiency [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":-460,"y":20,"width":250,"height":120},
+		{"id":"c872b694d6554d71","type":"text","text":"YAP is needed for Beta-catenin to control cardiomyocyte differentiation [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":200,"y":-80,"width":225,"height":120},
+		{"id":"81d1d7dfd8b6ac44","type":"text","text":"YAP signaling (through WNT) controls neural tissue patterning [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":-110,"y":80,"width":250,"height":90}
 	],
 	"edges":[]
 }
