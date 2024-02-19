@@ -23,9 +23,15 @@ Specifying the Anterior Primitive Streak by modulating [[YAP]]1 levels in hPSCs
 - - YAP KO had same downregulation of pan, A, and PPS markers as WT
 	- Including T, MSGN1, and CDX2
 - Loss of YAP1 treated with GSK3i did not significantly affect the induction of the PPS genes
-## ACTIVIN + Dasatinib (YAP1i)-Derived PS Cells Can Differentiate along the Endoderm and Cardiac Cell Lingeages
-
+## ACTIVIN + Dasatinib (YAP1i)-Derived PS Cells Can Differentiate along the Endoderm and Cardiac Cell Lineages
+- WNT/GSK3i induces the PPS genes are prone to acquire a paraxial fate
+- MEOX1 (paraxial mesoderm) expression was high expression in GSK3i-treated WT cells 
+- Sox17 (endoderm) expression was high expression in Activin+dasatinib treated cells
 ## PS Progenitors Can Be Reprogrammed
+- WNT inhibitor also impairs the induction of the paraxial gene MEOX1
+- Blocking WNT signaling reprograms the PPS precursors from a paraxial to a cardiac cell fate
+- Demonstrates APS and PPS are not fully committed precursors
+	- Can be redirected to alternate fates in response to appropriate developmental cues. 
 ## ACTIVIN + YAP1i Treatment Provides an Alternative Strategy for Cardiac Induction
 
 # Conclusions
