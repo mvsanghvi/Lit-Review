@@ -5,13 +5,13 @@ Clark, Rudolf Jaenisch, and Kathrin Plath
 
 # Introduction
 # Results
-## Primed to Naive Conversion Leads to X Reactivation
-## Naive hPSCs Express *XIST* from an Active X Chrosomes
-## Primed to Naive Conversion Occurs via XIST-Negative XaXa Intermediate
-## Xi Reactivation in Naive hESCs is Chromosome-wide 
-## X-inactivation-specific De-methylation Occurs Faster than Global Hypo-methylation in the Primed to Naive Transition
-## Transition from the *XIST*-Negative to *XIST*-Positive Naive State to Accompanied by Dampening of X-linked Gene Expression
-## H3K27me3 Accumulates on the *XIST*-Expressing Xa in Naive Cells
+## Primed to Naïve Conversion Leads to X Reactivation
+## Naïve hPSCs Express *XIST* from an Active X Chromosomes
+## Primed to Naïve Conversion Occurs via XIST-Negative XaXa Intermediate
+## Xi Reactivation in Naïve hESCs is Chromosome-wide 
+## X-inactivation-specific De-methylation Occurs Faster than Global Hypo-methylation in the Primed to Naïve Transition
+## Transition from the *XIST*-Negative to *XIST*-Positive Naïve State to Accompanied by Dampening of X-linked Gene Expression
+## H3K27me3 Accumulates on the *XIST*-Expressing Xa in Naïve Cells
 ## Blastocyst-Derived Naive hESCs Capture the *XIST*-Positive, but Not the *XIST*-Negative XaXa State
 ## Naive hESCs Induce SCI upon Differentiation
 ## XCI in Differentiating Naive hPSCs to Non-random
