@@ -12,3 +12,22 @@ J Genet. 2015 Dec; 94(4): 591–599. doi: 10.1007/s12041-015-0574-1
 	- This pinpointed timing of random XCI
 - Silencing of one allele is then clonally inherited in female somatic cells
 # X inactivation centre and XCI initiation
+- X-inactivation centre (XIC) required for the onset of XCI
+- Location the XIC on the mouse and human X chrom was further defined by examining patterns of XCI in multiple additional cases of X;autosome translocations or other types of X rearrangements 
+- Main key element turned out to be a gene that encodes a long noncoding RNA (lncRNA) called X inactive-specific transcript (*Xist*)
+- *XIST* was initially discovered in humans by singling out this lncRNA as a critical factor for SCI based on its location and being unique to female adult somatic cells
+- *XIST*/*Xist* RNA coats the inactive X chromosome in *cis* and thus becomes detectable as a cloud within the nucleus of somatic cells using RNA_FISH
+- Role of *Xist* and of all elements of the XIC which include several other lncRNAs and controlling elements is still under study
+- In mice 2 waves of silencing, imprinted SCI is initiated on paternal X chromosome at D4
+- Imprinted paternal XCI persists in extraembryonic tissues while it is followed by X reactivation in the ICM and random SCI at the blastocyst stage
+- XCI depends on levels of *Xist* expression, which are controlled by its antisense *Tsix* and a series of lncRNAs located at the XIC
+- The XIC also contains protein-coding genes Rnf12, whose product activates *Xist* expression based on its dosage
+- Pluripotency factors (OCT4 and NANOG) control *Xist* and *Tsix* expression, preventing SCI in pluripotent cells
+- In human and rabbits, SCI onset is delayed and the paternal/maternal X chromosome is randomly silenced in some cells at early stages of development
+	- Thus skips the imprinted XCI observed in mice
+# XCI spreading
+# XCI maintenance
+# X chromosome 3D structure
+# X reactivation
+# Escape from XCI
+
