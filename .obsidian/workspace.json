@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/X-chrom inactivation/Molecular Criteria for Defining the Naive Human Pluripotent State.md",
+                "file": "Embryology+Somitogenesis/X-chrom inactivation/Human Naive PSCs Model X Chromosome Dampening and X-Inactivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/X-chrom inactivation/Molecular Criteria for Defining the Naive Human Pluripotent State.md",
+                "file": "Embryology+Somitogenesis/X-chrom inactivation/Human Naive PSCs Model X Chromosome Dampening and X-Inactivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/X-chrom inactivation/Molecular Criteria for Defining the Naive Human Pluripotent State.md",
+                "file": "Embryology+Somitogenesis/X-chrom inactivation/Human Naive PSCs Model X Chromosome Dampening and X-Inactivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/X-chrom inactivation/Molecular Criteria for Defining the Naive Human Pluripotent State.md"
+                "file": "Embryology+Somitogenesis/X-chrom inactivation/Human Naive PSCs Model X Chromosome Dampening and X-Inactivation.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "857e04b4ed28efe7",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/X-chrom inactivation/X-chromosome inactivation and escape.md",
     "Embryology+Somitogenesis/X-chrom inactivation/Molecular Criteria for Defining the Naive Human Pluripotent State.md",
+    "Embryology+Somitogenesis/X-chrom inactivation/Human Naive PSCs Model X Chromosome Dampening and X-Inactivation.md",
+    "Embryology+Somitogenesis/X-chrom inactivation/X-chromosome inactivation and escape.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP leads to cardiac mesoderm lineage.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
@@ -182,7 +183,6 @@
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
-    "Embryology+Somitogenesis/Blastoids/Modeling human pregastrulation by blastoids from primed to naïve transitioning.md",
     "Embryology+Somitogenesis/Blastoids",
     "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
     "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
