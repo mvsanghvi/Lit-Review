@@ -25,6 +25,8 @@ J Genet. 2015 Dec; 94(4): 591–599. doi: 10.1007/s12041-015-0574-1
 - Pluripotency factors (OCT4 and NANOG) control *Xist* and *Tsix* expression, preventing SCI in pluripotent cells
 - In human and rabbits, SCI onset is delayed and the paternal/maternal X chromosome is randomly silenced in some cells at early stages of development
 	- Thus skips the imprinted XCI observed in mice
+- *Tsix* doesn't regulate *Xist* in humans 
+- Initiation of XCI may be stochastic w subsequent selection cells with appropriate number of X chromosomes expressed
 # XCI spreading
 # XCI maintenance
 # X chromosome 3D structure
