@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
+                "file": "Embryology+Somitogenesis/Peri-gastruloid.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
+                "file": "Embryology+Somitogenesis/Peri-gastruloid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
+                "file": "Embryology+Somitogenesis/Peri-gastruloid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md"
+                "file": "Embryology+Somitogenesis/Peri-gastruloid.md"
               }
             }
           }
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81a53d77bfe2450d",
+  "active": "aedf4c649ee84a34",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/EPSCs- Extended Pluripotent Stem Cells.md",
+    "Embryology+Somitogenesis/Peri-gastruloid.md",
+    "Embryology+Somitogenesis/Embryonic Stem Cells.md",
     "Embryology+Somitogenesis/Somitogenesis/Hes7/Hes 7.md",
     "Embryology+Somitogenesis/Somitogenesis/Hes7",
     "Embryology+Somitogenesis/Week 2.md",
@@ -185,10 +188,7 @@
     "Embryology+Somitogenesis/Protocols/Conditions for deriving human embryonic stem cells.md",
     "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
     "Embryology+Somitogenesis/Protocols/Self-organization of human embryonic stem cells on micropatterns.md",
-    "Embryology+Somitogenesis/Protocols/Embryonic SCs from human blastocysts.md",
     "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo pathway member YAP enhances human neural crest cell fate and migration.md",
     "Embryology+Somitogenesis/Protocols/hPSC culture 2013.jpeg",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
