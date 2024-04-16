@@ -11,8 +11,12 @@
             "id": "aedf4c649ee84a34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embryology+Somitogenesis/Embryonic Stem Cells.md"
+              }
             }
           }
         ]
@@ -146,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aedf4c649ee84a34",
+  "active": "81a53d77bfe2450d",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Somitogenesis/Hes7/Hes 7.md",
+    "Embryology+Somitogenesis/Somitogenesis/Hes7",
+    "Embryology+Somitogenesis/Week 2.md",
+    "Embryology+Somitogenesis/Somitogenesis",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Human primed and naïve PSCs differentiate into TSCs.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
@@ -160,7 +172,6 @@
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
     "Embryology+Somitogenesis/X-chrom inactivation/X-chromosome inactivation.md",
     "Embryology+Somitogenesis/Week 1.md",
-    "Embryology+Somitogenesis/Week 2.md",
     "Embryology+Somitogenesis/X-chrom inactivation",
     "Embryology+Somitogenesis/Surface topography guides morphology and spatial patterning of iPSC colonies.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo signaling pathway and stem cell biology..md",
