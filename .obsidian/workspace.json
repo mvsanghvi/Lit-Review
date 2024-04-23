@@ -18,8 +18,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5bb6108578f086a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
+                "viewState": {
+                  "x": 641.7833928571428,
+                  "y": -13.442035714285685,
+                  "zoom": -0.473106555534374
+                }
+              }
+            }
+          },
+          {
+            "id": "56876af11ed5a526",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
+                "viewState": {
+                  "x": 31.5,
+                  "y": -106.78560714285724,
+                  "zoom": -0.638386492987651
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Peri-gastruloid.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Peri-gastruloid.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Peri-gastruloid.md"
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas"
               }
             }
           }
@@ -154,8 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aedf4c649ee84a34",
+  "active": "56876af11ed5a526",
   "lastOpenFiles": [
+    "Embryology+Somitogenesis/Protocols/Identification of cell context-dependent YAP-associated proteins reveals β1 and β4 integrin mediate YAP translocation independently of cell spreading.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
     "Embryology+Somitogenesis/EPSCs- Extended Pluripotent Stem Cells.md",
     "Embryology+Somitogenesis/Peri-gastruloid.md",
     "Embryology+Somitogenesis/Embryonic Stem Cells.md",
@@ -163,7 +196,6 @@
     "Embryology+Somitogenesis/Somitogenesis/Hes7",
     "Embryology+Somitogenesis/Week 2.md",
     "Embryology+Somitogenesis/Somitogenesis",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Human primed and naïve PSCs differentiate into TSCs.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
@@ -185,9 +217,7 @@
     "Embryology+Somitogenesis/Protocols/hPSC Culture.md",
     "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",
     "Embryology+Somitogenesis/Protocols/Actin-myosin contractility is responsible for the reduced viability of dissociated human embryonic stem cells.md",
-    "Embryology+Somitogenesis/Protocols/Conditions for deriving human embryonic stem cells.md",
     "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
-    "Embryology+Somitogenesis/Protocols/Self-organization of human embryonic stem cells on micropatterns.md",
     "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
     "Embryology+Somitogenesis/Protocols/hPSC culture 2013.jpeg",
     "Embryology+Somitogenesis/Hippo Pathway/YAP",

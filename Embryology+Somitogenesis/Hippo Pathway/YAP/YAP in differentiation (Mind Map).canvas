@@ -12,7 +12,8 @@
 		{"id":"f8e6c6037610cea8","type":"text","text":"YAP/TAZ double KO from naive cells did not expand [[Suppression of YAP safeguards human naive pluripotency]]","x":-480,"y":100,"width":213,"height":81},
 		{"id":"1a665da35e04f04e","type":"text","text":"H9 YAP KO have impaired ability to form naive colonies, especially in 5iLA [[YAP Induces Human Naive Pluripotency]]","x":-480,"y":-305,"width":260,"height":93},
 		{"id":"92f844f3b08f729b","type":"text","text":"Trophoblast","x":-350,"y":-480,"width":153,"height":60,"color":"4"},
-		{"id":"35c21ffb23171556","x":-220,"y":-680,"width":290,"height":100,"type":"text","text":"WIBR YAP KO didn't fully convert into TSCs (Normal growth that stalled after Day 5) [[Human primed and naïve PSCs differentiate into TSCs]]"}
+		{"id":"35c21ffb23171556","type":"text","text":"WIBR YAP KO didn't fully convert into TSCs (Normal growth that stalled after Day 5) [[Human primed and naïve PSCs differentiate into TSCs]]","x":-220,"y":-680,"width":290,"height":100},
+		{"id":"6e4d15d9254b47d6","type":"text","text":"For IPs, MCF10A cells were harvested from IPNs as above and lysed in Pierce IP buffer (cat. #87787; Thermo Fisher Scientific) containing inhibitors as above and quantified as above. 1 µg of antibodies were conjugated to 10 µl Dynabeads (cat. # 10001D; Thermo Fisher Scientific), added to cell lysate, and rotated for 30–60 min on ice. Beads were washed 3x with IP buffer containing inhibitors followed by elution of protein complexes off beads with sample buffer. [[Identification of cell context-dependent YAP-associated proteins reveals β1 and β4 integrin mediate YAP translocation independently of cell spreading]]","x":480,"y":140,"width":443,"height":283}
 	],
 	"edges":[
 		{"id":"4536a82cbef20ffd","fromNode":"f01357f9fc8ef295","fromSide":"right","toNode":"063e437b887b3e2a","toSide":"left"},
@@ -26,6 +27,7 @@
 		{"id":"726691b8fff81d8c","fromNode":"6151b236ef375311","fromSide":"top","toNode":"6976e9d460016765","toSide":"bottom"},
 		{"id":"80fd8a569bdd8d50","fromNode":"f8e6c6037610cea8","fromSide":"top","toNode":"6976e9d460016765","toSide":"bottom"},
 		{"id":"a6b1fb37bb3af0af","fromNode":"6976e9d460016765","fromSide":"top","toNode":"92f844f3b08f729b","toSide":"left"},
-		{"id":"6e444066466a82d0","fromNode":"35c21ffb23171556","fromSide":"bottom","toNode":"92f844f3b08f729b","toSide":"top"}
+		{"id":"6e444066466a82d0","fromNode":"35c21ffb23171556","fromSide":"bottom","toNode":"92f844f3b08f729b","toSide":"top"},
+		{"id":"18fce251dcd9a38c","fromNode":"063e437b887b3e2a","fromSide":"bottom","toNode":"6e4d15d9254b47d6","toSide":"top"}
 	]
 }
