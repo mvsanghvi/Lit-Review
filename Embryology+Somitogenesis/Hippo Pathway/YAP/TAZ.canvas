@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d3e51a664480d91a","type":"text","text":"Naive cells","x":-320,"y":0,"width":140,"height":60,"color":"4"},
+		{"id":"18acda4ed9baba1d","type":"text","text":"Presomitic Mesoderm","x":620,"y":0,"width":250,"height":60,"color":"4"},
+		{"id":"02b1f30f7e2a4079","type":"text","text":"Reduced TAZ activity leads to neuronal differentiation of human ES cells. [[The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation]]","x":360,"y":-240,"width":285,"height":90},
+		{"id":"441076add5e9c6dc","type":"text","text":"Primed cells","x":160,"y":0,"width":150,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"d06848a7e1185cdf","fromNode":"441076add5e9c6dc","fromSide":"right","toNode":"18acda4ed9baba1d","toSide":"left"},
+		{"id":"270855166d23b4fd","fromNode":"441076add5e9c6dc","fromSide":"left","toNode":"d3e51a664480d91a","toSide":"right"},
+		{"id":"37eb1cdd9f3153e1","fromNode":"02b1f30f7e2a4079","fromSide":"bottom","toNode":"441076add5e9c6dc","toSide":"top"}
+	]
+}
