@@ -4,53 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5dfbf7e830265c60",
+        "id": "1352c5628474a51e",
         "type": "tabs",
         "children": [
           {
-            "id": "aedf4c649ee84a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embryology+Somitogenesis/Peri-gastruloid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5bb6108578f086a",
+            "id": "c04b4fb61666130a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
                 "viewState": {
-                  "x": 641.7833928571428,
-                  "y": -13.442035714285685,
-                  "zoom": -0.473106555534374
-                }
-              }
-            }
-          },
-          {
-            "id": "56876af11ed5a526",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
-                "viewState": {
-                  "x": 31.5,
-                  "y": -106.78560714285724,
-                  "zoom": -0.638386492987651
+                  "x": 94.5,
+                  "y": -121,
+                  "zoom": -0.7368968927665938
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,12 +157,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56876af11ed5a526",
+  "active": "c04b4fb61666130a",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Protocols/Identification of cell context-dependent YAP-associated proteins reveals β1 and β4 integrin mediate YAP translocation independently of cell spreading.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TAZ Incorporation in the β-Catenin Destruction Complex Orchestrates the Wnt Response.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
-    "Embryology+Somitogenesis/EPSCs- Extended Pluripotent Stem Cells.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/TAZ.canvas",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
     "Embryology+Somitogenesis/Peri-gastruloid.md",
+    "Embryology+Somitogenesis/Protocols/Identification of cell context-dependent YAP-associated proteins reveals β1 and β4 integrin mediate YAP translocation independently of cell spreading.md",
+    "Embryology+Somitogenesis/EPSCs- Extended Pluripotent Stem Cells.md",
     "Embryology+Somitogenesis/Embryonic Stem Cells.md",
     "Embryology+Somitogenesis/Somitogenesis/Hes7/Hes 7.md",
     "Embryology+Somitogenesis/Somitogenesis/Hes7",
@@ -204,7 +182,6 @@
     "Embryology+Somitogenesis/X-chrom inactivation/Molecular Criteria for Defining the Naive Human Pluripotent State.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP leads to cardiac mesoderm lineage.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
     "Embryology+Somitogenesis/X-chrom inactivation/X-chromosome inactivation.md",
     "Embryology+Somitogenesis/Week 1.md",
     "Embryology+Somitogenesis/X-chrom inactivation",
@@ -212,11 +189,7 @@
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo signaling pathway and stem cell biology..md",
     "Embryology+Somitogenesis/Blastoids/Modeling human pregastrulation by blastoids from primed to naïve transitioning.md",
     "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.md",
-    "Embryology+Somitogenesis/Protocols/Evolution of Human PSC culture.md",
     "Embryology+Somitogenesis/Blastoids",
-    "Embryology+Somitogenesis/Protocols/hPSC Culture.md",
-    "Embryology+Somitogenesis/Protocols/Chemically defined conditions for human iPSC derivation and culture.md",
-    "Embryology+Somitogenesis/Protocols/Actin-myosin contractility is responsible for the reduced viability of dissociated human embryonic stem cells.md",
     "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
     "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
     "Embryology+Somitogenesis/Protocols/hPSC culture 2013.jpeg",

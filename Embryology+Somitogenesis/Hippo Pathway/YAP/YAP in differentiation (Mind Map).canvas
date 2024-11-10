@@ -1,19 +1,21 @@
 {
 	"nodes":[
-		{"id":"063e437b887b3e2a","type":"text","text":"Presomitic Mesoderm","x":480,"y":-50,"width":250,"height":60,"color":"4"},
-		{"id":"07bf7c8112528304","type":"text","text":"YAP pathway can prevent hPSC differentiation and promote reprogramming efficiency [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":-180,"y":80,"width":250,"height":120},
-		{"id":"81d1d7dfd8b6ac44","type":"text","text":"YAP signaling (through WNT) controls neural tissue patterning [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":120,"y":95,"width":250,"height":90},
 		{"id":"f01357f9fc8ef295","type":"text","text":"Primed cells","x":-5,"y":-50,"width":150,"height":60,"color":"4"},
 		{"id":"6976e9d460016765","type":"text","text":"Naive cells","x":-620,"y":-50,"width":140,"height":60,"color":"4"},
 		{"id":"c872b694d6554d71","type":"text","text":"YAP is needed for Beta-catenin to control cardiomyocyte differentiation [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":245,"y":-220,"width":225,"height":120},
 		{"id":"5962c3dc3ad8d193","type":"text","text":"Hippo Pathway (and WNT) regulate OCT4 expression [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":10,"y":-267,"width":220,"height":110},
 		{"id":"ff2f1cb6b01f732d","type":"text","text":"YAP translocates to cytoplasm at high density","x":-190,"y":-212,"width":185,"height":115},
-		{"id":"6151b236ef375311","type":"text","text":"YAP KO or TAZ KO from naive cells [[Suppression of YAP safeguards human naive pluripotency]]","x":-860,"y":110,"width":200,"height":60},
-		{"id":"f8e6c6037610cea8","type":"text","text":"YAP/TAZ double KO from naive cells did not expand [[Suppression of YAP safeguards human naive pluripotency]]","x":-480,"y":100,"width":213,"height":81},
+		{"id":"6151b236ef375311","type":"text","text":"YAP KO or TAZ KO from naive cells [[Suppression of YAP safeguards human naive pluripotency]]","x":-860,"y":110,"width":200,"height":71},
+		{"id":"f8e6c6037610cea8","type":"text","text":"YAP/TAZ double KO directly in naive cells did not expand [[Suppression of YAP safeguards human naive pluripotency]]","x":-480,"y":100,"width":213,"height":81},
 		{"id":"1a665da35e04f04e","type":"text","text":"H9 YAP KO have impaired ability to form naive colonies, especially in 5iLA [[YAP Induces Human Naive Pluripotency]]","x":-480,"y":-305,"width":260,"height":93},
 		{"id":"92f844f3b08f729b","type":"text","text":"Trophoblast","x":-350,"y":-480,"width":153,"height":60,"color":"4"},
 		{"id":"35c21ffb23171556","type":"text","text":"WIBR YAP KO didn't fully convert into TSCs (Normal growth that stalled after Day 5) [[Human primed and naïve PSCs differentiate into TSCs]]","x":-220,"y":-680,"width":290,"height":100},
-		{"id":"6e4d15d9254b47d6","type":"text","text":"For IPs, MCF10A cells were harvested from IPNs as above and lysed in Pierce IP buffer (cat. #87787; Thermo Fisher Scientific) containing inhibitors as above and quantified as above. 1 µg of antibodies were conjugated to 10 µl Dynabeads (cat. # 10001D; Thermo Fisher Scientific), added to cell lysate, and rotated for 30–60 min on ice. Beads were washed 3x with IP buffer containing inhibitors followed by elution of protein complexes off beads with sample buffer. [[Identification of cell context-dependent YAP-associated proteins reveals β1 and β4 integrin mediate YAP translocation independently of cell spreading]]","x":480,"y":140,"width":443,"height":283}
+		{"id":"07bf7c8112528304","type":"text","text":"YAP pathway can prevent hPSC differentiation and promote reprogramming efficiency [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":-220,"y":80,"width":250,"height":120},
+		{"id":"063e437b887b3e2a","type":"text","text":"Presomitic Mesoderm","x":702,"y":-50,"width":250,"height":60,"color":"4"},
+		{"id":"6e4d15d9254b47d6","type":"text","text":"For IPs, MCF10A cells were harvested from IPNs as above and lysed in Pierce IP buffer (cat. #87787; Thermo Fisher Scientific) containing inhibitors as above and quantified as above. 1 µg of antibodies were conjugated to 10 µl Dynabeads (cat. # 10001D; Thermo Fisher Scientific), added to cell lysate, and rotated for 30–60 min on ice. Beads were washed 3x with IP buffer containing inhibitors followed by elution of protein complexes off beads with sample buffer. [[Identification of cell context-dependent YAP-associated proteins reveals β1 and β4 integrin mediate YAP translocation independently of cell spreading]]","x":606,"y":155,"width":443,"height":283},
+		{"id":"399371508406c641","type":"text","text":"During hESC differentiation, LATS inhibits YAP protein, and leads to loss of ESCs pluripotency [[The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation]]","x":245,"y":10,"width":305,"height":101},
+		{"id":"81d1d7dfd8b6ac44","type":"text","text":"YAP signaling (through WNT) controls neural tissue patterning [[YAP and PDZ Binding for control of hPSC Self-renewal and differentiation]]","x":606,"y":-450,"width":250,"height":90},
+		{"id":"85cc033ec3ba7f85","x":-55,"y":270,"width":250,"height":168,"type":"text","text":"YAP/TAZ depletion by independent siRNA pairs is inconsequential for ES cell propagation in the 2i medium [[YAP-TAZ Incorporation in the β-Catenin Destruction Complex Orchestrates the Wnt Response]]"}
 	],
 	"edges":[
 		{"id":"4536a82cbef20ffd","fromNode":"f01357f9fc8ef295","fromSide":"right","toNode":"063e437b887b3e2a","toSide":"left"},
@@ -21,13 +23,14 @@
 		{"id":"c0b7646e40f98586","fromNode":"5962c3dc3ad8d193","fromSide":"bottom","toNode":"f01357f9fc8ef295","toSide":"top"},
 		{"id":"cb6cbf9dc9077279","fromNode":"c872b694d6554d71","fromSide":"bottom","toNode":"f01357f9fc8ef295","toSide":"top"},
 		{"id":"352f2567c1177ade","fromNode":"07bf7c8112528304","fromSide":"top","toNode":"f01357f9fc8ef295","toSide":"bottom"},
-		{"id":"732df043eb53c21e","fromNode":"81d1d7dfd8b6ac44","fromSide":"top","toNode":"f01357f9fc8ef295","toSide":"bottom"},
 		{"id":"9157bdd6e08027d2","fromNode":"f01357f9fc8ef295","fromSide":"left","toNode":"6976e9d460016765","toSide":"right"},
 		{"id":"9400ca0380a132d1","fromNode":"1a665da35e04f04e","fromSide":"bottom","toNode":"6976e9d460016765","toSide":"right"},
 		{"id":"726691b8fff81d8c","fromNode":"6151b236ef375311","fromSide":"top","toNode":"6976e9d460016765","toSide":"bottom"},
 		{"id":"80fd8a569bdd8d50","fromNode":"f8e6c6037610cea8","fromSide":"top","toNode":"6976e9d460016765","toSide":"bottom"},
 		{"id":"a6b1fb37bb3af0af","fromNode":"6976e9d460016765","fromSide":"top","toNode":"92f844f3b08f729b","toSide":"left"},
 		{"id":"6e444066466a82d0","fromNode":"35c21ffb23171556","fromSide":"bottom","toNode":"92f844f3b08f729b","toSide":"top"},
-		{"id":"18fce251dcd9a38c","fromNode":"063e437b887b3e2a","fromSide":"bottom","toNode":"6e4d15d9254b47d6","toSide":"top"}
+		{"id":"18fce251dcd9a38c","fromNode":"063e437b887b3e2a","fromSide":"bottom","toNode":"6e4d15d9254b47d6","toSide":"top"},
+		{"id":"45958c80a4838b8a","fromNode":"81d1d7dfd8b6ac44","fromSide":"bottom","toNode":"f01357f9fc8ef295","toSide":"top"},
+		{"id":"97a30ded47c3898c","fromNode":"85cc033ec3ba7f85","fromSide":"top","toNode":"f01357f9fc8ef295","toSide":"bottom"}
 	]
 }
