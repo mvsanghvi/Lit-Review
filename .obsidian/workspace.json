@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1352c5628474a51e",
+        "id": "3df50bb63f7b9701",
         "type": "tabs",
         "children": [
           {
-            "id": "c04b4fb61666130a",
+            "id": "ab9b91f0accabeef",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
-                "viewState": {
-                  "x": 296,
-                  "y": -121,
-                  "zoom": -1.013221187863335
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
+                "file": "Coding/Plotting/drawsquare.m.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
+                "file": "Coding/Plotting/drawsquare.m.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas"
+                "file": "Coding/Plotting/drawsquare.m.md"
               }
             }
           }
@@ -157,39 +150,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c04b4fb61666130a",
+  "active": "81a53d77bfe2450d",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md",
+    "Coding/Plotting/drawsquare.m.md",
+    "Coding/Plotting/calPI_02052025.m.md",
+    "Coding/Plotting/Calculatepi_solution.m.md",
+    "Coding/Plotting/Calculatepi.m.md",
+    "Coding/Nelder/testNelderMeadOptimization_2D.m.md",
+    "Coding/Plotting",
+    "Coding/Nelder/testgeneratesimpleX.m.md",
+    "Coding/Nelder/plot2VarFunction.m.md",
+    "Coding/Nelder/NelderMeadOptimization2D.m.md",
+    "Coding/Nelder/Assignment2.m.md",
+    "Coding/Nelder/generatesimpleX_2D.m.md",
+    "Coding/Nelder/generatesimpleX.m.md",
+    "Coding/Nelder/Assignment1.m.md",
+    "Coding/Kmeans/m00.m.md",
+    "Coding/Kmeans/ToImplement03_ComputeCentroidOfEachCluster.m.md",
+    "Coding/Kmeans/ToImplement02_AssignSamplesToClosestCluster.m.md",
+    "Coding/Kmeans/ToImplement01_ChooseRandomInitialCentroids.m.md",
+    "Coding/Kmeans/m04_optional_compressimagewkmeans.m.md",
+    "Coding/Kmeans/m03_playwkmeans.m.md",
+    "Coding/Kmeans/m02_verifycorefunc.m.md",
+    "Coding/Kmeans/m01_runkmeans.m.md",
+    "Coding/generate_simplex_2D.m.md",
+    "Coding/Nelder",
+    "Coding/testsimplex_2D.m.md",
+    "Coding/Kmeans",
+    "Coding/NelderMeadOptimization2D.m.md",
+    "Coding/Nelder_Mead_practice2.m.md",
+    "Coding/Nelder_Mead_practice.m.md",
+    "Coding/myrec.m.md",
+    "Coding",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md",
     "Embryology+Somitogenesis/Hippo Pathway/TAZ/TAZ.canvas",
     "Embryology+Somitogenesis/Hippo Pathway/TAZ",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TAZ Incorporation in the β-Catenin Destruction Complex Orchestrates the Wnt Response.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
-    "Embryology+Somitogenesis/Peri-gastruloid.md",
-    "Embryology+Somitogenesis/Protocols/Identification of cell context-dependent YAP-associated proteins reveals β1 and β4 integrin mediate YAP translocation independently of cell spreading.md",
-    "Embryology+Somitogenesis/EPSCs- Extended Pluripotent Stem Cells.md",
-    "Embryology+Somitogenesis/Embryonic Stem Cells.md",
-    "Embryology+Somitogenesis/Somitogenesis/Hes7/Hes 7.md",
     "Embryology+Somitogenesis/Somitogenesis/Hes7",
-    "Embryology+Somitogenesis/Week 2.md",
     "Embryology+Somitogenesis/Somitogenesis",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Human primed and naïve PSCs differentiate into TSCs.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP Induces Human Naive Pluripotency.md",
-    "Embryology+Somitogenesis/X-chrom inactivation/Human Naive PSCs Model X Chromosome Dampening and X-Inactivation.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP enhances human neural crest cell fate and migration.md",
-    "Embryology+Somitogenesis/X-chrom inactivation/Molecular Criteria for Defining the Naive Human Pluripotent State.md",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP leads to cardiac mesoderm lineage.md",
-    "Embryology+Somitogenesis/X-chrom inactivation/X-chromosome inactivation.md",
-    "Embryology+Somitogenesis/Week 1.md",
     "Embryology+Somitogenesis/X-chrom inactivation",
-    "Embryology+Somitogenesis/Surface topography guides morphology and spatial patterning of iPSC colonies.md",
-    "Embryology+Somitogenesis/Hippo Pathway/The Hippo signaling pathway and stem cell biology..md",
     "Embryology+Somitogenesis/Blastoids",
     "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
     "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
@@ -197,8 +195,6 @@
     "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
     "Qual Project/Aim 1.canvas",
-    "Qual Project",
-    "Embryology+Somitogenesis/Hippo Pathway",
     "Innate Immunity/PRRs Table 1.png",
     "Innate Immunity/MAVS Table 1.png",
     "Innate Immunity/PRRs Table 2.png",
