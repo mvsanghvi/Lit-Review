@@ -1,1 +1,0 @@
-# RIG-I selectively discriminates against 5′-monophosphate RNA

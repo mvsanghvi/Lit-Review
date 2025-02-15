@@ -1,1 +1,0 @@
-# Synergism between NF-κB1/p50 and Notch2 during the development of marginal zone B lymphocytes
