@@ -11,8 +11,12 @@
             "id": "ab9b91f0accabeef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Coding/myfactorial.m.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Plotting/drawsquare.m.md",
+                "file": "Coding/myfactorial.m.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Plotting/drawsquare.m.md",
+                "file": "Coding/myfactorial.m.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Plotting/drawsquare.m.md"
+                "file": "Coding/myfactorial.m.md"
               }
             }
           }
@@ -150,8 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81a53d77bfe2450d",
+  "active": "ab9b91f0accabeef",
   "lastOpenFiles": [
+    "Coding/meanval.m.md",
+    "Coding/myfactorial.m.md",
+    "Coding/Nelder_Mead_practice.m.md",
+    "Coding/myrec.m.md",
+    "Coding/generate_simplex_2D.m.md",
     "Coding/Plotting/drawsquare.m.md",
     "Coding/Plotting/calPI_02052025.m.md",
     "Coding/Plotting/Calculatepi_solution.m.md",
@@ -173,14 +182,9 @@
     "Coding/Kmeans/m03_playwkmeans.m.md",
     "Coding/Kmeans/m02_verifycorefunc.m.md",
     "Coding/Kmeans/m01_runkmeans.m.md",
-    "Coding/generate_simplex_2D.m.md",
     "Coding/Nelder",
     "Coding/testsimplex_2D.m.md",
     "Coding/Kmeans",
-    "Coding/NelderMeadOptimization2D.m.md",
-    "Coding/Nelder_Mead_practice2.m.md",
-    "Coding/Nelder_Mead_practice.m.md",
-    "Coding/myrec.m.md",
     "Coding",
     "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
     "Embryology+Somitogenesis/Hippo Pathway/TAZ/TAZ.canvas",
