@@ -11,6 +11,7 @@
             "id": "ab9b91f0accabeef",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.12"
@@ -60,6 +61,11 @@
               "type": "markdown",
               "state": {
                 "file": "Early Human Development (Week 1-5).md",
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Coding/myfactorial.m.md",
+>>>>>>> 88d416aea5d795e704efd603a63f9bdb55f5ee1f
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +146,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Early Human Development (Week 1-5).md",
+=======
+                "file": "Coding/myfactorial.m.md",
+>>>>>>> 88d416aea5d795e704efd603a63f9bdb55f5ee1f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +167,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Early Human Development (Week 1-5).md",
+=======
+                "file": "Coding/myfactorial.m.md",
+>>>>>>> 88d416aea5d795e704efd603a63f9bdb55f5ee1f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +194,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Early Human Development (Week 1-5).md"
+=======
+                "file": "Coding/myfactorial.m.md"
+>>>>>>> 88d416aea5d795e704efd603a63f9bdb55f5ee1f
               }
             }
           }
@@ -201,6 +219,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "24cadcc59c690270",
   "lastOpenFiles": [
     "PSM, somites, and somitogenesis.md",
@@ -208,6 +227,15 @@
     "Hippo.md",
     "Pluripotentcy.md",
     "Thesis",
+=======
+  "active": "ab9b91f0accabeef",
+  "lastOpenFiles": [
+    "Coding/meanval.m.md",
+    "Coding/myfactorial.m.md",
+    "Coding/Nelder_Mead_practice.m.md",
+    "Coding/myrec.m.md",
+    "Coding/generate_simplex_2D.m.md",
+>>>>>>> 88d416aea5d795e704efd603a63f9bdb55f5ee1f
     "Coding/Plotting/drawsquare.m.md",
     "Coding/Plotting/calPI_02052025.m.md",
     "Coding/Plotting/Calculatepi_solution.m.md",
@@ -229,7 +257,6 @@
     "Coding/Kmeans/m03_playwkmeans.m.md",
     "Coding/Kmeans/m02_verifycorefunc.m.md",
     "Coding/Kmeans/m01_runkmeans.m.md",
-    "Coding/generate_simplex_2D.m.md",
     "Coding/Nelder",
     "Coding/testsimplex_2D.m.md",
     "Coding/Kmeans",
