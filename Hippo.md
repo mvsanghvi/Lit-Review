@@ -1,0 +1,44 @@
+- The hippo pathway while initially studied and named due to its effects on organ size control is critical for cell survival, proliferation, differentiation, and fate
+- Originally discovered in drosophila [[The Hippo Pathway]]
+- The pathway crosses from the cytoplasm into the nucleus of the cell [[The Hippo Pathway]]
+- Canonical upstream aspects located in the cytoplasm [[Hippo Signal Transduction Mechanisms in T Cell Immunity]]
+	- Sav1
+	- Mst 1/2 gets activated by signaling cues from the environment
+	- They phosphorylate LATS1/2
+	- Mob1
+	- They phosphorylate YAP/TAZ 
+	- YAP/TAZ either bind to 14-3-3 and are retained in the cytoplasm or are degraded by proteasomes
+	- If the pathway is not turned on (no signaling cues from the environment), YAP/TAZ translocates to the nucleus and binds to the TEAD family to drive target gene expression
+- Non-canonical aspects of the Hippo Pathway include
+	- CDK7
+<u>YAP</u>
+- [[Wnt-YAP interactions in the neural fate of human pluripotent stem cells and the implications for neural organoid formation]]
+- [[YAP enhances human neural crest cell fate and migration]]
+- [[YAP1 is essential for self-organized differentiation of PSCs]]
+	- YAP1 loss causes arrest of mouse embryo development at E8.5
+		- Defective yolk sac vasculogenesis, chorioallontic attachment, and embryonic axis elongation
+	- YAP1 represses mesendodermal differentiation in hESCs by regulating NODAL and WNT3 pathway
+	- YAP1 deficiency induces transcriptomic and epigenetic modulation in human iPSCs
+		- Differential expression in YAP1 deficient of 2511 YAP1 targets compared to WT cells
+		- Mesoderm related YAP1 target genes were upregulated in YAP KO cells vs WT
+			- HEY2 and RBM47
+		- WNT pathway genes downregulated while NODAL was upregulated in YAP KO cells
+	- YAP -/- iPSC colonies self-organize in 2D
+		- YAP1 activity was modulated upon BMP4 stimulation
+			- [[Surface topography guides morphology and spatial patterning of iPSC colonies]]
+		- YAP KO  had the same elongation as WT
+		- YAP1 doesn't pay a central role for this response to substrate structures.
+		- YAP1 isn't a key regulator for self organization of 2D pluripotent stem cell colonies
+	- YAP1 deficiency enhances directed endodermal differentiation
+		- Mesoderm was separated by 1st dimension of DNAm clustering while WT and YAP KO were separated in the 2nd
+			- DNAm changes of mesodermal differentiation similar between YAP KO and WT
+		- Strongest differences in hyper and hypo-methylated CpGs after mesodermal differentiation
+	- YAP1 is required for early differentiation towards germ layers in embryoid bodies
+		- Viability of EBs wasn't reduced due to YAP1 KO
+		- EBs from YAP KO kept high OCT4 expression and didn't upregulate germ layer markers
+		- To exclude possibility of differentiation potential due to cell damage, rescued with YAP1 with lentiviral transfection
+		- Lentiviral transfection did NOT rescue T expression
+- Loss of YAP1 in developing gastruloids led to an increase in the percentage of cells positive for mesoderm and endoderm markers, but led to a loss of ectoderm formation  [[YAP1 regulates the self-organized fate patterning of hESC-derived gastruloids]]
+<u>TAZ</u>
+- [[The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation]]
+- 
