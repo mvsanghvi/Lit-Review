@@ -14,7 +14,7 @@ Biomater Adv. 2023 Mar:146:213308. doi: 10.1016/j.bioadv.2023.213308. Epub 2023 
 - YAP1 is also an essential mechanotransducer independent from Hippo cascade, where nuclear translocation occurs in response to substrate elasticity and cell shape 
 - YAP1 loss causes arrest of mouse embryo development at E8.5
 	- Defective yolk sac vasculogenesis, chorioallontic attachment, and embryonic axis elongation
-- YAP1 is important for gem cell differentiation from mEpiSC
+- YAP1 is important for germ cell differentiation from mEpiSC
 - YAP1 represses mesendodermal differentiation in hESCs by regulating NODAL and WNT3 pathway
 - YAP1 KO iPSCs revealed changes in gene expression and DNAm during ectoderm and endoderm differentiation
 - KO still maintains trilineage differentiation
