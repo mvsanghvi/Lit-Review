@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "146872f3cb564e5c",
+    "id": "1c31cae4d6051b3d",
     "type": "split",
     "children": [
       {
-        "id": "3df50bb63f7b9701",
+        "id": "9f01f6db81d45896",
         "type": "tabs",
         "children": [
           {
-            "id": "d09fd7178603e7ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pluripotentcy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1de0a5beeb682d97",
+            "id": "7f7d4ae1c3dc4473",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,53 +16,55 @@
                 "file": "Hippo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Hippo"
             }
           },
           {
-            "id": "b6b8c5dbf037f1d0",
+            "id": "31e65dcaa20c925e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSM, somites, and somitogenesis.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Human primed and naïve PSCs differentiate into TSCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "myfactorial.m"
+              "title": "Human primed and naïve PSCs differentiate into TSCs"
             }
           },
           {
-            "id": "6a1ec71ac81b251b",
+            "id": "3fc1d9174f2c5b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/NelderMeadOptimization2D.m.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NelderMeadOptimization2D.m"
+              "title": "Interplay between Notch and YAP"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7a5dbc2a2a583ddc",
+    "id": "a0d0d3e6e73aa232",
     "type": "split",
     "children": [
       {
-        "id": "77abb67a9124ef4e",
+        "id": "b9efbd331968439d",
         "type": "tabs",
         "children": [
           {
-            "id": "81a53d77bfe2450d",
+            "id": "2b7ecfcee8782b7e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,13 +77,13 @@
             }
           },
           {
-            "id": "2977cdaec9f8a628",
+            "id": "09b1ba6b5d8385d1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -104,17 +94,7 @@
             }
           },
           {
-            "id": "68c6dce482e36610",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "dfff60446fb52ed6",
+            "id": "7dcbbddf55ff642f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -127,26 +107,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "e5a498296b2e8191",
+    "id": "3804729abe73198a",
     "type": "split",
     "children": [
       {
-        "id": "75748cb98e24bfc2",
+        "id": "c0b4f217e9ce92d3",
         "type": "tabs",
         "children": [
           {
-            "id": "3a087a709c185b15",
+            "id": "7afd825a7c672ba6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Hippo.md",
->>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,15 +136,11 @@
             }
           },
           {
-            "id": "926adcae3850138a",
+            "id": "0542657b25cd5dfd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Hippo.md",
->>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +149,7 @@
             }
           },
           {
-            "id": "8201b2299eaed927",
+            "id": "a02167a55b400357",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -192,29 +164,24 @@
             }
           },
           {
-            "id": "a6ee9a5d7194900b",
+            "id": "53d1da3978d91620",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
-=======
-                "file": "Hippo.md"
-              }
->>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -227,71 +194,32 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "6a1ec71ac81b251b",
+  "active": "3fc1d9174f2c5b11",
   "lastOpenFiles": [
-    "Coding/Nelder_Mead_practice2.m.md",
-    "Coding/Nelder_Mead_practice.m.md",
-    "Coding/montecarlo.m.md",
-    "Coding/generate_simplex_2D.m.md",
-    "Coding/testfact.m.md",
-    "Coding/myfactorial.m.md",
-    "Coding/meanval.m.md",
-    "Coding/myrec.m.md",
-=======
-  "active": "1de0a5beeb682d97",
-  "lastOpenFiles": [
-    "PSM, somites, and somitogenesis.md",
-    "Embryology+Somitogenesis/Week 3.md",
-    "Early Human Development (Week 1-5).md",
-    "Embryology+Somitogenesis/Week 4.md",
-    "Embryology+Somitogenesis/Week 5.md",
-    "Embryology+Somitogenesis/Week 2.md",
-    "Embryology+Somitogenesis/Week 1.md",
-    "Pluripotentcy.md",
+    "Embryology+Somitogenesis/Hippo Pathway/TAZ/TAZ.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP.md",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
+    "Embryology+Somitogenesis/Hippo Pathway/Hippo Signal Transduction Mechanisms in T Cell Immunity.md",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo signaling pathway and stem cell biology..md",
     "Hippo.md",
-    "Thesis",
->>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
-    "Coding/Plotting/drawsquare.m.md",
-    "Coding/Plotting/calPI_02052025.m.md",
-    "Coding/Plotting/Calculatepi_solution.m.md",
-    "Coding/Plotting/Calculatepi.m.md",
-    "Coding/Nelder/testNelderMeadOptimization_2D.m.md",
-    "Coding/Plotting",
-    "Coding/Nelder/testgeneratesimpleX.m.md",
-    "Coding/Nelder/plot2VarFunction.m.md",
-    "Coding/Nelder/NelderMeadOptimization2D.m.md",
-    "Coding/Nelder/Assignment2.m.md",
-    "Coding/Nelder/generatesimpleX_2D.m.md",
-    "Coding/Nelder/generatesimpleX.m.md",
-    "Coding/Nelder/Assignment1.m.md",
-    "Coding/Kmeans/m00.m.md",
-    "Coding/Kmeans/ToImplement03_ComputeCentroidOfEachCluster.m.md",
-    "Coding/Kmeans/ToImplement02_AssignSamplesToClosestCluster.m.md",
-    "Coding/Kmeans/ToImplement01_ChooseRandomInitialCentroids.m.md",
-    "Coding/Kmeans/m04_optional_compressimagewkmeans.m.md",
-<<<<<<< HEAD
-    "Coding/Kmeans/m03_playwkmeans.m.md",
-=======
->>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
-    "Coding/Nelder",
-    "Coding/Kmeans",
-    "Coding",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
+    "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway- Biology and Pathophysiology.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 regulates the self-organized fate patterning of hESC-derived gastruloids.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP1 is essential for self-organized differentiation of PSCs.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP and PDZ Binding for control of hPSC Self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Human primed and naïve PSCs differentiate into TSCs.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP repression of WNT3 gene controls hESC differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TAZ Incorporation in the β-Catenin Destruction Complex Orchestrates the Wnt Response.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP-TEAD1 Control of cytoskeleton dynamics of human PSC mesoderm specification.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Wnt-YAP interactions in the neural fate of human pluripotent stem cells and the implications for neural organoid formation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Suppression of YAP safeguards human naive pluripotency.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Excitable Dynamics and Yap-Dependent Mechanical Cues Drive the Segmentation Clock.md",
     "Embryology+Somitogenesis/Hippo Pathway/TAZ/TAZ.canvas",
-    "Embryology+Somitogenesis/Hippo Pathway/TAZ",
-    "Embryology+Somitogenesis/Somitogenesis/Hes7",
-    "Embryology+Somitogenesis/Somitogenesis",
-    "Embryology+Somitogenesis/X-chrom inactivation",
-    "Embryology+Somitogenesis/Blastoids",
-    "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
-    "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
-    "Embryology+Somitogenesis/Protocols/hPSC culture 2013.jpeg",
-    "Qual Project/Aim 2.canvas",
-    "Qual Project/Aim 1.canvas",
-    "Innate Immunity/PRRs Table 1.png",
-    "Innate Immunity/MAVS Table 1.png",
-    "Innate Immunity/PRRs Table 2.png",
-    "Innate Immunity/Pasted image 20230320165538.png"
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Modulating YAP1 to Specify the Anterior PS.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Small Molecule Inhibiting nuclear localization of YAP.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Interplay between Notch and YAP.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Inhibitors Targeting YAP in Gastric Cancer.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/YAP in differentiation (Mind Map).canvas",
+    "Early Human Development (Week 1-3).md"
   ]
 }
