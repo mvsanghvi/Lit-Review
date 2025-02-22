@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab9b91f0accabeef",
+            "id": "d09fd7178603e7ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/myfactorial.m.md",
+                "file": "Pluripotentcy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de0a5beeb682d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hippo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6b8c5dbf037f1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSM, somites, and somitogenesis.md",
                 "mode": "source",
                 "source": false
               },
@@ -119,6 +143,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Hippo.md",
+>>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +165,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Hippo.md",
+>>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -165,12 +197,17 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
+=======
+                "file": "Hippo.md"
+              }
+>>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
             }
           }
         ]
@@ -190,6 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "6a1ec71ac81b251b",
   "lastOpenFiles": [
     "Coding/Nelder_Mead_practice2.m.md",
@@ -200,6 +238,20 @@
     "Coding/myfactorial.m.md",
     "Coding/meanval.m.md",
     "Coding/myrec.m.md",
+=======
+  "active": "1de0a5beeb682d97",
+  "lastOpenFiles": [
+    "PSM, somites, and somitogenesis.md",
+    "Embryology+Somitogenesis/Week 3.md",
+    "Early Human Development (Week 1-5).md",
+    "Embryology+Somitogenesis/Week 4.md",
+    "Embryology+Somitogenesis/Week 5.md",
+    "Embryology+Somitogenesis/Week 2.md",
+    "Embryology+Somitogenesis/Week 1.md",
+    "Pluripotentcy.md",
+    "Hippo.md",
+    "Thesis",
+>>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
     "Coding/Plotting/drawsquare.m.md",
     "Coding/Plotting/calPI_02052025.m.md",
     "Coding/Plotting/Calculatepi_solution.m.md",
@@ -218,7 +270,10 @@
     "Coding/Kmeans/ToImplement02_AssignSamplesToClosestCluster.m.md",
     "Coding/Kmeans/ToImplement01_ChooseRandomInitialCentroids.m.md",
     "Coding/Kmeans/m04_optional_compressimagewkmeans.m.md",
+<<<<<<< HEAD
     "Coding/Kmeans/m03_playwkmeans.m.md",
+=======
+>>>>>>> 57f83c89b90daf1cc75ac0b44c26a51076570311
     "Coding/Nelder",
     "Coding/Kmeans",
     "Coding",
@@ -232,7 +287,6 @@
     "Embryology+Somitogenesis/Protocols/hPSC culture timeline.jpg",
     "Embryology+Somitogenesis/Protocols/Evolution of hPSC culture.canvas",
     "Embryology+Somitogenesis/Protocols/hPSC culture 2013.jpeg",
-    "Embryology+Somitogenesis/Hippo Pathway/YAP",
     "Qual Project/Aim 2.canvas",
     "Qual Project/Aim 1.canvas",
     "Innate Immunity/PRRs Table 1.png",
