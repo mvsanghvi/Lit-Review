@@ -11,6 +11,7 @@
 	- If the pathway is not turned on (no signaling cues from the environment), YAP/TAZ translocates to the nucleus and binds to the TEAD family to drive target gene expression
 - Non-canonical aspects of the Hippo Pathway include
 	- CDK7
+- [[The Hippo signaling pathway and stem cell biology.]]
 <u>YAP</u>
 - [[Wnt-YAP interactions in the neural fate of human pluripotent stem cells and the implications for neural organoid formation]]
 - [[YAP enhances human neural crest cell fate and migration]]
