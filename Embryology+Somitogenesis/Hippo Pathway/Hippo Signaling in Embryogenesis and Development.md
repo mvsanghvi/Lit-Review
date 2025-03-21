@@ -3,7 +3,7 @@ Zhengming Wu and Kun-Liang Guan
 Jan 2021 https://doi.org/10.1016/j.tibs.2020.08.008
 
 # Hippo Pathway and its Role in Organ size Control
-- Hippo is highly conserved in mammals and controls development and tissue/organ homeostasis
+- [[The Hippo Pathway]] is highly conserved in mammals and controls development and tissue/organ homeostasis
 - Core components include a kinase cascade and a transcription module
 - Cascade functions to inhibit the transcription module that represents the major functional output of the Hippo pathway thereby inhibiting cell/tissue growth
 - Hippo pathway responds to diverse signals to control cell growth, differentiation, tissue/organ development, and homeostasis:
