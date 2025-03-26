@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryology+Somitogenesis/Hippo Pathway/Context-dependent transcriptional regulations of YAP_TAZ in stem cell and differentiation.md",
+                "file": "Embryology+Somitogenesis/Hippo Pathway/YAP/Regulation and mechanism of YAP_TAZ in the mechanical microenvironment of stem cells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context-dependent transcriptional regulations of YAP_TAZ in stem cell and differentiation"
+              "title": "Regulation and mechanism of YAP_TAZ in the mechanical microenvironment of stem cells"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "b54fbe494fd08c99",
   "lastOpenFiles": [
-    "Embryology+Somitogenesis/Hippo Pathway/Transcriptional analysis of pluripotency reveals the Hippo pathway as a barrier to reprogramming.md",
     "Embryology+Somitogenesis/Hippo Pathway/Context-dependent transcriptional regulations of YAP_TAZ in stem cell and differentiation.md",
+    "Embryology+Somitogenesis/Hippo Pathway/YAP/Regulation and mechanism of YAP_TAZ in the mechanical microenvironment of stem cells.md",
+    "Embryology+Somitogenesis/Hippo Pathway/Transcriptional analysis of pluripotency reveals the Hippo pathway as a barrier to reprogramming.md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo signaling pathway and stem cell biology..md",
     "Embryology+Somitogenesis/Hippo Pathway/The Hippo Pathway.md",
     "Embryology+Somitogenesis/Hippo Pathway/Hippo Signaling in mammalian Stem cells.md",
@@ -203,7 +204,6 @@
     "Coding/Plotting/drawsquare.m.md",
     "Coding/Plotting/calPI_02052025.m.md",
     "Coding/Plotting/Calculatepi_solution.m.md",
-    "Coding/Plotting/Calculatepi.m.md",
     "Coding/Plotting",
     "Coding/Nelder",
     "Coding/Kmeans",
